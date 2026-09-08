@@ -2,6 +2,7 @@ name: AI 日报每日更新
 
 on:
   schedule:
+    # UTC 02:00 = 北京时间 10:00
     - cron: "0 2 * * *"
   workflow_dispatch:
 
@@ -27,3 +28,11 @@ jobs:
             git commit -m "chore: 每日 AI 日报 $(date -u +%F)"
             git push
           fi
+
+      - name: 推送到微信（Server酱）
+        if: ${{ secrets.PUSH_KEY != '' }}
+        run: |
+          TOTAL=$(node -p "require('./build/data.json').items.length")
+          curl -sS "https://sctapi.ftqq.com/${{ secrets.PUSH_KEY }}.send" \
+            --data-urlencode "title=今日 AI 日报已就绪（${TOTAL} 条）" \
+            --data-urlencode "desp=点开就看：https://lq2368647453.github.io/ai-daily-briefing/"
