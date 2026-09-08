@@ -152,8 +152,10 @@ async function upsertFile(filePath, localPath, message) {
   if (doAll) {
     for (const f of [
       "build/data.json", "build/template.html", "build/render.js", "build/fetch.js",
+      // 注意：.github/workflows/** 只能通过网页端维护 —— GitHub 要求 token 具备 `workflow`
+      // 权限才允许写这些路径，否则一律返回 404（连 Git Data API 也绕不过，已实测）。
       "build/actions-build.js", "build/publish.js", "build/README.md",
-      ".github/workflows/daily.yml", ".gitignore"
+      ".gitignore"
     ]) {
       const p = path.join(root, f);
       if (fs.existsSync(p)) {
