@@ -75,6 +75,28 @@ node build/publish.js --all    # 连 build/ 源文件一起推（备份）
 - 版块 id 不在 sections 里 → 报错中止
 - `time` 不是合法 ISO 时间、链接不是 http(s) → 报错中止
 
+## 微信推送（Server酱）
+
+密钥用 Actions Secret 存，不写进 yml（仓库是 public 的）：
+
+```bash
+node build/set-secret.js SCTxxxxx     # 加密后写入 PUSH_KEY，值在仓库里不可读
+```
+
+然后**手动**给 `.github/workflows/daily.yml` 末尾追加（网页端编辑，缩进与 `steps:` 下的 `- uses:` 对齐）：
+
+```yaml
+      - name: 推送到微信（Server酱）
+        if: ${{ secrets.PUSH_KEY != '' }}
+        run: |
+          curl -sS "https://sctapi.ftqq.com/${{ secrets.PUSH_KEY }}.send" \
+            --data-urlencode "title=AI 日报晨报已更新" \
+            --data-urlencode "desp=今日 AI 日报已上线：https://lq2368647453.github.io/ai-daily-briefing/"
+```
+
+> 坑：`if:` 里**不能**用同一步骤 `env:` 映射的 secret —— 那样永远为空、步骤永远被跳过。
+> 必须直接在 `if:` 里写 `secrets.XXX`（`secrets` 上下文在 `if` 中可用）。
+
 ## 每周专题
 
 往 `data.json` 的 `weekly` 数组加对象即可，空数组则版块自动隐藏：
