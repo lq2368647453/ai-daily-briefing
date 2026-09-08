@@ -89,10 +89,13 @@ node build/set-secret.js SCTxxxxx     # 加密后写入 PUSH_KEY，值在仓库�
       - name: 推送到微信（Server酱）
         if: ${{ secrets.PUSH_KEY != '' }}
         run: |
+          TOTAL=$(node -p "require('./build/data.json').items.length")
           curl -sS "https://sctapi.ftqq.com/${{ secrets.PUSH_KEY }}.send" \
-            --data-urlencode "title=AI 日报晨报已更新" \
-            --data-urlencode "desp=今日 AI 日报已上线：https://lq2368647453.github.io/ai-daily-briefing/"
+            --data-urlencode "title=今日 AI 日报已就绪（${TOTAL} 条）" \
+            --data-urlencode "desp=点开就看：https://lq2368647453.github.io/ai-daily-briefing/"
 ```
+
+完整可直接替换的版本见 `.github/workflows/daily.yml`。
 
 > 坑：`if:` 里**不能**用同一步骤 `env:` 映射的 secret —— 那样永远为空、步骤永远被跳过。
 > 必须直接在 `if:` 里写 `secrets.XXX`（`secrets` 上下文在 `if` 中可用）。
