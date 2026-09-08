@@ -65,18 +65,19 @@ async function call(method, url, body) {
   return json;
 }
 
-/** 创建或更新单个文件 */
+/** 创建或更新单个文件（路径按段编码，保留 / 分隔符） */
 async function upsertFile(filePath, localPath, message) {
   const content = fs.readFileSync(localPath);
   const b64 = content.toString("base64");
+  const apiPath = filePath.split("/").map(encodeURIComponent).join("/");
   let sha = null;
   try {
-    const cur = await call("GET", `/repos/${REPO}/contents/${encodeURIComponent(filePath)}`);
+    const cur = await call("GET", `/repos/${REPO}/contents/${apiPath}`);
     sha = cur && cur.sha;
   } catch (e) {
     if (e.status !== 404) throw e;
   }
-  const res = await call("PUT", `/repos/${REPO}/contents/${encodeURIComponent(filePath)}`, {
+  const res = await call("PUT", `/repos/${REPO}/contents/${apiPath}`, {
     message,
     content: b64,
     ...(sha ? { sha } : {})
