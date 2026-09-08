@@ -156,7 +156,7 @@ function shortSource(name) {
       sourceName: "AI HOT",
       sourceUrl: data.reportLink
     },
-    sections: JSON.parse(fs.readFileSync(DATA, "utf8")).sections,
+    sections,
     items: picked,
     weekly
   };
