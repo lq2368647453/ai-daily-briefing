@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-09",
-    "weekday": "星期三",
-    "scope": "内容取自 AI HOT 日报（2026-09-08）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-09-10",
+    "weekday": "星期四",
+    "scope": "内容取自 AI HOT 日报（2026-09-10）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-08"
+    "sourceUrl": "https://aihot.news/daily/2026-09-10"
   },
   "sections": [
     {
@@ -46,6 +46,15 @@
   "items": [
     {
       "sec": "models",
+      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+      "plain": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供…",
+      "source": "OpenAI",
+      "time": "2026-09-09T21:59:51.764Z",
+      "aihot": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
+      "original": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    {
+      "sec": "models",
       "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
       "plain": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI…",
       "source": "The Decoder",
@@ -73,15 +82,6 @@
     },
     {
       "sec": "models",
-      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
-      "plain": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro…",
-      "source": "Simon Willison 博客",
-      "time": "2026-09-03T20:29:36.510Z",
-      "aihot": "https://aihot.news/items/cmtlzasi70s61row5vze3ldjh",
-      "original": "https://simonwillison.net/2026/Sep/3/gpt6-astra"
-    },
-    {
-      "sec": "models",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
       "plain": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro…",
       "source": "X：OpenAI (@OpenAI)",
@@ -91,57 +91,93 @@
     },
     {
       "sec": "products",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "plain": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev…",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "time": "2026-09-05T21:59:13.167Z",
-      "aihot": "https://aihot.news/items/cmtoxdsbb032sromz8bcrhsii",
-      "original": "https://x.com/testingcatalog/status/2096350628054176240"
+      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
+      "plain": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏…",
+      "source": "Apple",
+      "time": "2026-09-09T18:58:34.686Z",
+      "aihot": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+      "original": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo"
     },
     {
       "sec": "products",
-      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-      "plain": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi…",
-      "source": "Hugging Face",
-      "time": "2026-09-03T11:29:42.806Z",
-      "aihot": "https://aihot.news/items/cmtlg0ht406hlrow5clznd0ld",
-      "original": "https://huggingface.co/blog/funes"
+      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+      "plain": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max…",
+      "source": "Apple",
+      "time": "2026-09-09T17:58:34.548Z",
+      "aihot": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
+      "original": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max"
     },
     {
       "sec": "products",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "plain": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力…",
-      "source": "X：Claude (@claudeai)",
-      "time": "2026-09-02T19:15:00.970Z",
-      "aihot": "https://aihot.news/items/cmtkh71ky017vrolly7trswyx",
-      "original": "https://x.com/claudeai/status/2095226833293685100"
+      "title": "OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留",
+      "plain": "OpenRouter 推出 US In-Region Routing，请求经 us.openrouter…",
+      "source": "OpenRouter",
+      "time": "2026-09-09T14:27:50.909Z",
+      "aihot": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh",
+      "original": "https://openrouter.ai/blog/announcements/us-in-region-routing"
     },
     {
       "sec": "products",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-      "plain": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3…",
-      "source": "Google DeepMind",
-      "time": "2026-09-01T17:30:33.159Z",
-      "aihot": "https://aihot.news/items/cmtiy0v6k01dproel63pg10os",
-      "original": "https://deepmind.google/blog/introducing-agentic-video-in-gemini"
+      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
+      "plain": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测…",
+      "source": "Apple",
+      "time": "2026-09-09T17:58:34.548Z",
+      "aihot": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
+      "original": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system"
     },
     {
       "sec": "products",
-      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-      "plain": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面…",
-      "source": "xAI",
-      "time": "2026-09-03T18:02:33.253Z",
-      "aihot": "https://aihot.news/items/cmtlu23pp0ng4row5uxwtpazb",
-      "original": "https://x.ai/news/designing-grok-bot"
+      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "plain": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修…",
+      "source": "公众号",
+      "time": "2026-09-09T04:00:13.177Z",
+      "aihot": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
+      "original": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98"
     },
     {
       "sec": "industry",
-      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-      "plain": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合…",
-      "source": "The Decoder",
-      "time": "2026-09-07T18:27:10.491Z",
-      "aihot": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2",
-      "original": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk"
+      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+      "plain": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax…",
+      "source": "X：X.PIN (@thexpin)",
+      "time": "2026-09-09T09:27:09.511Z",
+      "aihot": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+      "original": "https://x.com/thexpin/status/2097615997616406833"
+    },
+    {
+      "sec": "industry",
+      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+      "plain": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex…",
+      "source": "IT之家",
+      "time": "2026-09-09T09:59:12.629Z",
+      "aihot": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+      "original": "https://www.ithome.com/1/000/353.htm"
+    },
+    {
+      "sec": "industry",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "plain": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌…",
+      "source": "IT之家",
+      "time": "2026-09-09T06:59:12.167Z",
+      "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+      "original": "https://www.ithome.com/1/000/188.htm"
+    },
+    {
+      "sec": "industry",
+      "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+      "plain": "《The Intercept》通过 FOIA 诉讼获得的文件显示…",
+      "source": "IT之家",
+      "time": "2026-09-09T08:59:12.201Z",
+      "aihot": "https://aihot.news/items/cmttva2tg0oezrofpagfj7986",
+      "original": "https://www.ithome.com/1/000/277.htm"
+    },
+    {
+      "sec": "industry",
+      "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
+      "plain": "OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加…",
+      "source": "X：Greg Brockman (@gdb)",
+      "time": "2026-09-09T19:37:37.825Z",
+      "aihot": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej",
+      "original": "https://x.com/gdb/status/2097769891013280241"
     },
     {
       "sec": "industry",
@@ -153,40 +189,13 @@
       "original": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
     },
     {
-      "sec": "industry",
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "plain": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声…",
-      "source": "IT之家",
-      "time": "2026-09-07T07:56:39.787Z",
-      "aihot": "https://aihot.news/items/cmtqy60930445ro7r5nodgoig",
-      "original": "https://www.ithome.com/0/999/313.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "plain": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演…",
-      "source": "IT之家",
-      "time": "2026-09-04T23:30:17.725Z",
-      "aihot": "https://aihot.news/items/cmtnl720g03olroqsrkmbl292",
-      "original": "https://www.ithome.com/0/998/630.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-      "plain": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站…",
-      "source": "The Verge",
-      "time": "2026-09-05T11:32:34.167Z",
-      "aihot": "https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s",
-      "original": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
-    },
-    {
-      "sec": "industry",
-      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-      "plain": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30…",
-      "source": "IT之家",
-      "time": "2026-09-05T08:30:20.924Z",
-      "aihot": "https://aihot.news/items/cmto4hkdv01leromx37jl2511",
-      "original": "https://www.ithome.com/0/998/758.htm"
+      "sec": "papers",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+      "plain": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估…",
+      "source": "Anthropic",
+      "time": "2026-09-09T19:28:17.117Z",
+      "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+      "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
       "sec": "papers",
@@ -199,6 +208,15 @@
     },
     {
       "sec": "papers",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+      "plain": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答…",
+      "source": "OpenAI",
+      "time": "2026-09-08T18:13:41.404Z",
+      "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
+      "original": "https://openai.com/index/navier-stokes-solution"
+    },
+    {
+      "sec": "papers",
       "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
       "plain": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成…",
       "source": "Anthropic",
@@ -207,76 +225,58 @@
       "original": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
     },
     {
-      "sec": "papers",
-      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-      "plain": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-01T19:48:18.025Z",
-      "aihot": "https://aihot.news/items/cmtj2y06p04bwroh9d8oszszo",
-      "original": "https://x.com/rohanpaul_ai/status/2094873718237565197"
-    },
-    {
-      "sec": "papers",
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-      "plain": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-04T00:32:03.496Z",
-      "aihot": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz",
-      "original": "https://arcprize.org/blog/astra"
+      "sec": "tips",
+      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
+      "plain": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出…",
+      "source": "Hacker News",
+      "time": "2026-09-09T17:22:29.350Z",
+      "aihot": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
+      "original": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
     },
     {
       "sec": "tips",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "plain": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity…",
+      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+      "plain": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Ast…",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "time": "2026-09-09T09:39:39.832Z",
+      "aihot": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb",
+      "original": "https://x.com/Thom_Wolf/status/2097615465698713666"
+    },
+    {
+      "sec": "tips",
+      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+      "plain": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问…",
+      "source": "Hacker News 热门",
+      "time": "2026-09-09T07:27:38.083Z",
+      "aihot": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1",
+      "original": "https://simonwillison.net/2026/Sep/8/on-navier-stokes"
+    },
+    {
+      "sec": "tips",
+      "title": "GPT-6 Astra推理等级怎么选才最省Token",
+      "plain": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义…",
       "source": "公众号",
-      "time": "2026-09-07T00:10:30.732Z",
-      "aihot": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621"
+      "time": "2026-09-09T00:20:10.825Z",
+      "aihot": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b"
     },
     {
       "sec": "tips",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-      "plain": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol…",
-      "source": "The Decoder",
-      "time": "2026-09-04T17:32:49.949Z",
-      "aihot": "https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9",
-      "original": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
+      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+      "plain": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformativ…",
+      "source": "Anthropic",
+      "time": "2026-09-09T13:27:40.545Z",
+      "aihot": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
+      "original": "https://www.anthropic.com/institute/econ-scenarios"
     },
     {
       "sec": "tips",
-      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-      "plain": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 bl…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-08T07:27:15.232Z",
-      "aihot": "https://aihot.news/items/cmtscjydz01garow6gi54pft9",
-      "original": "https://cims.nyu.edu/~tristanb/statement.pdf"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "plain": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-06T18:40:23.942Z",
-      "aihot": "https://aihot.news/items/cmtq5pxc10275roiufscxyie4",
-      "original": "https://x.com/rohanpaul_ai/status/2096665545190043737"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-      "plain": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成…",
-      "source": "OpenAI",
-      "time": "2026-09-06T15:59:14.286Z",
-      "aihot": "https://aihot.news/items/cmtpzyon6019iroemu68v4s2v",
-      "original": "https://openai.com/index/research-acceleration-view-inside-openai"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-      "plain": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷…",
-      "source": "Simon Willison 博客",
-      "time": "2026-09-04T18:29:49.613Z",
-      "aihot": "https://aihot.news/items/cmtnagm2q01m9rog1y8p2sotq",
-      "original": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"
+      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+      "plain": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++…",
+      "source": "Mistral AI",
+      "time": "2026-09-09T18:59:11.761Z",
+      "aihot": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
+      "original": "https://mistral.ai/news/legacy-code-modernization"
     }
   ],
   "weekly": []
