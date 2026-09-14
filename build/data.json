@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-13",
-    "weekday": "星期日",
-    "scope": "内容取自 AI HOT 日报（2026-09-13）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-09-14",
+    "weekday": "星期一",
+    "scope": "内容取自 AI HOT 日报（2026-09-14）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-13"
+    "sourceUrl": "https://aihot.news/daily/2026-09-14"
   },
   "sections": [
     {
@@ -46,15 +46,6 @@
   "items": [
     {
       "sec": "models",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "plain": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG…",
-      "source": "Suno",
-      "time": "2026-09-12T16:39:24.855Z",
-      "aihot": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-      "original": "https://suno.com/blog/introducing-v6"
-    },
-    {
-      "sec": "models",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
       "plain": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash…",
       "source": "MarkTechPost",
@@ -88,6 +79,15 @@
       "time": "2026-09-10T08:40:23.050Z",
       "aihot": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
       "original": "https://x.com/kimmonismus/status/2097962333767102665"
+    },
+    {
+      "sec": "models",
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "plain": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型…",
+      "source": "DeepSeek",
+      "time": "2026-09-10T05:58:04.695Z",
+      "aihot": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
+      "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
     },
     {
       "sec": "products",
@@ -136,12 +136,12 @@
     },
     {
       "sec": "industry",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "plain": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobil…",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "plain": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火…",
       "source": "Hacker News",
-      "time": "2026-09-12T04:25:01.481Z",
-      "aihot": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-      "original": "https://www.minitap.ai/blog/i-expected-better-from-google"
+      "time": "2026-09-13T16:40:12.008Z",
+      "aihot": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "original": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
     },
     {
       "sec": "industry",
@@ -190,15 +190,6 @@
     },
     {
       "sec": "papers",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "plain": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGe…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-12T00:28:47.494Z",
-      "aihot": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "original": "https://www.rubyhack.ai/"
-    },
-    {
-      "sec": "papers",
       "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
       "plain": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答…",
       "source": "OpenAI",
@@ -225,22 +216,31 @@
       "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
-      "sec": "tips",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-      "plain": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文…",
-      "source": "X：Sam Altman (@sama)",
-      "time": "2026-09-12T16:55:12.271Z",
-      "aihot": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "original": "https://x.com/sama/status/2098811563415150910"
+      "sec": "papers",
+      "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
+      "plain": "OpenAI 宣布给出 Navier-Stokes 千禧年大奖难题的一个解…",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "time": "2026-09-08T21:09:39.332Z",
+      "aihot": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je",
+      "original": "https://x.com/EMostaque/status/2097427772285079873"
     },
     {
       "sec": "tips",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-      "plain": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace t…",
-      "source": "X：Thariq (@trq212)",
-      "time": "2026-09-12T20:07:37.646Z",
-      "aihot": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
-      "original": "https://x.com/trq212/status/2098860941391872132"
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "plain": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩…",
+      "source": "MarkTechPost",
+      "time": "2026-09-13T06:09:58.347Z",
+      "aihot": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "original": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"
+    },
+    {
+      "sec": "tips",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+      "plain": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章…",
+      "source": "Gary Marcus",
+      "time": "2026-09-13T19:02:16.596Z",
+      "aihot": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
+      "original": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario"
     },
     {
       "sec": "tips",
@@ -271,12 +271,12 @@
     },
     {
       "sec": "tips",
-      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-      "plain": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出…",
-      "source": "Hacker News",
-      "time": "2026-09-09T17:22:29.350Z",
-      "aihot": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
-      "original": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "plain": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元…",
+      "source": "Hacker News 热门",
+      "time": "2026-09-12T17:09:22.230Z",
+      "aihot": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
+      "original": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     }
   ],
   "weekly": []
