@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-14",
-    "weekday": "星期一",
-    "scope": "内容取自 AI HOT 日报（2026-09-14）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-09-15",
+    "weekday": "星期二",
+    "scope": "内容取自 AI HOT 日报（2026-09-15）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-14"
+    "sourceUrl": "https://aihot.news/daily/2026-09-15"
   },
   "sections": [
     {
@@ -46,21 +46,30 @@
   "items": [
     {
       "sec": "models",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "plain": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开…",
+      "source": "公众号",
+      "time": "2026-09-14T10:00:40.191Z",
+      "aihot": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+      "original": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448"
+    },
+    {
+      "sec": "models",
+      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+      "plain": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B…",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "time": "2026-09-14T16:36:19.273Z",
+      "aihot": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
+      "original": "https://x.com/SiliconFlowAI/status/2099536759168352634"
+    },
+    {
+      "sec": "models",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
       "plain": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash…",
       "source": "MarkTechPost",
       "time": "2026-09-10T07:31:07.541Z",
       "aihot": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
       "original": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse"
-    },
-    {
-      "sec": "models",
-      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-      "plain": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供…",
-      "source": "OpenAI",
-      "time": "2026-09-09T21:59:51.764Z",
-      "aihot": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
-      "original": "https://openai.com/index/gpt-6-astra-next-generation-work"
     },
     {
       "sec": "models",
@@ -81,13 +90,13 @@
       "original": "https://x.com/kimmonismus/status/2097962333767102665"
     },
     {
-      "sec": "models",
-      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-      "plain": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型…",
-      "source": "DeepSeek",
-      "time": "2026-09-10T05:58:04.695Z",
-      "aihot": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
-      "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
+      "sec": "products",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "plain": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解…",
+      "source": "Apple",
+      "time": "2026-09-14T18:00:58.336Z",
+      "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+      "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here"
     },
     {
       "sec": "products",
@@ -126,13 +135,13 @@
       "original": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
     },
     {
-      "sec": "products",
-      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-      "plain": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics…",
-      "source": "X：Google AI (@GoogleAI)",
-      "time": "2026-09-10T15:46:00.255Z",
-      "aihot": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
-      "original": "https://x.com/GoogleAI/status/2098072879480947085"
+      "sec": "industry",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "plain": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标…",
+      "source": "The Decoder",
+      "time": "2026-09-14T16:15:57.841Z",
+      "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo"
     },
     {
       "sec": "industry",
@@ -151,15 +160,6 @@
       "time": "2026-09-08T17:57:22.807Z",
       "aihot": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
       "original": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
-    },
-    {
-      "sec": "industry",
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "plain": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声…",
-      "source": "IT之家",
-      "time": "2026-09-07T07:56:39.787Z",
-      "aihot": "https://aihot.news/items/cmtqy60930445ro7r5nodgoig",
-      "original": "https://www.ithome.com/0/999/313.htm"
     },
     {
       "sec": "industry",
@@ -190,6 +190,15 @@
     },
     {
       "sec": "papers",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "plain": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-14T17:51:06.246Z",
+      "aihot": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+      "original": "https://x.com/arena/status/2099549108013006958"
+    },
+    {
+      "sec": "papers",
       "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
       "plain": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答…",
       "source": "OpenAI",
@@ -216,13 +225,49 @@
       "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
-      "sec": "papers",
-      "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
-      "plain": "OpenAI 宣布给出 Navier-Stokes 千禧年大奖难题的一个解…",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "time": "2026-09-08T21:09:39.332Z",
-      "aihot": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je",
-      "original": "https://x.com/EMostaque/status/2097427772285079873"
+      "sec": "tips",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+      "plain": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意…",
+      "source": "The Verge",
+      "time": "2026-09-14T23:47:11.878Z",
+      "aihot": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+      "original": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+    },
+    {
+      "sec": "tips",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "plain": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5…",
+      "source": "Hacker News",
+      "time": "2026-09-14T21:43:10.995Z",
+      "aihot": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
+      "original": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
+    },
+    {
+      "sec": "tips",
+      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
+      "plain": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工…",
+      "source": "Tomer Tunguz 博客",
+      "time": "2026-09-14T17:03:10.543Z",
+      "aihot": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+      "original": "https://tomtunguz.com/what-does-the-pause-mean"
+    },
+    {
+      "sec": "tips",
+      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+      "plain": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍…",
+      "source": "Claude",
+      "time": "2026-09-14T19:15:56.861Z",
+      "aihot": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+      "original": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic"
+    },
+    {
+      "sec": "tips",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+      "plain": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 …",
+      "source": "Hacker News",
+      "time": "2026-09-14T13:43:07.935Z",
+      "aihot": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
+      "original": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
     },
     {
       "sec": "tips",
@@ -232,51 +277,6 @@
       "time": "2026-09-13T06:09:58.347Z",
       "aihot": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
       "original": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"
-    },
-    {
-      "sec": "tips",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "plain": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章…",
-      "source": "Gary Marcus",
-      "time": "2026-09-13T19:02:16.596Z",
-      "aihot": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-      "original": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario"
-    },
-    {
-      "sec": "tips",
-      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-      "plain": "Nathan Lambert 评价 Nvidia 收购 HuggingFace…",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "time": "2026-09-09T17:57:09.736Z",
-      "aihot": "https://aihot.news/items/cmtuehvvi18z8rofpk5e33hrk",
-      "original": "https://x.com/natolambert/status/2097745018421236154"
-    },
-    {
-      "sec": "tips",
-      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-      "plain": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基…",
-      "source": "The Decoder",
-      "time": "2026-09-10T16:58:28.396Z",
-      "aihot": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
-      "original": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark"
-    },
-    {
-      "sec": "tips",
-      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-      "plain": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事…",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "time": "2026-09-09T19:28:28.231Z",
-      "aihot": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
-      "original": "https://x.com/AnthropicAI/status/2097762642958135398"
-    },
-    {
-      "sec": "tips",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "plain": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-12T17:09:22.230Z",
-      "aihot": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
-      "original": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     }
   ],
   "weekly": []
