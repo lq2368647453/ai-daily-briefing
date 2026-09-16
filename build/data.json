@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-15",
-    "weekday": "星期二",
-    "scope": "内容取自 AI HOT 日报（2026-09-15）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-09-16",
+    "weekday": "星期三",
+    "scope": "内容取自 AI HOT 日报（2026-09-16）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-15"
+    "sourceUrl": "https://aihot.news/daily/2026-09-16"
   },
   "sections": [
     {
@@ -46,21 +46,30 @@
   "items": [
     {
       "sec": "models",
-      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-      "plain": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开…",
-      "source": "公众号",
-      "time": "2026-09-14T10:00:40.191Z",
-      "aihot": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-      "original": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448"
+      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "plain": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3…",
+      "source": "Google DeepMind",
+      "time": "2026-09-15T17:17:49.795Z",
+      "aihot": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+      "original": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
     },
     {
       "sec": "models",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-      "plain": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B…",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "time": "2026-09-14T16:36:19.273Z",
-      "aihot": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
-      "original": "https://x.com/SiliconFlowAI/status/2099536759168352634"
+      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "plain": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的…",
+      "source": "公众号",
+      "time": "2026-09-15T15:11:04.702Z",
+      "aihot": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f"
+    },
+    {
+      "sec": "models",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "plain": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS…",
+      "source": "公众号",
+      "time": "2026-09-15T07:40:58.299Z",
+      "aihot": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522"
     },
     {
       "sec": "models",
@@ -81,22 +90,22 @@
       "original": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents"
     },
     {
-      "sec": "models",
-      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-      "plain": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生…",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-09-10T08:40:23.050Z",
-      "aihot": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
-      "original": "https://x.com/kimmonismus/status/2097962333767102665"
+      "sec": "products",
+      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+      "plain": "Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口…",
+      "source": "Google Blog",
+      "time": "2026-09-15T16:17:57.554Z",
+      "aihot": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+      "original": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language"
     },
     {
       "sec": "products",
-      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-      "plain": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解…",
-      "source": "Apple",
-      "time": "2026-09-14T18:00:58.336Z",
-      "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
-      "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here"
+      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+      "plain": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成…",
+      "source": "Claude",
+      "time": "2026-09-15T17:21:21.489Z",
+      "aihot": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "original": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs"
     },
     {
       "sec": "products",
@@ -109,6 +118,15 @@
     },
     {
       "sec": "products",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "plain": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解…",
+      "source": "Apple",
+      "time": "2026-09-14T18:00:58.336Z",
+      "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+      "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here"
+    },
+    {
+      "sec": "products",
       "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
       "plain": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作…",
       "source": "Cursor Blog",
@@ -117,31 +135,13 @@
       "original": "https://cursor.com/blog/projects"
     },
     {
-      "sec": "products",
-      "title": "OpenRouter 推出 shell 沙箱工具与 Files API，任何模型可在托管 Linux 容器中执行命令",
-      "plain": "OpenRouter 发布 openrouter：shell 服务端工具和 Files API…",
-      "source": "OpenRouter",
-      "time": "2026-09-09T15:27:51.366Z",
-      "aihot": "https://aihot.news/items/cmtu95yrj13zjrofpyi8l8y89",
-      "original": "https://openrouter.ai/blog/announcements/shell-tool"
-    },
-    {
-      "sec": "products",
-      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
-      "plain": "OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说…",
-      "source": "OpenAI",
-      "time": "2026-09-10T17:16:06.503Z",
-      "aihot": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa",
-      "original": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-    },
-    {
       "sec": "industry",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "plain": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标…",
-      "source": "The Decoder",
-      "time": "2026-09-14T16:15:57.841Z",
-      "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
-      "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo"
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "plain": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB…",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "time": "2026-09-15T20:43:13.349Z",
+      "aihot": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
+      "original": "https://x.com/AravSrinivas/status/2099957318935028173"
     },
     {
       "sec": "industry",
@@ -151,15 +151,6 @@
       "time": "2026-09-13T16:40:12.008Z",
       "aihot": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
       "original": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
-    },
-    {
-      "sec": "industry",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-      "plain": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge…",
-      "source": "TechCrunch",
-      "time": "2026-09-08T17:57:22.807Z",
-      "aihot": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
-      "original": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
     },
     {
       "sec": "industry",
@@ -189,22 +180,13 @@
       "original": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
     },
     {
-      "sec": "papers",
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-      "plain": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-14T17:51:06.246Z",
-      "aihot": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
-      "original": "https://x.com/arena/status/2099549108013006958"
-    },
-    {
-      "sec": "papers",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-      "plain": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答…",
-      "source": "OpenAI",
-      "time": "2026-09-08T18:13:41.404Z",
-      "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-      "original": "https://openai.com/index/navier-stokes-solution"
+      "sec": "industry",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "plain": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标…",
+      "source": "The Decoder",
+      "time": "2026-09-14T16:15:57.841Z",
+      "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo"
     },
     {
       "sec": "papers",
@@ -225,58 +207,76 @@
       "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
-      "sec": "tips",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-      "plain": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意…",
-      "source": "The Verge",
-      "time": "2026-09-14T23:47:11.878Z",
-      "aihot": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-      "original": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+      "sec": "papers",
+      "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
+      "plain": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联…",
+      "source": "Anthropic",
+      "time": "2026-09-10T17:28:52.100Z",
+      "aihot": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
+      "original": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
+    },
+    {
+      "sec": "papers",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "plain": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-14T17:51:06.246Z",
+      "aihot": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+      "original": "https://x.com/arena/status/2099549108013006958"
     },
     {
       "sec": "tips",
-      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-      "plain": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5…",
-      "source": "Hacker News",
-      "time": "2026-09-14T21:43:10.995Z",
-      "aihot": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
-      "original": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
+      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+      "plain": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人…",
+      "source": "Pragmatic Engineer",
+      "time": "2026-09-15T15:56:28.910Z",
+      "aihot": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+      "original": "https://newsletter.pragmaticengineer.com/p/openai-software-factory"
     },
     {
       "sec": "tips",
-      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
-      "plain": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工…",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+      "plain": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免…",
+      "source": "The Decoder",
+      "time": "2026-09-15T09:19:47.577Z",
+      "aihot": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
+      "original": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
+    },
+    {
+      "sec": "tips",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "plain": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目…",
+      "source": "IT之家",
+      "time": "2026-09-15T12:24:10.728Z",
+      "aihot": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
+      "original": "https://www.ithome.com/1/002/750.htm"
+    },
+    {
+      "sec": "tips",
+      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+      "plain": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-15T21:21:06.645Z",
+      "aihot": "https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9",
+      "original": "https://x.com/arena/status/2099971741993050236"
+    },
+    {
+      "sec": "tips",
+      "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+      "plain": "Artificial Analysis 发布 Speech to Speech Index…",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "time": "2026-09-15T03:21:06.808Z",
+      "aihot": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc",
+      "original": "https://x.com/ArtificialAnlys/status/2099698254414029207"
+    },
+    {
+      "sec": "tips",
+      "title": "Vercel 将 inbound 销售团队从 10 人压缩至 1.25 人，AI 销售开发智能体年成本仅数千美元",
+      "plain": "Vercel COO Jeanne DeWitt Grosser 在 The Information 访谈中表示…",
       "source": "Tomer Tunguz 博客",
-      "time": "2026-09-14T17:03:10.543Z",
-      "aihot": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
-      "original": "https://tomtunguz.com/what-does-the-pause-mean"
-    },
-    {
-      "sec": "tips",
-      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-      "plain": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍…",
-      "source": "Claude",
-      "time": "2026-09-14T19:15:56.861Z",
-      "aihot": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
-      "original": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic"
-    },
-    {
-      "sec": "tips",
-      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-      "plain": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 …",
-      "source": "Hacker News",
-      "time": "2026-09-14T13:43:07.935Z",
-      "aihot": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
-      "original": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
-    },
-    {
-      "sec": "tips",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "plain": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩…",
-      "source": "MarkTechPost",
-      "time": "2026-09-13T06:09:58.347Z",
-      "aihot": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "original": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"
+      "time": "2026-09-15T23:03:22.332Z",
+      "aihot": "https://aihot.news/items/cmu3a2rht0goyrosayo2gs0nh",
+      "original": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr"
     }
   ],
   "weekly": []
