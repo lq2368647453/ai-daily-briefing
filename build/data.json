@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-16",
-    "weekday": "星期三",
-    "scope": "内容取自 AI HOT 日报（2026-09-16，共 13 条）。为保证五个版块均衡、避免同一事件重复报道，另从近 7 日高优精选中补足并去重，每条均标注北京时间。",
+    "date": "2026-09-17",
+    "weekday": "星期四",
+    "scope": "内容取自 AI HOT 日报（2026-09-17）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-16"
+    "sourceUrl": "https://aihot.news/daily/2026-09-17"
   },
   "sections": [
     {
@@ -46,54 +46,81 @@
   "items": [
     {
       "sec": "models",
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "plain": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识…",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "time": "2026-09-16T14:13:13.562Z",
+      "aihot": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q",
+      "original": "https://x.com/mustafasuleyman/status/2100223594534150428"
+    },
+    {
+      "sec": "models",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "plain": "DeepSeek 新模型能看图、一次读完超长文档，内存占用降到上代四分之一，价格也降了。",
-      "source": "MarkTechPost（RSS）",
+      "plain": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash…",
+      "source": "MarkTechPost",
       "time": "2026-09-10T07:31:07.541Z",
       "aihot": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
       "original": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse"
     },
     {
       "sec": "models",
-      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-      "plain": "谷歌发布两个能实时语音对话的新模型，反应更快，还能边听边思考处理复杂任务。",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-09-15T17:17:49.795Z",
-      "aihot": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
-      "original": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "plain": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face…",
+      "source": "The Decoder",
+      "time": "2026-09-10T12:58:25.117Z",
+      "aihot": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb",
+      "original": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents"
     },
     {
       "sec": "models",
-      "title": "Cognition 发布 SWE-2 编码模型，以更低成本逼近前沿",
-      "plain": "新出的编程模型写代码能力逼近最强的一批，但价格只有它们的三分之一左右。",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "time": "2026-09-09T16:00:00.000Z",
-      "aihot": "https://aihot.news/items/cmtym40hx0004roske1zgdkmu",
-      "original": "https://cognition.com/blog/swe-2"
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+      "plain": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生…",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-09-10T08:40:23.050Z",
+      "aihot": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
+      "original": "https://x.com/kimmonismus/status/2097962333767102665"
     },
     {
       "sec": "models",
-      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-      "plain": "生数科技发布新视频模型，能做实时数字人和视频实时改，还试水 VR 空间视频。",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "time": "2026-09-15T15:11:04.702Z",
-      "aihot": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f"
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "plain": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型…",
+      "source": "DeepSeek",
+      "time": "2026-09-10T05:58:04.695Z",
+      "aihot": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
+      "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
     },
     {
-      "sec": "models",
-      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-      "plain": "阶跃星辰一次发了五个语音模型，能听、能说、能配音，多个榜单拿了全球第一。",
-      "source": "公众号：阶跃星辰（Step）",
-      "time": "2026-09-15T07:40:58.299Z",
-      "aihot": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522"
+      "sec": "products",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
+      "plain": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口…",
+      "source": "Claude",
+      "time": "2026-09-16T16:51:45.914Z",
+      "aihot": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf",
+      "original": "https://claude.com/blog/cowork-is-now-claude"
+    },
+    {
+      "sec": "products",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "plain": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验…",
+      "source": "OpenAI",
+      "time": "2026-09-16T13:34:31.714Z",
+      "aihot": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
+      "original": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "sec": "products",
+      "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
+      "plain": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取…",
+      "source": "xAI",
+      "time": "2026-09-16T19:18:54.310Z",
+      "aihot": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu",
+      "original": "https://x.ai/news/grok-build-memory"
     },
     {
       "sec": "products",
       "title": "OpenAI 发布 Agents API 公测版",
-      "plain": "OpenAI 开放了能托管 AI 智能体的接口，开发者一次调用就能让 AI 自动干活。",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "plain": "OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 …",
+      "source": "OpenAI",
       "time": "2026-09-10T20:16:15.888Z",
       "aihot": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
       "original": "https://openai.com/index/introducing-the-agents-api"
@@ -101,80 +128,62 @@
     {
       "sec": "products",
       "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-      "plain": "苹果新版 Siri 上线，能看懂你屏幕上的内容、直接操作 App，先出英文版。",
-      "source": "Apple：Newsroom（RSS）",
+      "plain": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解…",
+      "source": "Apple",
       "time": "2026-09-14T18:00:58.336Z",
       "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
       "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here"
     },
     {
-      "sec": "products",
-      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-      "plain": "Cursor 新功能可以派一个 AI 总管，同时指挥上千个小 AI 一起写完大项目。",
-      "source": "Cursor Blog",
-      "time": "2026-09-10T22:57:43.796Z",
-      "aihot": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil",
-      "original": "https://cursor.com/blog/projects"
-    },
-    {
-      "sec": "products",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-      "plain": "谷歌翻译技术已覆盖三百多种语言，还开源了一个能离线跑的轻量翻译模型。",
-      "source": "Google Blog：AI（RSS）",
-      "time": "2026-09-15T16:17:57.554Z",
-      "aihot": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
-      "original": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language"
-    },
-    {
-      "sec": "products",
-      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-      "plain": "Claude 面向小企业加了 43 套现成流程和 27 个常用软件对接，还办免费培训。",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-09-15T17:21:21.489Z",
-      "aihot": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
-      "original": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs"
-    },
-    {
       "sec": "industry",
-      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-      "plain": "Perplexity 自己写数据库替掉亚马逊的服务，一年最多能省一亿美元。",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "time": "2026-09-15T20:43:13.349Z",
-      "aihot": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
-      "original": "https://x.com/AravSrinivas/status/2099957318935028173"
-    },
-    {
-      "sec": "industry",
-      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-      "plain": "美国三家机构发联合公告，点名六家中国 AI 公司大规模套取美国模型能力。",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-09T08:40:23.729Z",
-      "aihot": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k",
-      "original": "https://x.com/rohanpaul_ai/status/2097605329123147987"
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "plain": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火…",
+      "source": "Hacker News",
+      "time": "2026-09-13T16:40:12.008Z",
+      "aihot": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "original": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
     },
     {
       "sec": "industry",
       "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "plain": "Shopify 把手机 App 改回各平台单独开发，因为 AI 写代码后一套代码多端用不再划算。",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "plain": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin…",
+      "source": "Hacker News 热门",
       "time": "2026-09-10T15:28:10.346Z",
       "aihot": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
       "original": "https://shopify.engineering/back-to-native"
     },
     {
       "sec": "industry",
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+      "plain": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击…",
+      "source": "TechCrunch",
+      "time": "2026-09-10T20:58:12.921Z",
+      "aihot": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi",
+      "original": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+    },
+    {
+      "sec": "industry",
       "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "plain": "Anthropic 告诉投资者自己连续两个季度赚钱，毛利率超过八成，正准备上市。",
-      "source": "The Decoder：AI News（RSS）",
+      "plain": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标…",
+      "source": "The Decoder",
       "time": "2026-09-14T16:15:57.841Z",
       "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
       "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo"
     },
     {
       "sec": "industry",
+      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+      "plain": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元…",
+      "source": "IT之家",
+      "time": "2026-09-12T00:00:37.059Z",
+      "aihot": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
+      "original": "https://www.ithome.com/1/001/488.htm"
+    },
+    {
+      "sec": "industry",
       "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "plain": "一家公司指控谷歌的新项目直接搬了它的开源代码，连提示词都没改，也没署名。",
-      "source": "Hacker News：AI 热帖",
+      "plain": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobil…",
+      "source": "Hacker News",
       "time": "2026-09-12T04:25:01.481Z",
       "aihot": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
       "original": "https://www.minitap.ai/blog/i-expected-better-from-google"
@@ -182,26 +191,17 @@
     {
       "sec": "papers",
       "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-      "plain": "Anthropic 报告说有人拿 AI 改病毒代码、写导弹制导软件，还做无需人管的无人机。",
-      "source": "The Decoder：AI News（RSS）",
+      "plain": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用…",
+      "source": "The Decoder",
       "time": "2026-09-11T13:58:48.543Z",
       "aihot": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw",
       "original": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"
     },
     {
       "sec": "papers",
-      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
-      "plain": "Anthropic 复盘四次事故：模型在测试里因配置失误连上真实网络，碰到了外部系统。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-09T19:28:17.117Z",
-      "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
-      "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
-    },
-    {
-      "sec": "papers",
       "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
-      "plain": "Anthropic 测试 AI 定位目标、开发常规武器的能力，发现部分任务已追平人类专家。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
+      "plain": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联…",
+      "source": "Anthropic",
       "time": "2026-09-10T17:28:52.100Z",
       "aihot": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
       "original": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
@@ -209,7 +209,7 @@
     {
       "sec": "papers",
       "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-      "plain": "DeepSeek 新模型在智能体实战榜排开源第三，成绩接近第二名但成本只有三分之一。",
+      "plain": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4…",
       "source": "X：Arena (@arena)",
       "time": "2026-09-14T17:51:06.246Z",
       "aihot": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
@@ -217,57 +217,57 @@
     },
     {
       "sec": "tips",
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "plain": "作者走访 OpenAI 发现，公司里几乎所有工作都已经跑在 Codex 这类 AI 之上。",
-      "source": "Pragmatic Engineer（RSS）",
-      "time": "2026-09-15T15:56:28.910Z",
-      "aihot": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
-      "original": "https://newsletter.pragmaticengineer.com/p/openai-software-factory"
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "plain": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告…",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "time": "2026-09-16T23:27:09.073Z",
+      "aihot": "https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu",
+      "original": "https://x.com/AISafetyMemes/status/2100358777895780704"
     },
     {
       "sec": "tips",
-      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-      "plain": "Anthropic 和 OpenAI 提议全行业一起放慢 AI 研发速度，批评者说这是在排挤对手。",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-15T09:19:47.577Z",
-      "aihot": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
-      "original": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+      "plain": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架…",
+      "source": "OpenAI",
+      "time": "2026-09-16T22:19:52.517Z",
+      "aihot": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
+      "original": "https://openai.com/index/model-misalignment-reporting-framework"
     },
     {
       "sec": "tips",
-      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-      "plain": "OpenAI 雇人翻看匿名后的真实聊天记录，用来判断 AI 回答是不是太谄媚、太套路。",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-15T12:24:10.728Z",
-      "aihot": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
-      "original": "https://www.ithome.com/1/002/750.htm"
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+      "plain": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14…",
+      "source": "GitHub Blog",
+      "time": "2026-09-17T01:04:16.828Z",
+      "aihot": "https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp",
+      "original": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot"
+    },
+    {
+      "sec": "tips",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+      "plain": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意…",
+      "source": "The Verge",
+      "time": "2026-09-14T23:47:11.878Z",
+      "aihot": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+      "original": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
     },
     {
       "sec": "tips",
       "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-      "plain": "有人把恶意代码藏进开源软件包，开发者一安装就会被执行，还能偷偷联网。",
-      "source": "Hacker News：AI 热帖",
+      "plain": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 …",
+      "source": "Hacker News",
       "time": "2026-09-14T13:43:07.935Z",
       "aihot": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
       "original": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
     },
     {
       "sec": "tips",
-      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-      "plain": "实测显示便宜模型做代码审查能找出七成问题，价格只有顶级模型的三十分之一。",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-09-14T21:43:10.995Z",
-      "aihot": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
-      "original": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
-    },
-    {
-      "sec": "tips",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "plain": "英伟达一边卖芯片一边大额投资客户，被比作 AI 圈的中央银行，也有人警告泡沫风险。",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-09-12T17:09:22.230Z",
-      "aihot": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
-      "original": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+      "plain": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人…",
+      "source": "Pragmatic Engineer",
+      "time": "2026-09-15T15:56:28.910Z",
+      "aihot": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+      "original": "https://newsletter.pragmaticengineer.com/p/openai-software-factory"
     }
   ],
   "weekly": []
