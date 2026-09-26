@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-09-25",
-    "weekday": "星期五",
-    "scope": "内容取自 AI HOT 日报（2026-09-25）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-09-26",
+    "weekday": "星期六",
+    "scope": "内容取自 AI HOT 日报（2026-09-26）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-09-25"
+    "sourceUrl": "https://aihot.news/daily/2026-09-26"
   },
   "sections": [
     {
@@ -46,21 +46,21 @@
   "items": [
     {
       "sec": "models",
-      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-      "plain": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-24T02:51:06.860Z",
-      "aihot": "https://aihot.news/items/cmuexqizk03anroowc9has4ui",
-      "original": "https://x.com/arena/status/2102952767614779403"
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+      "plain": "Anthropic 发布 Claude 5.5 系列首个模型 Claude Opus 5.5…",
+      "source": "Anthropic",
+      "time": "2026-09-22T16:53:30.664Z",
+      "aihot": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "original": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
       "sec": "models",
-      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-      "plain": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus …",
-      "source": "Claude",
-      "time": "2026-09-24T16:38:37.757Z",
-      "aihot": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
-      "original": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"
+      "title": "Anthropic 发布 Claude Opus 5.5：默认 1M token 上下文，面向长时间运行的智能体编码",
+      "plain": "Anthropic 发布 Claude Opus 5.5（claude-opus-5-5）…",
+      "source": "Claude Platform",
+      "time": "2026-09-23T18:19:23.042Z",
+      "aihot": "https://aihot.news/items/cmuefgoq007p2rox3gq6ng3y4",
+      "original": "https://platform.claude.com/docs/en/release-notes/overview#september-22-2026"
     },
     {
       "sec": "models",
@@ -73,6 +73,15 @@
     },
     {
       "sec": "models",
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+      "plain": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-24T02:51:06.860Z",
+      "aihot": "https://aihot.news/items/cmuexqizk03anroowc9has4ui",
+      "original": "https://x.com/arena/status/2102952767614779403"
+    },
+    {
+      "sec": "models",
       "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
       "plain": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能…",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
@@ -81,40 +90,22 @@
       "original": "https://x.com/rohanpaul_ai/status/2102491250515681384"
     },
     {
-      "sec": "models",
-      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-      "plain": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5…",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-09-22T18:38:27.084Z",
-      "aihot": "https://aihot.news/items/cmud0p2q603inro1fm32430f8",
-      "original": "https://x.com/OpenRouter/status/2102463839283617992"
+      "sec": "products",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+      "plain": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "time": "2026-09-25T12:14:05.199Z",
+      "aihot": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
+      "original": "https://x.com/satyanadella/status/2103455884366188544"
     },
     {
       "sec": "products",
-      "title": "vLLM 新增基于 Gumbel-max 的无失真文本水印功能",
-      "plain": "vLLM 宣布支持基于 Gumbel-max 算法的无失真水印…",
-      "source": "vLLM 官方博客",
-      "time": "2026-09-24T17:43:16.775Z",
-      "aihot": "https://aihot.news/items/cmuftlsmy08bfroxz8mnqow1d",
-      "original": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm"
-    },
-    {
-      "sec": "products",
-      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-      "plain": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 P…",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "time": "2026-09-24T02:07:37.739Z",
-      "aihot": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-      "original": "https://x.com/ClaudeDevs/status/2102940480736821610"
-    },
-    {
-      "sec": "products",
-      "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-      "plain": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作…",
-      "source": "NVIDIA Blog",
-      "time": "2026-09-24T15:13:08.711Z",
-      "aihot": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
-      "original": "https://blogs.nvidia.com/blog/open-protein-dataset"
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+      "plain": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器…",
+      "source": "Claude",
+      "time": "2026-09-25T18:09:06.824Z",
+      "aihot": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+      "original": "https://claude.com/blog/build-plugins-for-claude"
     },
     {
       "sec": "products",
@@ -135,6 +126,60 @@
       "original": "https://claude.com/blog/claude-marketplace"
     },
     {
+      "sec": "products",
+      "title": "vLLM 发布 vllm-metal v0.28.0：在 Apple Silicon 上支持并发推理服务",
+      "plain": "vLLM 官方发布 vllm-metal v0.28.0，把 vLLM 的 V1 调度器…",
+      "source": "vLLM 官方博客",
+      "time": "2026-09-23T15:42:43.377Z",
+      "aihot": "https://aihot.news/items/cmue9uxe20smtroghgwne9l3u",
+      "original": "https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0"
+    },
+    {
+      "sec": "industry",
+      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+      "plain": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定…",
+      "source": "Hacker News",
+      "time": "2026-09-25T16:45:48.234Z",
+      "aihot": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+      "original": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+    },
+    {
+      "sec": "industry",
+      "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+      "plain": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构…",
+      "source": "TechCrunch",
+      "time": "2026-09-25T15:59:16.784Z",
+      "aihot": "https://aihot.news/items/cmuh5bwi004nsro55sv3t7521",
+      "original": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"
+    },
+    {
+      "sec": "industry",
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
+      "plain": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立…",
+      "source": "Cognition 模型 / Dev",
+      "time": "2026-09-25T15:42:15.643Z",
+      "aihot": "https://aihot.news/items/cmuh4q0ef044fro55mt9bfnxy",
+      "original": "https://cognition.com/blog/1b-run-rate"
+    },
+    {
+      "sec": "industry",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+      "plain": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据…",
+      "source": "X：OpenAI (@OpenAI)",
+      "time": "2026-09-25T20:53:00.380Z",
+      "aihot": "https://aihot.news/items/cmuhftp03045orojn23z3etdc",
+      "original": "https://x.com/OpenAI/status/2103587050347995581"
+    },
+    {
+      "sec": "industry",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+      "plain": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%…",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-09-25T18:37:37.116Z",
+      "aihot": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+      "original": "https://x.com/ClaudeDevs/status/2103548467729887677"
+    },
+    {
       "sec": "industry",
       "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
       "plain": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Austr…",
@@ -144,49 +189,22 @@
       "original": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"
     },
     {
-      "sec": "industry",
-      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-      "plain": "据 The Decoder 援引纽约时报和 Transluce 报道…",
-      "source": "The Decoder",
-      "time": "2026-09-24T14:29:33.155Z",
-      "aihot": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
-      "original": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face"
+      "sec": "papers",
+      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+      "plain": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-25T19:51:07.367Z",
+      "aihot": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+      "original": "https://x.com/arena/status/2103572481206538439"
     },
     {
-      "sec": "industry",
-      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-      "plain": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intell…",
-      "source": "IT之家",
-      "time": "2026-09-24T01:28:02.163Z",
-      "aihot": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-      "original": "https://www.ithome.com/1/006/548.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-      "plain": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道…",
-      "source": "Hacker News",
-      "time": "2026-09-22T19:44:52.495Z",
-      "aihot": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf",
-      "original": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
-    },
-    {
-      "sec": "industry",
-      "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
-      "plain": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船…",
-      "source": "Hacker News",
-      "time": "2026-09-18T18:44:02.072Z",
-      "aihot": "https://aihot.news/items/cmu7b4t69044mrogrg7zn0p8h",
-      "original": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
-    },
-    {
-      "sec": "industry",
-      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-      "plain": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁…",
+      "sec": "papers",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "plain": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节…",
       "source": "Hacker News 热门",
-      "time": "2026-09-23T22:59:38.001Z",
-      "aihot": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
-      "original": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+      "time": "2026-09-26T00:31:32.238Z",
+      "aihot": "https://aihot.news/items/cmuhnmnp20fuhrojn1henams8",
+      "original": "https://swarmtraces.org/"
     },
     {
       "sec": "papers",
@@ -207,76 +225,58 @@
       "original": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier"
     },
     {
-      "sec": "papers",
-      "title": "Transluce 报告 AI 智能体利用 urlquery.net 绕过限制并三次尝试入侵网站",
-      "plain": "Transluce 发布证据称，AI 智能体利用网址扫描服务 urlquery.net 绕过访问限制…",
-      "source": "Transluce",
-      "time": "2026-09-24T01:41:51.116Z",
-      "aihot": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2",
-      "original": "https://transluce.org/agent-activity"
-    },
-    {
-      "sec": "papers",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "plain": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-20T18:20:28.257Z",
-      "aihot": "https://aihot.news/items/cmua567e703tmro5t558lzx7o",
-      "original": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"
+      "sec": "tips",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+      "plain": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批…",
+      "source": "Ars Technica",
+      "time": "2026-09-25T11:26:33.636Z",
+      "aihot": "https://aihot.news/items/cmugvl6n31bd7rogvzdsm0qge",
+      "original": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
     },
     {
       "sec": "tips",
-      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-      "plain": "Thomas Wolf 转发并评论 Transluce 的披露…",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "time": "2026-09-24T09:39:40.001Z",
-      "aihot": "https://aihot.news/items/cmufcbvmu05wqroaga2mai2eu",
-      "original": "https://x.com/Thom_Wolf/status/2103054896438136973"
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+      "plain": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务…",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "time": "2026-09-25T21:01:44.703Z",
+      "aihot": "https://aihot.news/items/cmuhg4wsw04gprojna9lutexs",
+      "original": "https://x.com/Yuchenj_UW/status/2103589198427193593"
     },
     {
       "sec": "tips",
-      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-      "plain": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型…",
-      "source": "OpenRouter",
-      "time": "2026-09-24T00:58:24.496Z",
-      "aihot": "https://aihot.news/items/cmuetpj5l04curohbgsl4cj6m",
-      "original": "https://openrouter.ai/blog/insights/kimi-k3-open-source"
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+      "plain": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA…",
+      "source": "TechCrunch",
+      "time": "2026-09-25T15:59:16.784Z",
+      "aihot": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv",
+      "original": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
     },
     {
       "sec": "tips",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
-      "plain": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信…",
-      "source": "Hacker News 热门",
-      "time": "2026-09-24T17:30:08.611Z",
-      "aihot": "https://aihot.news/items/cmuft4xrw07varoxz9brnf7vh",
-      "original": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+      "plain": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 …",
+      "source": "Anthropic",
+      "time": "2026-09-25T17:59:19.824Z",
+      "aihot": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+      "original": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
     },
     {
       "sec": "tips",
-      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
-      "plain": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话…",
-      "source": "Gary Marcus",
-      "time": "2026-09-24T13:13:18.775Z",
-      "aihot": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
-      "original": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to"
+      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+      "plain": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查…",
+      "source": "X：Sam Altman (@sama)",
+      "time": "2026-09-25T19:37:37.129Z",
+      "aihot": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+      "original": "https://x.com/sama/status/2103567198690349362"
     },
     {
       "sec": "tips",
-      "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
-      "plain": "Artificial Analysis 测评显示，Claude Opus 5…",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-09-24T01:51:07.001Z",
-      "aihot": "https://aihot.news/items/cmuevlgvm04y3royqizmoqx3s",
-      "original": "https://x.com/ArtificialAnlys/status/2102932119995756613"
-    },
-    {
-      "sec": "tips",
-      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-      "plain": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄…",
-      "source": "公众号",
-      "time": "2026-09-24T08:21:38.554Z",
-      "aihot": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606"
+      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+      "plain": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS …",
+      "source": "GitHub Blog",
+      "time": "2026-09-25T15:13:16.864Z",
+      "aihot": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+      "original": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css"
     }
   ],
   "weekly": []
