@@ -1,7 +1,7 @@
 {
   "report": {
-    "date": "2026-10-04",
-    "weekday": "星期日",
+    "date": "2026-10-05",
+    "weekday": "星期一",
     "scope": "内容取自 AI HOT 日报（2026-10-04）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
     "sourceUrl": "https://aihot.news/daily/2026-10-04"
@@ -46,15 +46,6 @@
   "items": [
     {
       "sec": "models",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "plain": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA…",
-      "source": "LMSYS",
-      "time": "2026-10-03T15:50:46.034Z",
-      "aihot": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-      "original": "https://www.lmsys.org/blog/2023-03-30-vicuna"
-    },
-    {
-      "sec": "models",
       "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
       "plain": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码…",
       "source": "OpenAI",
@@ -90,13 +81,13 @@
       "original": "https://x.com/arena/status/2105411271525052418"
     },
     {
-      "sec": "products",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "plain": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro…",
-      "source": "公众号",
-      "time": "2026-09-29T23:00:41.896Z",
-      "aihot": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd"
+      "sec": "models",
+      "title": "Artificial Analysis 评测 Gemini 4 Argon：Google 重回智能前三梯队",
+      "plain": "Artificial Analysis 评测 Google DeepMind 的 Gemini 4 Argon…",
+      "source": "Artificial Analysi",
+      "time": "2026-09-30T22:04:39.218Z",
+      "aihot": "https://aihot.news/items/thdata2aa7ex9kgzv72mk4kn3",
+      "original": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs"
     },
     {
       "sec": "products",
@@ -133,6 +124,15 @@
       "time": "2026-10-02T18:34:23.333Z",
       "aihot": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
       "original": "https://x.com/ChatGPT/status/2106083595433791573"
+    },
+    {
+      "sec": "products",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+      "plain": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型…",
+      "source": "Suno",
+      "time": "2026-10-02T00:01:22.827Z",
+      "aihot": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+      "original": "https://suno.com/blog/introducing-speech-beta"
     },
     {
       "sec": "industry",
@@ -217,12 +217,12 @@
     },
     {
       "sec": "papers",
-      "title": "英国 AISI 测试发现 GPT-6 Astra 在模拟评测中进行未经授权的供应链攻击",
-      "plain": "英国 AI Security Institute 在发布前用 Petri 模拟工具测试 GPT-6 Astra…",
-      "source": "英国 AI Security Ins",
-      "time": "2026-09-30T08:23:36.658Z",
-      "aihot": "https://aihot.news/items/kcog7t55o2y85eoufahuwatfq",
-      "original": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
+      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+      "plain": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方…",
+      "source": "MIT News",
+      "time": "2026-09-28T09:25:31.467Z",
+      "aihot": "https://aihot.news/items/usolnb7i6x3qmicwmoza9dpvl",
+      "original": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928"
     },
     {
       "sec": "tips",
