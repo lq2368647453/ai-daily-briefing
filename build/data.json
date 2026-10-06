@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-05",
-    "weekday": "星期一",
-    "scope": "内容取自 AI HOT 日报（2026-10-04）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-06",
+    "weekday": "星期二",
+    "scope": "内容取自 AI HOT 日报（2026-10-06）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-04"
+    "sourceUrl": "https://aihot.news/daily/2026-10-06"
   },
   "sections": [
     {
@@ -46,6 +46,15 @@
   "items": [
     {
       "sec": "models",
+      "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
+      "plain": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid…",
+      "source": "Liquid AI 模型与工程博客",
+      "time": "2026-10-05T17:26:25.913Z",
+      "aihot": "https://aihot.news/items/uu1qa3hh83kc9i4u832wpywyp",
+      "original": "https://www.liquid.ai/blog/d1-decision-model"
+    },
+    {
+      "sec": "models",
       "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
       "plain": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码…",
       "source": "OpenAI",
@@ -61,15 +70,6 @@
       "time": "2026-09-29T18:38:27.574Z",
       "aihot": "https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n",
       "original": "https://x.com/arena/status/2104998408616558940"
-    },
-    {
-      "sec": "models",
-      "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
-      "plain": "Anthropic 发布对智谱 GLM-5.3 网络攻击能力的分析，发现其可自主开发端到端漏洞利用…",
-      "source": "Anthropic",
-      "time": "2026-09-29T16:50:12.017Z",
-      "aihot": "https://aihot.news/items/eqf3o3tlak08851t52unuji2o",
-      "original": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
     },
     {
       "sec": "models",
@@ -91,6 +91,24 @@
     },
     {
       "sec": "products",
+      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+      "plain": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试…",
+      "source": "OpenAI",
+      "time": "2026-10-05T11:47:49.476Z",
+      "aihot": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
+      "original": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "sec": "products",
+      "title": "Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%",
+      "plain": "Together AI 发布 Together Link，把团队已用的编码智能体工具连接到 Together AI…",
+      "source": "Together AI 研究与产品博",
+      "time": "2026-10-05T15:48:26.925Z",
+      "aihot": "https://aihot.news/items/ef2o8x2jh4m8n7ggsq5bc5eag",
+      "original": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use"
+    },
+    {
+      "sec": "products",
       "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
       "plain": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数…",
       "source": "Claude",
@@ -109,15 +127,6 @@
     },
     {
       "sec": "products",
-      "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
-      "plain": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM…",
-      "source": "公众号",
-      "time": "2026-09-30T03:30:45.495Z",
-      "aihot": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-      "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd"
-    },
-    {
-      "sec": "products",
       "title": "ChatGPT 推出 Finances 财务管理功能",
       "plain": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt…",
       "source": "X：ChatGPT (@ChatGPT)",
@@ -126,49 +135,31 @@
       "original": "https://x.com/ChatGPT/status/2106083595433791573"
     },
     {
-      "sec": "products",
-      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-      "plain": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型…",
-      "source": "Suno",
-      "time": "2026-10-02T00:01:22.827Z",
-      "aihot": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
-      "original": "https://suno.com/blog/introducing-speech-beta"
+      "sec": "industry",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "plain": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动…",
+      "source": "Hacker News",
+      "time": "2026-10-05T18:48:28.379Z",
+      "aihot": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
+      "original": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
     },
     {
       "sec": "industry",
-      "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-      "plain": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞…",
+      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+      "plain": "OpenAI 公布应对 EU AI Act 的文本水印方案…",
       "source": "OpenAI",
-      "time": "2026-10-03T02:10:39.278Z",
-      "aihot": "https://aihot.news/items/j5whyu39ceixq111sobt4fic1",
-      "original": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/"
+      "time": "2026-10-05T15:51:25.811Z",
+      "aihot": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
+      "original": "https://openai.com/index/eu-text-provenance"
     },
     {
       "sec": "industry",
-      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-      "plain": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统…",
-      "source": "IT之家",
-      "time": "2026-10-03T06:33:10.945Z",
-      "aihot": "https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok",
-      "original": "https://www.ithome.com/1/009/444.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 披露内部模型从 Slack 获悉可能停机并提前准备重启事件",
-      "plain": "OpenAI 发布一份失准事件报告：2026 年 5 月 22 日…",
-      "source": "OpenAI",
-      "time": "2026-10-03T02:10:39.271Z",
-      "aihot": "https://aihot.news/items/s3supi9t3z6gkguckfsz4ygzq",
-      "original": "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack/"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件",
-      "plain": "OpenAI 披露一起 RL 训练中的失准事件：内部未发布模型发现 reference 工具将搜索模式直接嵌入 P…",
-      "source": "OpenAI",
-      "time": "2026-10-03T02:10:39.283Z",
-      "aihot": "https://aihot.news/items/w0twto4412g72n2ryamc6xpi1",
-      "original": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/"
+      "title": "OpenAI DevDay 2026 发布 dots 智能体与 GPT-6.1 Sol，ChatGPT 周活达 12 亿",
+      "plain": "OpenAI 在 DevDay 2026 发布常驻智能体 dots（由 GPT-6 Astra 驱动…",
+      "source": "Latent Space",
+      "time": "2026-09-30T06:38:36.232Z",
+      "aihot": "https://aihot.news/items/b1z2bgkg2nggn8j8969j42r3v",
+      "original": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
     },
     {
       "sec": "industry",
@@ -181,30 +172,39 @@
     },
     {
       "sec": "industry",
-      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-      "plain": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1…",
-      "source": "TechCrunch",
-      "time": "2026-09-30T00:45:35.110Z",
-      "aihot": "https://aihot.news/items/hxdv40od8cwti1sfmkmursiop",
-      "original": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+      "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
+      "plain": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞…",
+      "source": "OpenAI",
+      "time": "2026-10-03T02:10:39.278Z",
+      "aihot": "https://aihot.news/items/j5whyu39ceixq111sobt4fic1",
+      "original": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/"
+    },
+    {
+      "sec": "industry",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+      "plain": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室…",
+      "source": "The Decoder",
+      "time": "2026-09-30T16:37:31.137Z",
+      "aihot": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
+      "original": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/"
     },
     {
       "sec": "papers",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-      "plain": "Google 等机构的论文提出 insecure reporting 现象…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-03T22:07:25.177Z",
-      "aihot": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
-      "original": "https://x.com/rohanpaul_ai/status/2106502600703222202"
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+      "plain": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值…",
+      "source": "SemiAnalysis 长文 RS",
+      "time": "2026-10-05T21:02:37.357Z",
+      "aihot": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
+      "original": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
     },
     {
       "sec": "papers",
-      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-      "plain": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBo…",
-      "source": "Hugging Face",
-      "time": "2026-10-03T23:13:26.686Z",
-      "aihot": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
-      "original": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄",
+      "plain": "PromptArmor 报告称 Databricks Genie Code 执行上传的恶意 Skill 后…",
+      "source": "PromptArmor",
+      "time": "2026-10-05T00:36:28.048Z",
+      "aihot": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n",
+      "original": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills"
     },
     {
       "sec": "papers",
@@ -217,12 +217,12 @@
     },
     {
       "sec": "papers",
-      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
-      "plain": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方…",
-      "source": "MIT News",
-      "time": "2026-09-28T09:25:31.467Z",
-      "aihot": "https://aihot.news/items/usolnb7i6x3qmicwmoza9dpvl",
-      "original": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928"
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+      "plain": "Google 等机构的论文提出 insecure reporting 现象…",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-03T22:07:25.177Z",
+      "aihot": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
+      "original": "https://x.com/rohanpaul_ai/status/2106502600703222202"
     },
     {
       "sec": "tips",
@@ -262,21 +262,21 @@
     },
     {
       "sec": "tips",
+      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+      "plain": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告…",
+      "source": "公众号",
+      "time": "2026-10-06T00:22:29.283Z",
+      "aihot": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7"
+    },
+    {
+      "sec": "tips",
       "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
       "plain": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol…",
       "source": "OpenAI",
       "time": "2026-10-02T16:55:31.080Z",
       "aihot": "https://aihot.news/items/cw97qi7nc5ucehymkc1k9s6zk",
       "original": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "sec": "tips",
-      "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
-      "plain": "英国 AI Security Institute 宣布完成第一阶段安全加固工作…",
-      "source": "英国 AI Security Ins",
-      "time": "2026-10-01T15:45:28.892Z",
-      "aihot": "https://aihot.news/items/o2r7vlmpw9bg1k7rxb3ot6wzv",
-      "original": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities"
     }
   ],
   "weekly": []
