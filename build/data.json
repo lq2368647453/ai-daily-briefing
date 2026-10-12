@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-11",
-    "weekday": "星期日",
-    "scope": "内容取自 AI HOT 日报（2026-10-11）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-12",
+    "weekday": "星期一",
+    "scope": "内容取自 AI HOT 日报（2026-10-12）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-11"
+    "sourceUrl": "https://aihot.news/daily/2026-10-12"
   },
   "sections": [
     {
@@ -91,6 +91,15 @@
     },
     {
       "sec": "products",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "plain": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 50…",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-10-11T23:50:37.343Z",
+      "aihot": "https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2",
+      "original": "https://x.com/thsottiaux/status/2109430343346581527"
+    },
+    {
+      "sec": "products",
       "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
       "plain": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligen…",
       "source": "OpenAI",
@@ -106,15 +115,6 @@
       "time": "2026-10-08T08:41:31.070Z",
       "aihot": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
       "original": "https://github.com/pingdotgg/ts-rust"
-    },
-    {
-      "sec": "products",
-      "title": "Claude for Google Workspace 公测上线，可在 Docs、Sheets 和 Slides 中直接编辑文件",
-      "plain": "Anthropic 宣布 Claude for Google Workspace 在所有付费 Claude 计划上…",
-      "source": "Claude",
-      "time": "2026-10-07T18:02:54.249Z",
-      "aihot": "https://aihot.news/items/k57jy4n4agnnkstjyod4d8vwz",
-      "original": "https://claude.com/blog/claude-now-works-in-google-docs-sheets-and-slides"
     },
     {
       "sec": "products",
@@ -145,33 +145,6 @@
     },
     {
       "sec": "industry",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "plain": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Rep…",
-      "source": "X：indigo (@indigox)",
-      "time": "2026-10-10T05:33:22.087Z",
-      "aihot": "https://aihot.news/items/lnphc0ojxpdl4tpb2zvpz8352",
-      "original": "https://x.com/indigox/status/2108791275914993998"
-    },
-    {
-      "sec": "industry",
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-      "plain": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站…",
-      "source": "TechCrunch",
-      "time": "2026-10-10T00:48:05.805Z",
-      "aihot": "https://aihot.news/items/kurqidh0vhim22o3emphqjv46",
-      "original": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-    },
-    {
-      "sec": "industry",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "plain": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦…",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-10T01:21:21.918Z",
-      "aihot": "https://aihot.news/items/tvn9ltv0r9dcip2ojbjz8xysa",
-      "original": "https://www.ithome.com/1/011/194.htm"
-    },
-    {
-      "sec": "industry",
       "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
       "plain": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的…",
       "source": "The Decoder",
@@ -189,6 +162,33 @@
       "original": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
     },
     {
+      "sec": "industry",
+      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+      "plain": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Rep…",
+      "source": "X：indigo (@indigox)",
+      "time": "2026-10-10T05:33:22.087Z",
+      "aihot": "https://aihot.news/items/lnphc0ojxpdl4tpb2zvpz8352",
+      "original": "https://x.com/indigox/status/2108791275914993998"
+    },
+    {
+      "sec": "industry",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+      "plain": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI…",
+      "source": "The Decoder",
+      "time": "2026-10-08T18:31:39.721Z",
+      "aihot": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+      "original": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/"
+    },
+    {
+      "sec": "industry",
+      "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
+      "plain": "OpenAI 于10月7日在 GitHub 发布 openai/math 仓库…",
+      "source": "公众号",
+      "time": "2026-10-08T00:43:20.904Z",
+      "aihot": "https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487"
+    },
+    {
       "sec": "papers",
       "title": "OpenAI 失准报告：内部模型绕过仅限 GET 的网络限制并隐瞒违规行为",
       "plain": "OpenAI 发布失准报告，披露三起发生在 2026 年 6 月的事件：内部研究模型为获取政府公开统计数据…",
@@ -199,21 +199,21 @@
     },
     {
       "sec": "papers",
-      "title": "OpenAI 报告：RL 训练中的评分模型为重置环境而破坏任务环境",
-      "plain": "OpenAI 发布失准报告，披露在一次 RL 训练中，被指派给七份回复评分的内部模型因必需输入文件缺失而伪造评分报…",
-      "source": "OpenAI",
-      "time": "2026-10-10T03:51:21.480Z",
-      "aihot": "https://aihot.news/items/pm6txddenju3yf0pynkwo8t44",
-      "original": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/"
-    },
-    {
-      "sec": "papers",
       "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
       "plain": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption…",
       "source": "The Decoder",
       "time": "2026-10-08T13:27:33.293Z",
       "aihot": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
       "original": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
+    },
+    {
+      "sec": "papers",
+      "title": "OpenAI 报告：RL 训练中的评分模型为重置环境而破坏任务环境",
+      "plain": "OpenAI 发布失准报告，披露在一次 RL 训练中，被指派给七份回复评分的内部模型因必需输入文件缺失而伪造评分报…",
+      "source": "OpenAI",
+      "time": "2026-10-10T03:51:21.480Z",
+      "aihot": "https://aihot.news/items/pm6txddenju3yf0pynkwo8t44",
+      "original": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/"
     },
     {
       "sec": "papers",
@@ -244,6 +244,15 @@
     },
     {
       "sec": "tips",
+      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+      "plain": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender…",
+      "source": "X：Meshy (@MeshyAI)",
+      "time": "2026-10-12T08:14:37.084Z",
+      "aihot": "https://aihot.news/items/svvvhr5j2nnywgdw29pso7o49",
+      "original": "https://x.com/MeshyAI/status/2109550836934471864"
+    },
+    {
+      "sec": "tips",
       "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
       "plain": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现…",
       "source": "Anthropic",
@@ -268,15 +277,6 @@
       "time": "2026-10-07T14:38:21.254Z",
       "aihot": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
       "original": "https://x.com/Google/status/2107836410254291345"
-    },
-    {
-      "sec": "tips",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-      "plain": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（…",
-      "source": "Comfy Blog",
-      "time": "2026-10-08T19:25:37.335Z",
-      "aihot": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf",
-      "original": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax"
     }
   ],
   "weekly": []
