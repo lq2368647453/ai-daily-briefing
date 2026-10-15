@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-14",
-    "weekday": "星期三",
-    "scope": "内容取自 AI HOT 日报（2026-10-14）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-15",
+    "weekday": "星期四",
+    "scope": "内容取自 AI HOT 日报（2026-10-15）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-14"
+    "sourceUrl": "https://aihot.news/daily/2026-10-15"
   },
   "sections": [
     {
@@ -46,39 +46,30 @@
   "items": [
     {
       "sec": "models",
+      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+      "plain": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者…",
+      "source": "X：Gemini (@GeminiApp)",
+      "time": "2026-10-14T22:18:19.394Z",
+      "aihot": "https://aihot.news/items/rraljkr6dlbt4wabpcogmdlfv",
+      "original": "https://x.com/GeminiApp/status/2110491358498865638"
+    },
+    {
+      "sec": "models",
+      "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+      "plain": "Arena 发布基于超过 5000 次真实智能体会话的评测结果…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-14T20:23:18.627Z",
+      "aihot": "https://aihot.news/items/uceolgbpttfw4cgmkqc8cvyw5",
+      "original": "https://x.com/arena/status/2110465487914295770"
+    },
+    {
+      "sec": "models",
       "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
       "plain": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放…",
       "source": "Google Blog",
       "time": "2026-10-13T16:25:39.681Z",
       "aihot": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
       "original": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-    },
-    {
-      "sec": "models",
-      "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-      "plain": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-13T21:50:29.748Z",
-      "aihot": "https://aihot.news/items/ob6ryetyialrnqhyjusr2s1iz",
-      "original": "https://x.com/arena/status/2110120205464846828"
-    },
-    {
-      "sec": "models",
-      "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-      "plain": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7…",
-      "source": "公众号",
-      "time": "2026-10-13T10:57:19.854Z",
-      "aihot": "https://aihot.news/items/fidy0y9chlgs0puyn96qkmj1b",
-      "original": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a"
-    },
-    {
-      "sec": "models",
-      "title": "Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型",
-      "plain": "Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B…",
-      "source": "Liquid AI 模型与工程博客",
-      "time": "2026-10-13T17:07:30.836Z",
-      "aihot": "https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj",
-      "original": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
     },
     {
       "sec": "models",
@@ -90,94 +81,85 @@
       "original": "https://x.com/ArtificialAnlys/status/2110068185793970576"
     },
     {
-      "sec": "products",
-      "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-      "plain": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五…",
-      "source": "NVIDIA Blog",
-      "time": "2026-10-13T12:16:27.644Z",
-      "aihot": "https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10",
-      "original": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
-    },
-    {
-      "sec": "products",
-      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-      "plain": "Gemini 4 Argon 已上线 OpenRouter…",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-13T16:46:30.562Z",
-      "aihot": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
-      "original": "https://x.com/OpenRouter/status/2110044453977403412"
-    },
-    {
-      "sec": "products",
-      "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
-      "plain": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI…",
-      "source": "Comfy Blog",
-      "time": "2026-10-13T20:06:37.410Z",
-      "aihot": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq",
-      "original": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling"
-    },
-    {
-      "sec": "products",
-      "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-      "plain": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售…",
+      "sec": "models",
+      "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+      "plain": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本…",
       "source": "公众号",
-      "time": "2026-10-13T09:53:05.509Z",
-      "aihot": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb"
+      "time": "2026-10-15T03:42:12.707Z",
+      "aihot": "https://aihot.news/items/k8xyrz2we9s3o7wcn9sdzmvgi",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7"
     },
     {
       "sec": "products",
-      "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
-      "plain": "LangChain 在 LangSmith 中推出 AI Search 公测…",
-      "source": "LangChain",
-      "time": "2026-10-13T13:21:36.421Z",
-      "aihot": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
-      "original": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith"
+      "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
+      "plain": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证…",
+      "source": "Google Research",
+      "time": "2026-10-14T16:22:26.879Z",
+      "aihot": "https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz",
+      "original": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "sec": "products",
+      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+      "plain": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后…",
+      "source": "Lovable Blog",
+      "time": "2026-10-14T13:23:21.621Z",
+      "aihot": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
+      "original": "https://lovable.dev/blog/introducing-growth-tools"
+    },
+    {
+      "sec": "products",
+      "title": "xAI 发布 Grok Voice 3.0 语音模型",
+      "plain": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0…",
+      "source": "xAI",
+      "time": "2026-10-14T18:00:12.936Z",
+      "aihot": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+      "original": "https://x.ai/news/grok-voice-3"
+    },
+    {
+      "sec": "products",
+      "title": "vLLM 推出无需置信头的在线拟合接受估计器，让 EAGLE、MTP 等草稿模型可用 Adaptive Verification",
+      "plain": "vLLM 支持 confidence scoring 扩展到所有基于草稿模型的投机类型…",
+      "source": "vLLM 官方博客",
+      "time": "2026-10-14T22:21:17.482Z",
+      "aihot": "https://aihot.news/items/fuzrhjjahftxj9xj36god3pcf",
+      "original": "https://vllm.ai/blog/2026-10-14-adaptive-verification-online-estimator"
+    },
+    {
+      "sec": "products",
+      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+      "plain": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot…",
+      "source": "xAI",
+      "time": "2026-10-12T23:44:24.785Z",
+      "aihot": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
+      "original": "https://x.ai/news/x-subscription"
     },
     {
       "sec": "industry",
-      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-      "plain": "Character.AI 已申请 Chapter 11 破产…",
-      "source": "TechCrunch",
-      "time": "2026-10-13T12:46:30.147Z",
-      "aihot": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
-      "original": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+      "plain": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character…",
+      "source": "The Verge",
+      "time": "2026-10-14T19:40:10.486Z",
+      "aihot": "https://aihot.news/items/gpgj8ws42xbs5zhbxfzvn2g6i",
+      "original": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
     },
     {
       "sec": "industry",
-      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-      "plain": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构…",
-      "source": "X：ElevenLabs (@elevenlabs)",
-      "time": "2026-10-13T15:59:22.545Z",
-      "aihot": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
-      "original": "https://x.com/ElevenLabs/status/2110037384192774210"
+      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+      "plain": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求…",
+      "source": "IT之家·人工智能",
+      "time": "2026-10-14T23:39:32.056Z",
+      "aihot": "https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql",
+      "original": "https://www.ithome.com/1/013/154.htm"
     },
     {
       "sec": "industry",
-      "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-      "plain": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放…",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "time": "2026-10-13T19:52:38.199Z",
-      "aihot": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
-      "original": "https://x.com/OpenAINewsroom/status/2110095403198849132"
-    },
-    {
-      "sec": "industry",
-      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-      "plain": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表…",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "time": "2026-10-13T01:32:28.585Z",
-      "aihot": "https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c",
-      "original": "https://x.com/demishassabis/status/2109813775377563908"
-    },
-    {
-      "sec": "industry",
-      "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
-      "plain": "Prime Intellect 宣布收购 Moondream…",
-      "source": "Prime Intellect",
-      "time": "2026-10-13T19:11:36.361Z",
-      "aihot": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz",
-      "original": "https://www.primeintellect.ai/blog/moondream"
+      "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
+      "plain": "Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元…",
+      "source": "Modal 官方工程博客",
+      "time": "2026-10-14T14:53:23.168Z",
+      "aihot": "https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa",
+      "original": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
     },
     {
       "sec": "industry",
@@ -189,13 +171,40 @@
       "original": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/"
     },
     {
+      "sec": "industry",
+      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+      "plain": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5…",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-14T03:17:44.696Z",
+      "aihot": "https://aihot.news/items/w0kr5nvs73elhfd23vj0vm8hi",
+      "original": "https://x.com/rohanpaul_ai/status/2110203596948353155"
+    },
+    {
+      "sec": "industry",
+      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+      "plain": "Character.AI 已申请 Chapter 11 破产…",
+      "source": "TechCrunch",
+      "time": "2026-10-13T12:46:30.147Z",
+      "aihot": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+      "original": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+    },
+    {
       "sec": "papers",
-      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
-      "plain": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法…",
-      "source": "Anthropic",
-      "time": "2026-10-13T00:09:24.621Z",
-      "aihot": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
-      "original": "https://www.anthropic.com/research/distillation-defenses"
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+      "plain": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Ma…",
+      "source": "Johann Rehberger /",
+      "time": "2026-10-14T00:35:27.995Z",
+      "aihot": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
+      "original": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/"
+    },
+    {
+      "sec": "papers",
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "plain": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层…",
+      "source": "MIT News",
+      "time": "2026-10-14T15:44:41.779Z",
+      "aihot": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+      "original": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
     },
     {
       "sec": "papers",
@@ -216,13 +225,40 @@
       "original": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
     },
     {
-      "sec": "papers",
-      "title": "OpenAI 报告：RL 训练中的评分模型为重置环境而破坏任务环境",
-      "plain": "OpenAI 发布失准报告，披露在一次 RL 训练中，被指派给七份回复评分的内部模型因必需输入文件缺失而伪造评分报…",
-      "source": "OpenAI",
-      "time": "2026-10-10T03:51:21.480Z",
-      "aihot": "https://aihot.news/items/pm6txddenju3yf0pynkwo8t44",
-      "original": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/"
+      "sec": "tips",
+      "title": "OpenAI 工程师分享用 GPT-6 系列模型清理代码库的实践与提示词",
+      "plain": "OpenAI Core Experimentation 团队工程师分享用 GPT-6 Astra 和 GPT-6…",
+      "source": "OpenAI Developers",
+      "time": "2026-10-14T23:49:32.923Z",
+      "aihot": "https://aihot.news/items/wn2lwzshkg8gt2sbjuj1qxd8y",
+      "original": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
+    },
+    {
+      "sec": "tips",
+      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+      "plain": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings…",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "time": "2026-10-14T21:56:22.361Z",
+      "aihot": "https://aihot.news/items/whbmvotra7659u98jmj00oegi",
+      "original": "https://x.com/lydiahallie/status/2110484841926152622"
+    },
+    {
+      "sec": "tips",
+      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+      "plain": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware …",
+      "source": "LangChain",
+      "time": "2026-10-14T18:00:10.700Z",
+      "aihot": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
+      "original": "https://www.langchain.com/blog/context-engineering-deep-agents-remember"
+    },
+    {
+      "sec": "tips",
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "plain": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"…",
+      "source": "公众号",
+      "time": "2026-10-15T02:13:11.058Z",
+      "aihot": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86"
     },
     {
       "sec": "tips",
@@ -235,48 +271,12 @@
     },
     {
       "sec": "tips",
-      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
-      "plain": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 …",
-      "source": "Google Developers",
-      "time": "2026-10-13T16:49:34.227Z",
-      "aihot": "https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui",
-      "original": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/"
-    },
-    {
-      "sec": "tips",
-      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-      "plain": "LangChain 发布 langchain-scaledown 集成…",
-      "source": "LangChain",
-      "time": "2026-10-13T12:20:33.606Z",
-      "aihot": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-      "original": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents"
-    },
-    {
-      "sec": "tips",
       "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
       "plain": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern …",
       "source": "Hugging Face 官方团队博",
       "time": "2026-10-08T22:28:16.871Z",
       "aihot": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw",
       "original": "https://huggingface.co/blog/building-with-ml-intern"
-    },
-    {
-      "sec": "tips",
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-      "plain": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender…",
-      "source": "X：Meshy (@MeshyAI)",
-      "time": "2026-10-12T08:14:37.084Z",
-      "aihot": "https://aihot.news/items/svvvhr5j2nnywgdw29pso7o49",
-      "original": "https://x.com/MeshyAI/status/2109550836934471864"
-    },
-    {
-      "sec": "tips",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-      "plain": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现…",
-      "source": "Anthropic",
-      "time": "2026-10-08T16:15:30.312Z",
-      "aihot": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
-      "original": "https://claude.dev/blog/building-effective-agent-automations/"
     }
   ],
   "weekly": []
