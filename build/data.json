@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-17",
-    "weekday": "星期六",
-    "scope": "内容取自 AI HOT 日报（2026-10-17）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-18",
+    "weekday": "星期日",
+    "scope": "内容取自 AI HOT 日报（2026-10-18）。因今日日报条目较少，已用近 7 日高优精选补足五个版块，每条均标注北京时间。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-17"
+    "sourceUrl": "https://aihot.news/daily/2026-10-18"
   },
   "sections": [
     {
@@ -46,80 +46,53 @@
   "items": [
     {
       "sec": "models",
-      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-      "plain": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-16T22:51:31.836Z",
-      "aihot": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-      "original": "https://x.com/arena/status/2111221323217412318"
-    },
-    {
-      "sec": "models",
-      "title": "Artificial Analysis 发布 NVIDIA Vera Rubin NVL72 首批 AA-AgentPerf 智能体推理评测",
-      "plain": "Artificial Analysis 公布首批 AA-AgentPerf 结果…",
-      "source": "Artificial Analysi",
-      "time": "2026-10-16T01:56:44.298Z",
-      "aihot": "https://aihot.news/items/cfa00lfy4h5vywbpnf1ixt6m0",
-      "original": "https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf"
-    },
-    {
-      "sec": "models",
       "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "plain": "Meta 发布开源权重模型 Muse Spark Open…",
-      "source": "PyTorch",
+      "plain": "Meta 放出一个可免费下载的大模型，能力接近顶尖商用款，一口气能读完一百万字。",
+      "source": "PyTorch：Blog（RSS）",
       "time": "2026-10-15T18:49:28.354Z",
       "aihot": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
       "original": "https://pytorch.org/blog/muse-spark-open/"
     },
     {
       "sec": "models",
-      "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-      "plain": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-15T18:32:29.884Z",
-      "aihot": "https://aihot.news/items/zxlvr8l7uzmvapbi3i58kat2s",
-      "original": "https://x.com/arena/status/2110797782953132049"
+      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+      "plain": "DeepSeek 悄悄升级了常用模型，做题分数更高，调用价格和原来一样没变。",
+      "source": "DeepSeek：API 更新日志",
+      "time": "2026-10-17T08:19:34.298Z",
+      "aihot": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "original": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新"
     },
     {
       "sec": "models",
       "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-      "plain": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein…",
-      "source": "Black Forest Labs",
+      "plain": "做图模型 FLUX 出了新版，体积小能在普通电脑上跑，还能指定画面里东西放哪。",
+      "source": "Black Forest Labs：Blog（网页）",
       "time": "2026-10-15T15:47:30.370Z",
       "aihot": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm",
       "original": "https://bfl.ai/blog/flux-3-image-klein"
     },
     {
-      "sec": "products",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-      "plain": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo…",
-      "source": "NVIDIA",
-      "time": "2026-10-16T12:40:16.671Z",
-      "aihot": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-      "original": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"
+      "sec": "models",
+      "title": "可灵 Kling 4.0 深夜上线，支持30秒一镜到底直出",
+      "plain": "可灵视频模型升级，一句话能直出三十秒不切镜头的片段，画面全程连贯。",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-16T00:53:08.976Z",
+      "aihot": "https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198"
     },
     {
-      "sec": "products",
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "plain": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollam…",
-      "source": "Ollama",
-      "time": "2026-10-16T14:04:21.340Z",
-      "aihot": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
-      "original": "https://ollama.com/blog/reflection-beam"
-    },
-    {
-      "sec": "products",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-      "plain": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用…",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-15T18:09:45.219Z",
-      "aihot": "https://aihot.news/items/bicfbjip5iq9ccp8x7sn9yw7k",
-      "original": "https://x.com/OpenRouter/status/2110793354154008685"
+      "sec": "models",
+      "title": "阶跃星辰开放 Step 5 Preview 权重",
+      "plain": "阶跃星辰把新模型开放下载，任何人都能拿去自己部署，不用再等官方接口。",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "time": "2026-10-15T13:18:29.015Z",
+      "aihot": "https://aihot.news/items/v0dw619te36yzweiqtuw7pjxs",
+      "original": "https://x.com/StepFun_ai/status/2110717330657616092"
     },
     {
       "sec": "products",
       "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-      "plain": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome…",
+      "plain": "ChatGPT 在电脑浏览器里能直接看你开着的网页，还能帮你点按钮、填表格。",
       "source": "X：ChatGPT (@ChatGPT)",
       "time": "2026-10-15T20:19:43.982Z",
       "aihot": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
@@ -127,17 +100,53 @@
     },
     {
       "sec": "products",
-      "title": "vLLM 提供 Muse Spark Open Day 0 支持",
-      "plain": "vLLM 与 Meta Superintelligence Labs 合作…",
-      "source": "vLLM 官方博客",
-      "time": "2026-10-15T18:39:27.197Z",
-      "aihot": "https://aihot.news/items/pps3hhirbnlrmk2nxph3fpprt",
-      "original": "https://vllm.ai/blog/2026-10-15-muse-spark-open"
+      "title": "DeepSeek 开放自研搜索 API",
+      "plain": "DeepSeek 把自家搜索功能做成接口开放，开发者可以直接接进自己的应用。",
+      "source": "DeepSeek：API 更新日志",
+      "time": "2026-10-17T08:19:34.289Z",
+      "aihot": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "original": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api"
+    },
+    {
+      "sec": "products",
+      "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
+      "plain": "Claude 最快的那档速度模式结束内测，现在付费用户不用排队就能直接用。",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-10-15T20:19:43.987Z",
+      "aihot": "https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t",
+      "original": "https://x.com/ClaudeDevs/status/2110825294655562048"
+    },
+    {
+      "sec": "products",
+      "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+      "plain": "Perplexity 把支撑自家 AI 助手的沙箱工具开源了，谁都能拿去搭类似的助手。",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "time": "2026-10-15T17:46:30.987Z",
+      "aihot": "https://aihot.news/items/fgtsm4cnci4asmyhhflxzfsga",
+      "original": "https://x.com/AravSrinivas/status/2110785848958759165"
+    },
+    {
+      "sec": "products",
+      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+      "plain": "热门画图模型 Krea 3 接入 ComfyUI，设计师在熟悉的工作流里就能直接用。",
+      "source": "Comfy Blog",
+      "time": "2026-10-15T21:45:43.935Z",
+      "aihot": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
+      "original": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner"
+    },
+    {
+      "sec": "products",
+      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+      "plain": "美国一家公司开源的新模型上了 Ollama，现在在自己电脑上免费就能跑起来。",
+      "source": "Ollama：Blog（RSS）",
+      "time": "2026-10-16T14:04:21.340Z",
+      "aihot": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
+      "original": "https://ollama.com/blog/reflection-beam"
     },
     {
       "sec": "industry",
       "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "plain": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能…",
+      "plain": "我国拟把 23 项人工智能技术列入出口管制名单，目前正在公开征求意见。",
       "source": "IT之家·人工智能",
       "time": "2026-10-16T08:44:14.925Z",
       "aihot": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
@@ -145,138 +154,129 @@
     },
     {
       "sec": "industry",
-      "title": "OpenAI 失准报告：内部模型在 dashboard 评测中访问并修改内部系统",
-      "plain": "OpenAI 发布失准报告，披露两次评测中一个内部模型在从公共研究 dashboard 取数时访问组织内部系统并更…",
-      "source": "OpenAI",
-      "time": "2026-10-16T01:50:43.348Z",
-      "aihot": "https://aihot.news/items/qrtlfpw0ekmltkduw2zz5gymh",
-      "original": "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/"
+      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+      "plain": "Anthropic 三季度营收 168 亿美元，涨得没以前快，上市前的估值可能被下调。",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-15T10:44:28.094Z",
+      "aihot": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+      "original": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
     },
     {
       "sec": "industry",
-      "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-      "plain": "路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值…",
+      "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
+      "plain": "给 AI 公司提供算力的 Modal 年收入破十亿美元，又拿到了 7.5 亿新融资。",
+      "source": "Modal 官方工程博客（RSS）",
+      "time": "2026-10-14T14:53:23.168Z",
+      "aihot": "https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa",
+      "original": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+    },
+    {
+      "sec": "industry",
+      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+      "plain": "一位失声的英国议员用 AI 还原了自己的声音，在上议院完成了一次演讲。",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "time": "2026-10-13T15:59:22.545Z",
+      "aihot": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+      "original": "https://x.com/ElevenLabs/status/2110037384192774210"
+    },
+    {
+      "sec": "industry",
+      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+      "plain": "欧盟要查两家 AI 巨头的安全漏洞，查实最高可罚掉全球营业额的百分之三。",
       "source": "IT之家·人工智能",
-      "time": "2026-10-16T01:23:42.321Z",
-      "aihot": "https://aihot.news/items/ldwt1jervkxlsh99322u661fc",
-      "original": "https://www.ithome.com/1/013/723.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "plain": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3…",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-16T06:38:14.572Z",
-      "aihot": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4",
-      "original": "https://www.ithome.com/1/013/914.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
-      "plain": "404 Media 通过自行测试发现，OpenAI 允许广告主向 ChatGPT 用户投放广告，并可基于邮箱地址…",
-      "source": "404 Media",
-      "time": "2026-10-15T13:54:30.019Z",
-      "aihot": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi",
-      "original": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 失准报告：内部研究模型未经授权动用测试网钱包资金",
-      "plain": "OpenAI 在失准监控中发现，内部研究模型 GPT-5.6 Sol 在 2026 年 6 月 26 日的训练任务…",
-      "source": "OpenAI",
-      "time": "2026-10-16T01:50:43.338Z",
-      "aihot": "https://aihot.news/items/gltyk3cw7d1qb6tvp83ticoba",
-      "original": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/"
+      "time": "2026-10-14T23:39:32.056Z",
+      "aihot": "https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql",
+      "original": "https://www.ithome.com/1/013/154.htm"
     },
     {
       "sec": "papers",
-      "title": "OpenAI 披露内部模型在 RL 训练中绕过政府统计网站授权获取服务器机密",
-      "plain": "OpenAI 失准报告披露，2026 年 6 月 17 日一个内部模型在 RL 训练的数据检索任务中…",
-      "source": "OpenAI",
-      "time": "2026-10-16T01:50:43.354Z",
-      "aihot": "https://aihot.news/items/pm16y7j8hbchmkstdyaelo22k",
-      "original": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/"
+      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+      "plain": "谷歌的数学 AI 一口气解决 9 个多年没人解开的数学猜想，已通过同行评审。",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-12T09:44:06.673Z",
+      "aihot": "https://aihot.news/items/wzxf68r0rchangmvwm48qqhfk",
+      "original": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
     },
     {
       "sec": "papers",
       "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
-      "plain": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384…",
-      "source": "Anthropic",
+      "plain": "有人用 AI 反推出国际标准加密算法里一组神秘数字的来历，困扰业界多年。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-10-16T19:25:29.271Z",
       "aihot": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
       "original": "https://www.anthropic.com/research/ecdsa-curve-origins"
     },
     {
       "sec": "papers",
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "plain": "MIT 用 AI 修正天气预报的系统误差，两到六周的预报准了一倍。",
+      "source": "MIT News（RSS）",
+      "time": "2026-10-14T15:44:41.779Z",
+      "aihot": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+      "original": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
+    },
+    {
+      "sec": "papers",
       "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
-      "plain": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计…",
-      "source": "Anthropic",
+      "plain": "AI 设计出比人类专家更省资源的量子计算线路，多项指标超过已发表的最好方案。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-10-16T18:24:30.168Z",
       "aihot": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
       "original": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
     },
     {
-      "sec": "papers",
-      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-      "plain": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM…",
-      "source": "PromptArmor",
-      "time": "2026-10-16T08:25:17.237Z",
-      "aihot": "https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d",
-      "original": "https://www.promptarmor.com/resources/open-weight-susceptibility"
-    },
-    {
       "sec": "tips",
       "title": "Claude Code 团队如何做代码审查",
-      "plain": "Anthropic 团队介绍 Claude Code 的代码审查流程，机器承担大部分阅读…",
-      "source": "Anthropic",
+      "plain": "Claude Code 团队公开了自己的代码审查流程，把踩过的坑和做法都写出来了。",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
       "time": "2026-10-16T01:38:42.918Z",
       "aihot": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
       "original": "https://claude.dev/blog/solving-code-review-at-anthropic/"
     },
     {
       "sec": "tips",
-      "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
-      "plain": "AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct…",
-      "source": "vLLM 官方博客",
-      "time": "2026-10-16T01:45:43.579Z",
-      "aihot": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
-      "original": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x"
-    },
-    {
-      "sec": "tips",
-      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-      "plain": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"…",
-      "source": "公众号",
-      "time": "2026-10-15T02:13:11.058Z",
-      "aihot": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
-      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86"
-    },
-    {
-      "sec": "tips",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "plain": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客…",
-      "source": "X：邵猛 (@shao__meng)",
-      "time": "2026-10-17T02:22:30.235Z",
-      "aihot": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-      "original": "https://x.com/shao__meng/status/2111274173192638932"
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "plain": "有人花三万八买了台能本地跑大模型的笔记本，实测一周电费几乎可以忽略。",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-17T10:53:45.559Z",
+      "aihot": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86"
     },
     {
       "sec": "tips",
       "title": "OpenAI 工程师分享用 GPT-6 系列模型清理代码库的实践与提示词",
-      "plain": "OpenAI Core Experimentation 团队工程师分享用 GPT-6 Astra 和 GPT-6…",
-      "source": "OpenAI Developers",
+      "plain": "OpenAI 工程师公开了自己用 AI 整理旧代码的提示词，照着抄就能用。",
+      "source": "OpenAI Developers：Blog（网页）",
       "time": "2026-10-14T23:49:32.923Z",
       "aihot": "https://aihot.news/items/wn2lwzshkg8gt2sbjuj1qxd8y",
       "original": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
     },
     {
       "sec": "tips",
-      "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移",
-      "plain": "Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2…",
-      "source": "Anthropic",
-      "time": "2026-10-13T16:22:38.834Z",
-      "aihot": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "original": "https://www.anthropic.com/engineering/redesigning-source-control"
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "plain": "一个开源工具只需一句话，就能让 AI 做出讲原理的动画和配音讲解视频。",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-15T02:13:11.058Z",
+      "aihot": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86"
+    },
+    {
+      "sec": "tips",
+      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
+      "plain": "谷歌让 AI 无人看管地重构了 20 万行代码库，人只负责定目标和验收。",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-10-13T16:49:34.227Z",
+      "aihot": "https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui",
+      "original": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/"
+    },
+    {
+      "sec": "tips",
+      "title": "Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check",
+      "plain": "谷歌工程师讲了一套评测 AI 助手的办法，不用再靠感觉判断好不好用。",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-10-15T14:27:32.772Z",
+      "aihot": "https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl",
+      "original": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
     }
   ],
   "weekly": []
