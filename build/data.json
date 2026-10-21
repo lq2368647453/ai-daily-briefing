@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-20",
-    "weekday": "星期二",
-    "scope": "内容取自 AI HOT 日报（2026-10-20）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-21",
+    "weekday": "星期三",
+    "scope": "内容取自 AI HOT 日报（2026-10-21）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-20"
+    "sourceUrl": "https://aihot.news/daily/2026-10-21"
   },
   "sections": [
     {
@@ -46,228 +46,201 @@
   "items": [
     {
       "sec": "models",
-      "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-      "plain": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0…",
-      "source": "蚂蚁 inclusionAI",
-      "time": "2026-10-19T15:20:34.920Z",
-      "aihot": "https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd",
-      "original": "https://github.com/inclusionAI/Ming-3.0-tts"
+      "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+      "plain": "Inception Labs 发布扩散式大语言模型 Mercury 3…",
+      "source": "Inception Labs",
+      "time": "2026-10-19T18:21:34.657Z",
+      "aihot": "https://aihot.news/items/osk3jj5jltogwr6zpo09w80j8",
+      "original": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
     },
     {
       "sec": "models",
-      "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
-      "plain": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本…",
-      "source": "MiniMax",
-      "time": "2026-10-19T12:24:37.520Z",
-      "aihot": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-      "original": "https://www.minimax.io/blog/minimax-m31f"
-    },
-    {
-      "sec": "models",
-      "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-      "plain": "DeepSeek 发布 DeepSeek V4.1 Flash 1017…",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-10-19T16:41:33.751Z",
-      "aihot": "https://aihot.news/items/wrlpmwb2tsk1moehp5kpsvovb",
-      "original": "https://x.com/ArtificialAnlys/status/2112218661432000694"
-    },
-    {
-      "sec": "models",
-      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-      "plain": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max…",
-      "source": "X：fal (@fal)",
-      "time": "2026-10-19T18:42:34.058Z",
-      "aihot": "https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km",
-      "original": "https://x.com/fal/status/2112251022047412492"
-    },
-    {
-      "sec": "models",
-      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-      "plain": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-19T16:39:32.748Z",
-      "aihot": "https://aihot.news/items/qxv5364a77v0d22sab7mq4dha",
-      "original": "https://x.com/arena/status/2112215825944117361"
-    },
-    {
-      "sec": "products",
-      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-      "plain": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s…",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-19T17:11:32.903Z",
-      "aihot": "https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb",
-      "original": "https://x.com/OpenRouter/status/2112225779782398131"
-    },
-    {
-      "sec": "products",
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-      "plain": "AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端…",
+      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+      "plain": "Meta 发布开源权重模型 Muse Spark Open…",
       "source": "PyTorch",
-      "time": "2026-10-19T12:55:35.449Z",
-      "aihot": "https://aihot.news/items/szf3v3re4888fzekwoohhu8b4",
-      "original": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/"
+      "time": "2026-10-15T18:49:28.354Z",
+      "aihot": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
+      "original": "https://pytorch.org/blog/muse-spark-open/"
+    },
+    {
+      "sec": "models",
+      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "plain": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-16T22:51:31.836Z",
+      "aihot": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+      "original": "https://x.com/arena/status/2111221323217412318"
+    },
+    {
+      "sec": "models",
+      "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
+      "plain": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测…",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-15T18:32:29.884Z",
+      "aihot": "https://aihot.news/items/zxlvr8l7uzmvapbi3i58kat2s",
+      "original": "https://x.com/arena/status/2110797782953132049"
+    },
+    {
+      "sec": "models",
+      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+      "plain": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein…",
+      "source": "Black Forest Labs",
+      "time": "2026-10-15T15:47:30.370Z",
+      "aihot": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm",
+      "original": "https://bfl.ai/blog/flux-3-image-klein"
     },
     {
       "sec": "products",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-      "plain": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用…",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-15T18:09:45.219Z",
-      "aihot": "https://aihot.news/items/bicfbjip5iq9ccp8x7sn9yw7k",
-      "original": "https://x.com/OpenRouter/status/2110793354154008685"
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "plain": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源…",
+      "source": "公众号",
+      "time": "2026-10-20T09:30:05.569Z",
+      "aihot": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
+      "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836"
     },
     {
       "sec": "products",
-      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-      "plain": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome…",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "time": "2026-10-15T20:19:43.982Z",
-      "aihot": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-      "original": "https://x.com/ChatGPT/status/2110823738531037651"
+      "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+      "plain": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serve…",
+      "source": "Fireworks AI",
+      "time": "2026-10-20T20:12:36.441Z",
+      "aihot": "https://aihot.news/items/bnkk7s6s6tijtopwjxvx6eiw3",
+      "original": "https://fireworks.ai/blog/meta-muse-spark-open"
     },
     {
       "sec": "products",
-      "title": "vLLM 提供 Muse Spark Open Day 0 支持",
-      "plain": "vLLM 与 Meta Superintelligence Labs 合作…",
-      "source": "vLLM 官方博客",
-      "time": "2026-10-15T18:39:27.197Z",
-      "aihot": "https://aihot.news/items/pps3hhirbnlrmk2nxph3fpprt",
-      "original": "https://vllm.ai/blog/2026-10-15-muse-spark-open"
-    },
-    {
-      "sec": "industry",
-      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-      "plain": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令…",
-      "source": "Hacker News",
-      "time": "2026-10-19T22:25:32.252Z",
-      "aihot": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
-      "original": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/"
-    },
-    {
-      "sec": "industry",
-      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-      "plain": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan…",
-      "source": "Ars Technica",
-      "time": "2026-10-19T21:03:32.695Z",
-      "aihot": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1",
-      "original": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-    },
-    {
-      "sec": "industry",
-      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-      "plain": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈…",
-      "source": "Ars Technica",
-      "time": "2026-10-19T14:57:34.130Z",
-      "aihot": "https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m",
-      "original": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-    },
-    {
-      "sec": "industry",
-      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-      "plain": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网…",
-      "source": "The Verge",
-      "time": "2026-10-19T14:03:30.601Z",
-      "aihot": "https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz",
-      "original": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
-    },
-    {
-      "sec": "industry",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "plain": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能…",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-16T08:44:14.925Z",
-      "aihot": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-      "original": "https://www.ithome.com/1/013/983.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 失准报告：内部模型在 dashboard 评测中访问并修改内部系统",
-      "plain": "OpenAI 发布失准报告，披露两次评测中一个内部模型在从公共研究 dashboard 取数时访问组织内部系统并更…",
-      "source": "OpenAI",
-      "time": "2026-10-16T01:50:43.348Z",
-      "aihot": "https://aihot.news/items/qrtlfpw0ekmltkduw2zz5gymh",
-      "original": "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/"
-    },
-    {
-      "sec": "papers",
-      "title": "OpenAI 披露内部模型在 RL 训练中绕过政府统计网站授权获取服务器机密",
-      "plain": "OpenAI 失准报告披露，2026 年 6 月 17 日一个内部模型在 RL 训练的数据检索任务中…",
-      "source": "OpenAI",
-      "time": "2026-10-16T01:50:43.354Z",
-      "aihot": "https://aihot.news/items/pm16y7j8hbchmkstdyaelo22k",
-      "original": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/"
-    },
-    {
-      "sec": "papers",
-      "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
-      "plain": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384…",
-      "source": "Anthropic",
-      "time": "2026-10-16T19:25:29.271Z",
-      "aihot": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
-      "original": "https://www.anthropic.com/research/ecdsa-curve-origins"
-    },
-    {
-      "sec": "papers",
-      "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
-      "plain": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。到 2026 年 8 月…",
-      "source": "Anthropic",
-      "time": "2026-10-16T23:28:32.543Z",
-      "aihot": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
-      "original": "https://www.anthropic.com/research/employment-at-anthropic"
-    },
-    {
-      "sec": "papers",
-      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-      "plain": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Ma…",
-      "source": "Johann Rehberger /",
-      "time": "2026-10-14T00:35:27.995Z",
-      "aihot": "https://aihot.news/items/o8h7g7pscq0qrlenoadabbb96",
-      "original": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/"
-    },
-    {
-      "sec": "tips",
-      "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
-      "plain": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式…",
-      "source": "Meta Engineering B",
-      "time": "2026-10-19T15:39:33.930Z",
-      "aihot": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
-      "original": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
-    },
-    {
-      "sec": "tips",
-      "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-      "plain": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型…",
-      "source": "n8n Blog",
-      "time": "2026-10-19T13:40:31.713Z",
-      "aihot": "https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude",
-      "original": "https://blog.n8n.io/n8n-nvidia-dgx-spark/"
-    },
-    {
-      "sec": "tips",
-      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-      "plain": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus…",
-      "source": "Meta Engineering B",
-      "time": "2026-10-19T13:37:32.517Z",
-      "aihot": "https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq",
-      "original": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-    },
-    {
-      "sec": "tips",
-      "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-      "plain": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3…",
+      "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+      "plain": "Google 在 PyTorch 相关公告中推出基于 TorchTPU 的 vLLM 和 SGLang 原生 Py…",
       "source": "Google Developers",
-      "time": "2026-10-19T16:44:35.096Z",
-      "aihot": "https://aihot.news/items/emuxoxo4dpkovprjlldl4ugqt",
-      "original": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/"
+      "time": "2026-10-20T15:04:26.165Z",
+      "aihot": "https://aihot.news/items/mlusnw9gi199uld4ixj58m2cz",
+      "original": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/"
+    },
+    {
+      "sec": "products",
+      "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+      "plain": "Google 与 Meta 发布开源项目 TorchTPU…",
+      "source": "PyTorch",
+      "time": "2026-10-20T16:20:18.555Z",
+      "aihot": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
+      "original": "https://pytorch.org/blog/introducing-torchtpu/"
+    },
+    {
+      "sec": "products",
+      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+      "plain": "Perplexity CEO Aravind Srinivas 宣布…",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "time": "2026-10-20T16:55:18.765Z",
+      "aihot": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j",
+      "original": "https://x.com/AravSrinivas/status/2112583333825950207"
+    },
+    {
+      "sec": "industry",
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "plain": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令…",
+      "source": "Hacker News",
+      "time": "2026-10-20T03:28:53.841Z",
+      "aihot": "https://aihot.news/items/apaky0ybxpb9uwt12jrwj954p",
+      "original": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+    },
+    {
+      "sec": "industry",
+      "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+      "plain": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBL…",
+      "source": "The Decoder",
+      "time": "2026-10-20T13:31:20.848Z",
+      "aihot": "https://aihot.news/items/u6kqfrgiqrhbpxn012nlisd66",
+      "original": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/"
+    },
+    {
+      "sec": "industry",
+      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+      "plain": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损…",
+      "source": "TechCrunch",
+      "time": "2026-10-20T20:49:36.038Z",
+      "aihot": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
+      "original": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+    },
+    {
+      "sec": "industry",
+      "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+      "plain": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1…",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-20T08:10:22.619Z",
+      "aihot": "https://aihot.news/items/srgsfi8edabzrwgg6vjtgw3ya",
+      "original": "https://x.com/rohanpaul_ai/status/2112455383356989598"
+    },
+    {
+      "sec": "industry",
+      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+      "plain": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS…",
+      "source": "TechCrunch",
+      "time": "2026-10-20T21:43:35.828Z",
+      "aihot": "https://aihot.news/items/cbzvuf1atk51l7i5c2dpgboao",
+      "original": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+    },
+    {
+      "sec": "industry",
+      "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+      "plain": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者…",
+      "source": "公众号",
+      "time": "2026-10-20T01:02:06.704Z",
+      "aihot": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20"
+    },
+    {
+      "sec": "papers",
+      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+      "plain": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时…",
+      "source": "Anthropic",
+      "time": "2026-10-20T14:33:19.366Z",
+      "aihot": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j",
+      "original": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "sec": "papers",
+      "title": "METR 评测 Anthropic 2026 年 8 月风险报告对齐章节，认可低风险结论但质疑评估方法",
+      "plain": "METR 发布对 Anthropic 2026 年 8 月风险报告“高风险场景中的错位”章节的独立外部审查…",
+      "source": "METR",
+      "time": "2026-10-20T15:01:17.994Z",
+      "aihot": "https://aihot.news/items/kvok7sv5ddw0i5n62gbtuwtt3",
+      "original": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/"
+    },
+    {
+      "sec": "papers",
+      "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
+      "plain": "斯坦福团队总结三年构建医疗 AI 基准的成果，PhysicianBench 上最佳模型 GPT-5…",
+      "source": "Stanford HAI News",
+      "time": "2026-10-20T00:29:32.986Z",
+      "aihot": "https://aihot.news/items/dla37so34wcgznigffx3j6qko",
+      "original": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do"
+    },
+    {
+      "sec": "papers",
+      "title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称",
+      "plain": "Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀…",
+      "source": "Ai2 / Allen Instit",
+      "time": "2026-10-20T16:09:17.516Z",
+      "aihot": "https://aihot.news/items/cszm6fv1o99q04dbffzx8qqio",
+      "original": "https://allenai.org/blog/fairstress"
     },
     {
       "sec": "tips",
-      "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-      "plain": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设…",
-      "source": "LangChain",
-      "time": "2026-10-19T15:41:36.251Z",
-      "aihot": "https://aihot.news/items/nk19eo4eud45d47tmwxm684iu",
-      "original": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith"
+      "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook",
+      "plain": "Google 推出 TorchTitan TPU 分叉（github…",
+      "source": "Google Developers",
+      "time": "2026-10-20T15:04:26.177Z",
+      "aihot": "https://aihot.news/items/h4dx2g41nbw5jofprsfwr2xmq",
+      "original": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/"
+    },
+    {
+      "sec": "tips",
+      "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+      "plain": "面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术…",
+      "source": "公众号",
+      "time": "2026-10-20T07:02:24.493Z",
+      "aihot": "https://aihot.news/items/m2ylwtzb8x49c32spfl1wplqz",
+      "original": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea"
     },
     {
       "sec": "tips",
@@ -277,6 +250,33 @@
       "time": "2026-10-15T02:13:11.058Z",
       "aihot": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
       "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86"
+    },
+    {
+      "sec": "tips",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "plain": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客…",
+      "source": "X：邵猛 (@shao__meng)",
+      "time": "2026-10-17T02:22:30.235Z",
+      "aihot": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+      "original": "https://x.com/shao__meng/status/2111274173192638932"
+    },
+    {
+      "sec": "tips",
+      "title": "Claude Code 团队如何做代码审查：六层检查与风险分级审批",
+      "plain": "Anthropic Claude Code 团队详解在 Claude 写约 90% 代码的情况下如何组织代码审查…",
+      "source": "Anthropic",
+      "time": "2026-10-16T01:38:42.918Z",
+      "aihot": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
+      "original": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    {
+      "sec": "tips",
+      "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+      "plain": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式…",
+      "source": "Meta Engineering B",
+      "time": "2026-10-19T15:39:33.930Z",
+      "aihot": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
+      "original": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
     }
   ],
   "weekly": []
