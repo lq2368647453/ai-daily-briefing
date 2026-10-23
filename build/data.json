@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-22",
-    "weekday": "星期四",
-    "scope": "内容取自 AI HOT 日报（2026-10-22）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-23",
+    "weekday": "星期五",
+    "scope": "内容取自 AI HOT 日报（2026-10-23）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-22"
+    "sourceUrl": "https://aihot.news/daily/2026-10-23"
   },
   "sections": [
     {
@@ -46,39 +46,12 @@
   "items": [
     {
       "sec": "models",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "plain": "Meta 发布开源权重模型 Muse Spark Open…",
-      "source": "PyTorch",
-      "time": "2026-10-15T18:49:28.354Z",
-      "aihot": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-      "original": "https://pytorch.org/blog/muse-spark-open/"
-    },
-    {
-      "sec": "models",
       "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
       "plain": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena…",
       "source": "X：Arena (@arena)",
       "time": "2026-10-16T22:51:31.836Z",
       "aihot": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
       "original": "https://x.com/arena/status/2111221323217412318"
-    },
-    {
-      "sec": "models",
-      "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-      "plain": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测…",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-15T18:32:29.884Z",
-      "aihot": "https://aihot.news/items/zxlvr8l7uzmvapbi3i58kat2s",
-      "original": "https://x.com/arena/status/2110797782953132049"
-    },
-    {
-      "sec": "models",
-      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-      "plain": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein…",
-      "source": "Black Forest Labs",
-      "time": "2026-10-15T15:47:30.370Z",
-      "aihot": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm",
-      "original": "https://bfl.ai/blog/flux-3-image-klein"
     },
     {
       "sec": "models",
@@ -90,139 +63,175 @@
       "original": "https://x.com/arena/status/2112247114944360666"
     },
     {
-      "sec": "products",
-      "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
-      "plain": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用…",
-      "source": "Claude",
-      "time": "2026-10-21T19:51:27.312Z",
-      "aihot": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-      "original": "https://claude.com/blog/claude-duet"
+      "sec": "models",
+      "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
+      "plain": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0…",
+      "source": "蚂蚁 inclusionAI",
+      "time": "2026-10-19T15:20:34.920Z",
+      "aihot": "https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd",
+      "original": "https://github.com/inclusionAI/Ming-3.0-tts"
+    },
+    {
+      "sec": "models",
+      "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
+      "plain": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本…",
+      "source": "MiniMax",
+      "time": "2026-10-19T12:24:37.520Z",
+      "aihot": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+      "original": "https://www.minimax.io/blog/minimax-m31f"
+    },
+    {
+      "sec": "models",
+      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+      "plain": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B…",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "time": "2026-10-23T01:34:25.269Z",
+      "aihot": "https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314",
+      "original": "https://x.com/MiniMax_AI/status/2113436864904610008"
     },
     {
       "sec": "products",
-      "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
-      "plain": "蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github…",
-      "source": "vLLM 官方博客",
-      "time": "2026-10-21T03:13:30.567Z",
-      "aihot": "https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q",
-      "original": "https://vllm.ai/blog/2026-10-21-humming"
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "plain": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页…",
+      "source": "X：Claude (@claudeai)",
+      "time": "2026-10-22T20:24:22.221Z",
+      "aihot": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+      "original": "https://x.com/claudeai/status/2113360845409583307"
     },
     {
       "sec": "products",
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "plain": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存…",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-10-21T01:11:37.542Z",
-      "aihot": "https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv",
-      "original": "https://x.com/thsottiaux/status/2112712984644784534"
+      "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+      "plain": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体…",
+      "source": "Replit",
+      "time": "2026-10-22T21:21:21.369Z",
+      "aihot": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
+      "original": "https://replit.com/blog/replit-monitoring-agent"
     },
     {
       "sec": "products",
-      "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-      "plain": "OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github…",
-      "source": "X：OpenAI (@OpenAI)",
-      "time": "2026-10-21T16:35:32.505Z",
-      "aihot": "https://aihot.news/items/b31hjqo2l088vfydp5gcdyv8p",
-      "original": "https://x.com/OpenAI/status/2112945805686604033"
-    },
-    {
-      "sec": "products",
-      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-      "plain": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源…",
-      "source": "公众号",
-      "time": "2026-10-20T09:30:05.569Z",
-      "aihot": "https://aihot.news/items/ckykonvith99q6hvd0utjdwfn",
-      "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836"
-    },
-    {
-      "sec": "industry",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-      "plain": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-21T05:18:17.194Z",
-      "aihot": "https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq",
-      "original": "https://x.com/rohanpaul_ai/status/2112768460866695334"
-    },
-    {
-      "sec": "industry",
-      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-      "plain": "WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-21T04:47:15.390Z",
-      "aihot": "https://aihot.news/items/oiqrjvmo3ausrs9j1ttttsqc5",
-      "original": "https://x.com/rohanpaul_ai/status/2112763999586771238"
-    },
-    {
-      "sec": "industry",
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-      "plain": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI…",
-      "source": "Wiz",
-      "time": "2026-10-21T14:46:55.594Z",
-      "aihot": "https://aihot.news/items/rmwtbq3o8rnr9kfjbgric6qew",
-      "original": "https://www.wiz.io/blog/litellm-compromised-steals-credentials"
-    },
-    {
-      "sec": "industry",
-      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-      "plain": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案…",
-      "source": "ChinaTalk",
-      "time": "2026-10-21T13:51:40.570Z",
-      "aihot": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m",
-      "original": "https://www.chinatalk.media/p/mofcoms-new-ai-rules"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 报告 GPT-6.1 Sol 与 GPT-6 Astra 内部部署中抑制失准监控警报事件",
-      "plain": "OpenAI 通报两起内部编码任务中的失准事件：10 月 3 日 GPT-6.1 Sol 在修复评估管线时…",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+      "plain": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由…",
       "source": "OpenAI",
-      "time": "2026-10-21T00:15:37.700Z",
-      "aihot": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7",
-      "original": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/"
+      "time": "2026-10-22T20:32:21.154Z",
+      "aihot": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
+      "original": "https://openai.com/index/decisions-api"
+    },
+    {
+      "sec": "products",
+      "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
+      "plain": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini …",
+      "source": "MiniMax",
+      "time": "2026-10-22T07:25:31.903Z",
+      "aihot": "https://aihot.news/items/paq5nfs7jxno8qghh27ho05be",
+      "original": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729"
+    },
+    {
+      "sec": "products",
+      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+      "plain": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图…",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "time": "2026-10-22T07:01:35.938Z",
+      "aihot": "https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v",
+      "original": "https://x.com/Kling_ai/status/2113156632134005040"
     },
     {
       "sec": "industry",
-      "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-      "plain": "OpenAI 宣布在过去两个月牵头维护者、研究者与安全厂商联盟，修复 PHP 的关键漏洞…",
-      "source": "OpenAI",
-      "time": "2026-10-21T15:00:33.243Z",
-      "aihot": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-      "original": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "plain": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9…",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "time": "2026-10-22T02:53:31.195Z",
+      "aihot": "https://aihot.news/items/h1v8wxdkljwpiyadhmy7miw4x",
+      "original": "https://x.com/Khazix0918/status/2113096414469464281"
+    },
+    {
+      "sec": "industry",
+      "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
+      "plain": "据雅虎财经援引知情人士报道，Anthropic 最早或于本周五公开提交 S-1 招股说明书…",
+      "source": "IT之家·人工智能",
+      "time": "2026-10-22T02:40:30.706Z",
+      "aihot": "https://aihot.news/items/p6muwj8t5l4p2fcshu0tpzpek",
+      "original": "https://www.ithome.com/1/016/243.htm"
+    },
+    {
+      "sec": "industry",
+      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+      "plain": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变…",
+      "source": "Newcomer 新闻长文",
+      "time": "2026-10-22T16:25:34.382Z",
+      "aihot": "https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4",
+      "original": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table"
+    },
+    {
+      "sec": "industry",
+      "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+      "plain": "Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点…",
+      "source": "The Decoder",
+      "time": "2026-10-22T12:12:39.085Z",
+      "aihot": "https://aihot.news/items/r557iovkk5v7ddt8py86ejctv",
+      "original": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/"
+    },
+    {
+      "sec": "industry",
+      "title": "Bloomberg 报道 DeepSeek 新一轮融资约 150 亿美元",
+      "plain": "据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为中国最大规模私募融资之一…",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-22T03:28:34.414Z",
+      "aihot": "https://aihot.news/items/eud25k8zsrrwc63xp39ptvfah",
+      "original": "https://x.com/rohanpaul_ai/status/2113106318659928525"
+    },
+    {
+      "sec": "industry",
+      "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+      "plain": "WSJ 报道，马斯克希望以 AI 为核心将估值约 $2T 的 SpaceX 与约 $1.5T 的 Tesla 合并…",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-22T03:28:34.407Z",
+      "aihot": "https://aihot.news/items/nag5wgod0havrmodeo75pwnge",
+      "original": "https://x.com/rohanpaul_ai/status/2113107154219741231"
     },
     {
       "sec": "papers",
-      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-      "plain": "Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出…",
-      "source": "Microsoft Research",
-      "time": "2026-10-21T16:05:33.631Z",
-      "aihot": "https://aihot.news/items/y1fd2c0s3ydociygdah7apvme",
-      "original": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
-    },
-    {
-      "sec": "papers",
-      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
-      "plain": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个…",
+      "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
+      "plain": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格…",
       "source": "Anthropic",
-      "time": "2026-10-21T10:56:25.416Z",
-      "aihot": "https://aihot.news/items/m21za8riy5da0davyqguzkvla",
-      "original": "https://www.anthropic.com/research/attack-surface-reduction"
+      "time": "2026-10-22T22:32:19.942Z",
+      "aihot": "https://aihot.news/items/jsr18rtgxl0kvb0k7np7lpyou",
+      "original": "https://www.anthropic.com/research/formal-verification"
     },
     {
       "sec": "papers",
-      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-      "plain": "OpenAI、PerturbAI 与 Scripps Research 联合发布研究…",
-      "source": "OpenAI",
-      "time": "2026-10-21T14:04:23.842Z",
-      "aihot": "https://aihot.news/items/indtvl01y865vrsp81h64q7j4",
-      "original": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "plain": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 …",
+      "source": "Microsoft AI",
+      "time": "2026-10-22T18:48:21.751Z",
+      "aihot": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
+      "original": "https://microsoft.ai/news/building-medical-superintelligence/"
     },
     {
       "sec": "papers",
-      "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-      "plain": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究…",
-      "source": "Google Research",
-      "time": "2026-10-21T16:25:57.906Z",
-      "aihot": "https://aihot.news/items/ndcmko0udqo2kgybo0kolxswj",
-      "original": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/"
+      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+      "plain": "METR 与 Redwood Research 各派一名员工…",
+      "source": "Redwood Research",
+      "time": "2026-10-22T16:17:41.027Z",
+      "aihot": "https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7",
+      "original": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent"
+    },
+    {
+      "sec": "papers",
+      "title": "Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息",
+      "plain": "Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码…",
+      "source": "Sierra",
+      "time": "2026-10-22T14:28:42.471Z",
+      "aihot": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3",
+      "original": "https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right"
+    },
+    {
+      "sec": "tips",
+      "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
+      "plain": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器…",
+      "source": "Claude",
+      "time": "2026-10-22T16:17:37.766Z",
+      "aihot": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
+      "original": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop"
     },
     {
       "sec": "tips",
@@ -232,15 +241,6 @@
       "time": "2026-10-17T02:22:30.235Z",
       "aihot": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
       "original": "https://x.com/shao__meng/status/2111274173192638932"
-    },
-    {
-      "sec": "tips",
-      "title": "Claude Code 团队如何做代码审查：六层检查与风险分级审批",
-      "plain": "Anthropic Claude Code 团队详解在 Claude 写约 90% 代码的情况下如何组织代码审查…",
-      "source": "Anthropic",
-      "time": "2026-10-16T01:38:42.918Z",
-      "aihot": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
-      "original": "https://claude.dev/blog/solving-code-review-at-anthropic/"
     },
     {
       "sec": "tips",
