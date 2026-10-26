@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-25",
-    "weekday": "星期日",
-    "scope": "内容取自 AI HOT 日报（2026-10-25）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-26",
+    "weekday": "星期一",
+    "scope": "内容取自 AI HOT 日报（2026-10-26）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-25"
+    "sourceUrl": "https://aihot.news/daily/2026-10-26"
   },
   "sections": [
     {
@@ -190,15 +190,6 @@
     },
     {
       "sec": "papers",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "plain": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络…",
-      "source": "The Decoder",
-      "time": "2026-10-24T11:53:51.477Z",
-      "aihot": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "original": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
-    },
-    {
-      "sec": "papers",
       "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
       "plain": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格…",
       "source": "Anthropic",
@@ -223,6 +214,24 @@
       "time": "2026-10-23T13:45:35.382Z",
       "aihot": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
       "original": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+    },
+    {
+      "sec": "papers",
+      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+      "plain": "Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出…",
+      "source": "Microsoft Research",
+      "time": "2026-10-21T16:05:33.631Z",
+      "aihot": "https://aihot.news/items/y1fd2c0s3ydociygdah7apvme",
+      "original": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
+    },
+    {
+      "sec": "tips",
+      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+      "plain": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI…",
+      "source": "Browser Use",
+      "time": "2026-10-25T23:59:19.584Z",
+      "aihot": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
+      "original": "https://browser-use.com/posts/coding-agent-logged-in-chrome"
     },
     {
       "sec": "tips",
@@ -253,30 +262,21 @@
     },
     {
       "sec": "tips",
+      "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+      "plain": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例…",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "time": "2026-10-26T04:49:38.051Z",
+      "aihot": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
+      "original": "https://x.com/Khazix0918/status/2114579883527655853"
+    },
+    {
+      "sec": "tips",
       "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
       "plain": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型…",
       "source": "n8n Blog",
       "time": "2026-10-19T13:40:31.713Z",
       "aihot": "https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude",
       "original": "https://blog.n8n.io/n8n-nvidia-dgx-spark/"
-    },
-    {
-      "sec": "tips",
-      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-      "plain": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus…",
-      "source": "Meta Engineering B",
-      "time": "2026-10-19T13:37:32.517Z",
-      "aihot": "https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq",
-      "original": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-    },
-    {
-      "sec": "tips",
-      "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-      "plain": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3…",
-      "source": "Google Developers",
-      "time": "2026-10-19T16:44:35.096Z",
-      "aihot": "https://aihot.news/items/emuxoxo4dpkovprjlldl4ugqt",
-      "original": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/"
     }
   ],
   "weekly": []
