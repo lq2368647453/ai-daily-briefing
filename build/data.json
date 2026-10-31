@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-10-30",
-    "weekday": "星期五",
-    "scope": "内容取自 AI HOT 日报（2026-10-30）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-10-31",
+    "weekday": "星期六",
+    "scope": "内容取自 AI HOT 日报（2026-10-31）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-10-30"
+    "sourceUrl": "https://aihot.news/daily/2026-10-31"
   },
   "sections": [
     {
@@ -46,33 +46,6 @@
   "items": [
     {
       "sec": "models",
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-      "plain": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客…",
-      "source": "Hugging Face 官方团队博",
-      "time": "2026-10-29T14:47:14.993Z",
-      "aihot": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-      "original": "https://huggingface.co/blog/mistral-large4"
-    },
-    {
-      "sec": "models",
-      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-      "plain": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练…",
-      "source": "OpenMOSS / 复旦NLP /",
-      "time": "2026-10-29T02:05:30.449Z",
-      "aihot": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
-      "original": "https://openmoss.ai/blog/cn/moss-image/"
-    },
-    {
-      "sec": "models",
-      "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
-      "plain": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex…",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "time": "2026-10-29T20:22:32.806Z",
-      "aihot": "https://aihot.news/items/eq47lph0rzobf8cr950saiu8r",
-      "original": "https://x.com/Khazix0918/status/2115898252004622617"
-    },
-    {
-      "sec": "models",
       "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
       "plain": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型…",
       "source": "OpenAI",
@@ -88,6 +61,60 @@
       "time": "2026-10-27T00:06:38.433Z",
       "aihot": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
       "original": "https://www.ithome.com/1/018/203.htm"
+    },
+    {
+      "sec": "models",
+      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
+      "plain": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客…",
+      "source": "Hugging Face 官方团队博",
+      "time": "2026-10-29T14:47:14.993Z",
+      "aihot": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
+      "original": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "sec": "models",
+      "title": "Artificial Analysis 评测 GPT-6.1 Terra：以不到三分之一成本推进性价比前沿",
+      "plain": "Artificial Analysis 评测 OpenAI 发布的 GPT-6.1 Terra…",
+      "source": "Artificial Analysi",
+      "time": "2026-10-26T18:33:19.250Z",
+      "aihot": "https://aihot.news/items/ub3gw75dlj8fpfm63er4k1xn2",
+      "original": "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier"
+    },
+    {
+      "sec": "models",
+      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+      "plain": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感…",
+      "source": "Google DeepMind",
+      "time": "2026-10-27T16:09:41.747Z",
+      "aihot": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+      "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+      "sec": "products",
+      "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+      "plain": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra…",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "time": "2026-10-30T18:08:27.736Z",
+      "aihot": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+      "original": "https://x.com/adocomplete/status/2116224220539883992"
+    },
+    {
+      "sec": "products",
+      "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
+      "plain": "Google 于 10 月 30 日宣布 Gemini API 的 Computer Use 工具正式可用（GA）…",
+      "source": "Gemini API",
+      "time": "2026-10-30T12:42:20.181Z",
+      "aihot": "https://aihot.news/items/qit1hgequ8pknedqqvuei5wfh",
+      "original": "https://ai.google.dev/gemini-api/docs/changelog#10-30-2026"
+    },
+    {
+      "sec": "products",
+      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+      "plain": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE…",
+      "source": "X：Unsloth (@UnslothAI)",
+      "time": "2026-10-29T14:52:22.015Z",
+      "aihot": "https://aihot.news/items/rph54wkrnzjpvov4cv0mxqatl",
+      "original": "https://x.com/UnslothAI/status/2115812784189620265"
     },
     {
       "sec": "products",
@@ -108,112 +135,67 @@
       "original": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/"
     },
     {
-      "sec": "products",
-      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
-      "plain": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729）…",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "time": "2026-10-29T17:26:26.353Z",
-      "aihot": "https://aihot.news/items/nb40aoihhydhoo0acp0rcyaol",
-      "original": "https://x.com/TencentHunyuan/status/2115851165904814283"
-    },
-    {
-      "sec": "products",
-      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-      "plain": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件…",
-      "source": "X：Gemini (@GeminiApp)",
-      "time": "2026-10-29T17:06:26.615Z",
-      "aihot": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h",
-      "original": "https://x.com/GeminiApp/status/2115845164824711247"
-    },
-    {
-      "sec": "products",
-      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-      "plain": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻…",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-10-29T17:05:16.299Z",
-      "aihot": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-      "original": "https://x.com/thsottiaux/status/2115850175868727621"
-    },
-    {
       "sec": "industry",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-      "plain": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长…",
-      "source": "The Verge",
-      "time": "2026-10-29T13:34:14.508Z",
-      "aihot": "https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9",
-      "original": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
-    },
-    {
-      "sec": "industry",
-      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-      "plain": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%…",
-      "source": "The Decoder",
-      "time": "2026-10-29T10:34:14.765Z",
-      "aihot": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
-      "original": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/"
-    },
-    {
-      "sec": "industry",
-      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-      "plain": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件…",
-      "source": "404 Media",
-      "time": "2026-10-29T14:35:14.236Z",
-      "aihot": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-      "original": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/"
-    },
-    {
-      "sec": "industry",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-      "plain": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现…",
+      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+      "plain": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元…",
       "source": "TechCrunch",
-      "time": "2026-10-29T20:32:38.644Z",
-      "aihot": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
-      "original": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      "time": "2026-10-30T21:44:43.522Z",
+      "aihot": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+      "original": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
     },
     {
       "sec": "industry",
-      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-      "plain": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报…",
-      "source": "The Decoder",
-      "time": "2026-10-29T14:38:16.758Z",
-      "aihot": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
-      "original": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-      "plain": "OpenAI 更新其公开的 Model Spec，将指导原则重组为五项核心价值观：忠实于人类意图、最小化伤害…",
-      "source": "OpenAI",
-      "time": "2026-10-29T17:57:26.230Z",
-      "aihot": "https://aihot.news/items/rccreyesa3aeph7jasj5spv29",
-      "original": "https://openai.com/index/updated-model-spec"
-    },
-    {
-      "sec": "papers",
-      "title": "OpenAI 详解如何检测前沿模型失准行为",
-      "plain": "OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查…",
-      "source": "OpenAI",
-      "time": "2026-10-29T17:57:26.242Z",
-      "aihot": "https://aihot.news/items/ck2bk0ns12i2hkg4ae0eoeabv",
-      "original": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-    },
-    {
-      "sec": "papers",
-      "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
-      "plain": "Trakkr Research 向 ChatGPT、Perplexity、Gemini…",
+      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+      "plain": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
       "source": "Hacker News",
-      "time": "2026-10-29T16:46:25.653Z",
-      "aihot": "https://aihot.news/items/dmi67weoeety92021tvuyf1hs",
-      "original": "https://trakkr.ai/trakkr-research/zombie-stats"
+      "time": "2026-10-30T18:08:27.220Z",
+      "aihot": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
+      "original": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+    },
+    {
+      "sec": "industry",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "plain": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示…",
+      "source": "TechCrunch",
+      "time": "2026-10-30T00:36:05.686Z",
+      "aihot": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
+      "original": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "sec": "industry",
+      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+      "plain": "Philipp Schmid 转引 Sundar Pichai 的消息…",
+      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "time": "2026-10-30T18:40:36.388Z",
+      "aihot": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "original": "https://x.com/_philschmid/status/2116235686445502608"
+    },
+    {
+      "sec": "industry",
+      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+      "plain": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件…",
+      "source": "X：Cursor (@cursor_ai)",
+      "time": "2026-10-30T08:03:17.265Z",
+      "aihot": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "original": "https://x.com/cursor_ai/status/2116074289053175808"
+    },
+    {
+      "sec": "industry",
+      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+      "plain": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月…",
+      "source": "Sierra",
+      "time": "2026-10-30T13:04:24.112Z",
+      "aihot": "https://aihot.news/items/hfhskyex3cjrs3huvpmi1z7bg",
+      "original": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"
     },
     {
       "sec": "papers",
-      "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
-      "plain": "Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX…",
-      "source": "Wiz",
-      "time": "2026-10-29T15:37:16.282Z",
-      "aihot": "https://aihot.news/items/mdcygre4ettjdbca7sq6vu7zx",
-      "original": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed"
+      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+      "plain": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5…",
+      "source": "Epoch AI",
+      "time": "2026-10-30T12:38:19.068Z",
+      "aihot": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "original": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox"
     },
     {
       "sec": "papers",
@@ -225,40 +207,22 @@
       "original": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
     },
     {
-      "sec": "tips",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "plain": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型…",
-      "source": "OpenRouter",
-      "time": "2026-10-29T00:33:30.586Z",
-      "aihot": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-      "original": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/"
+      "sec": "papers",
+      "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
+      "plain": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Op…",
+      "source": "Anthropic",
+      "time": "2026-10-27T19:15:40.693Z",
+      "aihot": "https://aihot.news/items/d0k8x9588e62wlqnfoq3bmtq0",
+      "original": "https://www.anthropic.com/research/agents-judgment-calls"
     },
     {
-      "sec": "tips",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-      "plain": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5…",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "time": "2026-10-29T06:36:43.210Z",
-      "aihot": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
-      "original": "https://x.com/addyosmani/status/2115688494865465370"
-    },
-    {
-      "sec": "tips",
-      "title": "Figma 讲解如何训练专用画布编辑模型",
-      "plain": "Figma 介绍其为 agent 自研 Figma 编辑模型的训练方法，先用超过 25 万条合成样本做 SFT…",
-      "source": "Figma AI / Agent /",
-      "time": "2026-10-29T20:40:40.676Z",
-      "aihot": "https://aihot.news/items/z9kqlhsgiz11fvlk3aodm6seg",
-      "original": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
-    },
-    {
-      "sec": "tips",
-      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-      "plain": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI…",
-      "source": "Browser Use",
-      "time": "2026-10-25T23:59:19.584Z",
-      "aihot": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
-      "original": "https://browser-use.com/posts/coding-agent-logged-in-chrome"
+      "sec": "papers",
+      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+      "plain": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI…",
+      "source": "Wiz",
+      "time": "2026-10-31T00:03:45.737Z",
+      "aihot": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz",
+      "original": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
     },
     {
       "sec": "tips",
@@ -271,12 +235,48 @@
     },
     {
       "sec": "tips",
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-      "plain": "Addy Osmani 发布 Claude Code Mods 上手指南…",
+      "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+      "plain": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程…",
+      "source": "公众号",
+      "time": "2026-10-30T04:11:54.922Z",
+      "aihot": "https://aihot.news/items/ykvaq4vx3ydt23josezzan62r",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a"
+    },
+    {
+      "sec": "tips",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "plain": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型…",
+      "source": "OpenRouter",
+      "time": "2026-10-29T00:33:30.586Z",
+      "aihot": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+      "original": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/"
+    },
+    {
+      "sec": "tips",
+      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+      "plain": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI…",
+      "source": "Browser Use",
+      "time": "2026-10-25T23:59:19.584Z",
+      "aihot": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
+      "original": "https://browser-use.com/posts/coding-agent-logged-in-chrome"
+    },
+    {
+      "sec": "tips",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "plain": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5…",
       "source": "X：Addy Osmani (@addyosmani)",
-      "time": "2026-10-28T06:26:29.821Z",
-      "aihot": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
-      "original": "https://x.com/addyosmani/status/2115326629488824753"
+      "time": "2026-10-29T06:36:43.210Z",
+      "aihot": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+      "original": "https://x.com/addyosmani/status/2115688494865465370"
+    },
+    {
+      "sec": "tips",
+      "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
+      "plain": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析…",
+      "source": "Pydantic AI 官方文章",
+      "time": "2026-10-28T18:10:21.636Z",
+      "aihot": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
+      "original": "https://pydantic.dev/articles/why-code-mode-is-the-future"
     }
   ],
   "weekly": []
