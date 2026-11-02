@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-11-01",
-    "weekday": "星期日",
-    "scope": "内容取自 AI HOT 日报（2026-11-01）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "date": "2026-11-02",
+    "weekday": "星期一",
+    "scope": "内容取自 AI HOT 日报（2026-11-02）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-11-01"
+    "sourceUrl": "https://aihot.news/daily/2026-11-02"
   },
   "sections": [
     {
@@ -91,15 +91,6 @@
     },
     {
       "sec": "products",
-      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-      "plain": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台…",
-      "source": "Figma AI / Agent /",
-      "time": "2026-10-31T00:04:48.353Z",
-      "aihot": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
-      "original": "https://www.figma.com/blog/the-tldr-on-figma-weave/"
-    },
-    {
-      "sec": "products",
       "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
       "plain": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE…",
       "source": "X：Unsloth (@UnslothAI)",
@@ -135,31 +126,22 @@
       "original": "https://x.com/OpenRouter/status/2114791584755839168"
     },
     {
-      "sec": "industry",
-      "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
-      "plain": "据彭博社10月31日报道，Alphabet、Meta、微软…",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-31T16:24:39.611Z",
-      "aihot": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3",
-      "original": "https://www.ithome.com/1/020/632.htm"
+      "sec": "products",
+      "title": "vLLM 发布 Mistral Large 4 Day 0 支持",
+      "plain": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持…",
+      "source": "vLLM 官方博客",
+      "time": "2026-10-29T15:09:15.589Z",
+      "aihot": "https://aihot.news/items/x6x8nkxn5mqc55umit3clj1tf",
+      "original": "https://vllm.ai/blog/2026-10-29-mistral-large-4"
     },
     {
       "sec": "industry",
-      "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
-      "plain": "据 The Information 报道、Bloomberg 佐证…",
-      "source": "TechCrunch",
-      "time": "2026-10-31T01:23:45.284Z",
-      "aihot": "https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8",
-      "original": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-    },
-    {
-      "sec": "industry",
-      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-      "plain": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9…",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-31T03:52:15.963Z",
-      "aihot": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu",
-      "original": "https://www.ithome.com/1/020/444.htm"
+      "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+      "plain": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合…",
+      "source": "公众号",
+      "time": "2026-11-01T00:31:11.801Z",
+      "aihot": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b"
     },
     {
       "sec": "industry",
@@ -189,13 +171,22 @@
       "original": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de"
     },
     {
-      "sec": "papers",
-      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-      "plain": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI…",
-      "source": "Wiz",
-      "time": "2026-10-31T00:03:45.737Z",
-      "aihot": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz",
-      "original": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
+      "sec": "industry",
+      "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+      "plain": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1…",
+      "source": "Cursor Blog",
+      "time": "2026-10-30T07:49:16.758Z",
+      "aihot": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+      "original": "https://cursor.com/blog/claude-code-extension-security-notice"
+    },
+    {
+      "sec": "industry",
+      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+      "plain": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+      "source": "Hacker News",
+      "time": "2026-10-30T18:08:27.220Z",
+      "aihot": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
+      "original": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
     },
     {
       "sec": "papers",
@@ -217,39 +208,21 @@
     },
     {
       "sec": "papers",
+      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+      "plain": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI…",
+      "source": "Wiz",
+      "time": "2026-10-31T00:03:45.737Z",
+      "aihot": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz",
+      "original": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
+    },
+    {
+      "sec": "papers",
       "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
       "plain": "Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3…",
       "source": "Hacker News",
       "time": "2026-10-26T18:49:39.412Z",
       "aihot": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
       "original": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
-      "plain": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11…",
-      "source": "OpenRouter",
-      "time": "2026-10-31T01:11:44.821Z",
-      "aihot": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
-      "original": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "plain": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型…",
-      "source": "OpenRouter",
-      "time": "2026-10-29T00:33:30.586Z",
-      "aihot": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-      "original": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/"
-    },
-    {
-      "sec": "tips",
-      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-      "plain": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI…",
-      "source": "Browser Use",
-      "time": "2026-10-25T23:59:19.584Z",
-      "aihot": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
-      "original": "https://browser-use.com/posts/coding-agent-logged-in-chrome"
     },
     {
       "sec": "tips",
@@ -262,12 +235,39 @@
     },
     {
       "sec": "tips",
+      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
+      "plain": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时…",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "time": "2026-11-01T20:13:35.527Z",
+      "aihot": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
+      "original": "https://x.com/addyosmani/status/2116986087390486816"
+    },
+    {
+      "sec": "tips",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "plain": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型…",
+      "source": "OpenRouter",
+      "time": "2026-10-29T00:33:30.586Z",
+      "aihot": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+      "original": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/"
+    },
+    {
+      "sec": "tips",
       "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
       "plain": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5…",
       "source": "X：Addy Osmani (@addyosmani)",
       "time": "2026-10-29T06:36:43.210Z",
       "aihot": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
       "original": "https://x.com/addyosmani/status/2115688494865465370"
+    },
+    {
+      "sec": "tips",
+      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+      "plain": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作…",
+      "source": "公众号",
+      "time": "2026-11-02T00:21:28.806Z",
+      "aihot": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+      "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df"
     },
     {
       "sec": "tips",
