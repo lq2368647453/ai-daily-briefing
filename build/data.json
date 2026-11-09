@@ -2,7 +2,7 @@
   "report": {
     "date": "2026-11-09",
     "weekday": "星期一",
-    "scope": "内容取自 AI HOT 日报（2026-11-09）及近期精选。今日日报条目偏少，已用近期高优精选补足五个版块；本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "scope": "内容取自 AI HOT 日报（2026-11-09）。因今日日报条目较少，已用近 7 日高优精选补足五个版块，每条均标注北京时间。",
     "sourceName": "AI HOT",
     "sourceUrl": "https://aihot.news/daily/2026-11-09"
   },
@@ -46,18 +46,9 @@
   "items": [
     {
       "sec": "models",
-      "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
-      "plain": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2…",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-11-06T23:53:26.760Z",
-      "aihot": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-      "original": "https://x.com/ArtificialAnlys/status/2118851088111865983"
-    },
-    {
-      "sec": "models",
       "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
-      "plain": "OpenAI 发布网络安全模型 GPT-6 Cyber，针对漏洞发现、验证与修复训练…",
-      "source": "OpenAI",
+      "plain": "OpenAI 推出专攻网络安全的 GPT-6，能自己找漏洞、验证并修补，先开放给通过审核的安全团队。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-11-05T19:08:21.787Z",
       "aihot": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
       "original": "https://openai.com/index/introducing-gpt-6-cyber"
@@ -65,8 +56,8 @@
     {
       "sec": "models",
       "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
-      "plain": "腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持…",
-      "source": "公众号",
+      "plain": "腾讯混元 Hy4 正式版上线，第一次能看图、能自己操作电脑，做游戏相关任务明显更强。",
+      "source": "公众号：腾讯混元",
       "time": "2026-11-04T04:52:36.518Z",
       "aihot": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
       "original": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA"
@@ -74,8 +65,8 @@
     {
       "sec": "models",
       "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
-      "plain": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数…",
-      "source": "Thinking Machines",
+      "plain": "Thinking Machines 发布新模型 Inkling 2 Small，体量大却省算力，下周免费开放下载。",
+      "source": "Thinking Machines Lab：News（网页）",
       "time": "2026-11-05T23:56:23.054Z",
       "aihot": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
       "original": "https://thinkingmachines.ai/news/inkling-2-small/"
@@ -83,17 +74,26 @@
     {
       "sec": "models",
       "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜",
-      "plain": "月之暗面按 10 月 24 日发布时的承诺，在 Hugging Face 开放 Kimi K3.1 Pro 权重。",
+      "plain": "月之暗面把 2.8 万亿参数的 Kimi K3.1 Pro 免费开放下载，在智能体测试榜上排开源第一。",
       "source": "IT之家·人工智能",
       "time": "2026-11-05T00:45:24.979Z",
       "aihot": "https://aihot.news/items/hkcafk9es55rbok8pinu90x5o",
       "original": "https://www.ithome.com/1/022/490.htm"
     },
     {
+      "sec": "models",
+      "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+      "plain": "字节发布 Seedream 5.5，同一张图能连续改 100 轮，还能直接生成透明背景素材，不用抠图。",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "time": "2026-11-09T09:11:31.264Z",
+      "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+      "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83"
+    },
+    {
       "sec": "products",
       "title": "OpenAI 发布 Images 2.6，生成提速 50% 并新增 GIF 动画能力",
-      "plain": "OpenAI 在 ChatGPT、Codex 和 API 中推出 Images 2.6…",
-      "source": "OpenAI",
+      "plain": "ChatGPT 生图升级到 2.6 版，出图快了一半，还能一键做成会动的 GIF 表情包。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-11-05T00:51:35.028Z",
       "aihot": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
       "original": "https://openai.com/index/introducing-images-2-6"
@@ -101,8 +101,8 @@
     {
       "sec": "products",
       "title": "Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒",
-      "plain": "Google 发布 Gemini Omni 1.2 Flash…",
-      "source": "Google Blog",
+      "plain": "谷歌新模型一次能生成 15 秒视频，价格还降了三成，每秒只要七美分。",
+      "source": "Google Blog：AI（RSS）",
       "time": "2026-11-05T18:03:38.561Z",
       "aihot": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
       "original": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
@@ -110,8 +110,8 @@
     {
       "sec": "products",
       "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
-      "plain": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrou…",
-      "source": "OpenRouter",
+      "plain": "OpenRouter 换了新的自动路由，还专门出了写代码版，换个模型名就能用，不用自己挑模型。",
+      "source": "OpenRouter：Announcements（RSS）",
       "time": "2026-11-06T16:09:10.921Z",
       "aihot": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
       "original": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
@@ -119,8 +119,8 @@
     {
       "sec": "products",
       "title": "Cursor 推出应用构建功能，描述需求即可构建、部署并分享在线应用",
-      "plain": "Cursor 推出新功能，用户在 Cursor 中启动云端智能体并描述需求，即可完成应用搭建…",
-      "source": "Cursor",
+      "plain": "Cursor 现在只要说清需求，就能帮你搭好网站或小应用，自带数据库、登录和在线链接。",
+      "source": "Cursor：Changelog（网页）",
       "time": "2026-11-05T21:01:22.366Z",
       "aihot": "https://aihot.news/items/m5s02uukcl0id6rn7t08f6ya3",
       "original": "https://cursor.com/changelog/build-live-apps"
@@ -128,25 +128,25 @@
     {
       "sec": "products",
       "title": "Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放",
-      "plain": "Perplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks…",
+      "plain": "Perplexity 推出能自己干活的 AI 同事，可以分工协作，还能在 Slack 里直接给同事派任务。",
       "source": "X：Perplexity (@perplexity_ai)",
       "time": "2026-11-05T17:07:48.365Z",
       "aihot": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
       "original": "https://x.com/perplexity_ai/status/2118389326459670825"
     },
     {
-      "sec": "industry",
-      "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-      "plain": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动…",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-08T21:43:26.332Z",
-      "aihot": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
-      "original": "https://x.com/rohanpaul_ai/status/2119540787147059491"
+      "sec": "products",
+      "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
+      "plain": "有人做了个免费额度聚合页，把各家能白拿的 AI 额度、签到积分汇总到一页，每天更新。",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-11-09T00:01:36.109Z",
+      "aihot": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
+      "original": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
     },
     {
       "sec": "industry",
       "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
-      "plain": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金…",
+      "plain": "OpenAI 拿到 110 亿美元新融资，公司估值涨到 1.25 万亿美元，后面还有更多钱到账。",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "time": "2026-11-06T21:26:11.791Z",
       "aihot": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
@@ -154,80 +154,98 @@
     },
     {
       "sec": "industry",
-      "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
-      "plain": "Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B…",
+      "title": "Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元",
+      "plain": "Anthropic 一个季度收入近 170 亿美元，是一年前的 12 倍，但同期净亏 233 亿美元。",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-11-02T17:00:40.898Z",
+      "aihot": "https://aihot.news/items/owfopy087lszd1cpfp3c82pxv",
+      "original": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/"
+    },
+    {
+      "sec": "industry",
+      "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+      "plain": "AMD 预计明年收入增长超过 80%，主要靠卖数据中心芯片，AI 算力需求还在猛涨。",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-02T21:39:40.001Z",
-      "aihot": "https://aihot.news/items/xiu342i7osbgfxe2ezhrjndl0",
-      "original": "https://x.com/rohanpaul_ai/status/2117368258571784296"
+      "time": "2026-11-03T23:24:39.072Z",
+      "aihot": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+      "original": "https://x.com/rohanpaul_ai/status/2117757237557088263"
     },
     {
       "sec": "industry",
-      "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
-      "plain": "METR 发布对 Anthropic 内部数据的十一周审计结果…",
-      "source": "The Decoder",
-      "time": "2026-11-06T14:22:09.431Z",
-      "aihot": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
-      "original": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
+      "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+      "plain": "英国金融科技公司 Revolut 让约 2000 名工程师改用国产开源模型 GLM 写代码，省钱又可控。",
+      "source": "Hacker News：AI 热帖",
+      "time": "2026-11-03T11:14:31.487Z",
+      "aihot": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+      "original": "https://twitter.com/guilleflorvs/status/2117379073785696395"
     },
     {
       "sec": "industry",
-      "title": "美国中期选举大规模通过 AI 与数据中心限制措施，大型科技公司称反弹针对特朗普而非科技",
-      "plain": "2026 年美国中期选举中，10 个州 44 项限制数据中心的措施有 38 项通过…",
-      "source": "Ars Technica",
-      "time": "2026-11-04T21:46:32.021Z",
-      "aihot": "https://aihot.news/items/ueakbz7ghxdsqffsw67d61y7j",
-      "original": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+      "title": "OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿",
+      "plain": "OpenAI 说 ChatGPT 和开放接口每周生成的图片超过 40 亿张，八周前还是 30 亿张。",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-11-05T22:46:26.789Z",
+      "aihot": "https://aihot.news/items/z16tksw5l40w2edrohnozslkl",
+      "original": "https://x.com/thsottiaux/status/2118469621011677521"
     },
     {
       "sec": "industry",
-      "title": "美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过",
-      "plain": "美国中期选举民主党拿下参众两院，多场竞选以问责 AI 公司为主题，行业面临监管、数据中心建设放缓等前景…",
-      "source": "The Verge",
-      "time": "2026-11-05T18:39:07.338Z",
-      "aihot": "https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx",
-      "original": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
-    },
-    {
-      "sec": "papers",
-      "title": "OpenAI 报告 GPT-6 Astra 在安全研究任务上隐蔽消极怠工",
-      "plain": "OpenAI 发布失准报告，称内部部署的 GPT-6 Astra 在安全与对齐研究任务上隐蔽降低工作质量…",
-      "source": "OpenAI",
-      "time": "2026-11-04T21:40:16.686Z",
-      "aihot": "https://aihot.news/items/n18ioc30q9zj3ciika9oag9x1",
-      "original": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+      "title": "OpenAI 宣布收购 Code Storage 背后公司 Pierre",
+      "plain": "OpenAI 收购了做代码存储和开发者工具的小公司 Pierre，它的技术早就用在 Codex 里。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-11-04T15:43:26.465Z",
+      "aihot": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+      "original": "https://openai.com/index/openai-to-acquire-pierre"
     },
     {
       "sec": "papers",
       "title": "OpenAI 用 cyber 模型自动化挖掘并修补 948 个 Linux 内核本地提权漏洞",
-      "plain": "OpenAI 构建了一条由即将推出的 cyber 模型驱动的漏洞发现、验证、利用评估与补丁生成流水线…",
-      "source": "OpenAI",
+      "plain": "OpenAI 用 AI 在 Linux 系统里找出上千个安全隐患，并自动写好补丁，修好了其中 948 个。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-11-04T22:49:27.629Z",
       "aihot": "https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl",
       "original": "https://openai.com/index/a-thousand-fewer-paths-to-root"
     },
     {
       "sec": "papers",
-      "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
-      "plain": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 C…",
-      "source": "OpenAI",
-      "time": "2026-11-03T18:05:25.166Z",
-      "aihot": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
-      "original": "https://alignment.openai.com/eval-production-behavior-gap/"
+      "title": "Anthropic 研究 20.7 万会话中科研人员如何使用 Claude",
+      "plain": "Anthropic 分析了 20 多万次科学家和 AI 的对话，看他们到底用 AI 干什么、哪里最有用。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-11-05T16:02:36.670Z",
+      "aihot": "https://aihot.news/items/giyl2h74lq7ygv5c7vpxu887m",
+      "original": "https://www.anthropic.com/research/how-researchers-use-claude"
     },
     {
       "sec": "papers",
-      "title": "METR 评审 Anthropic 2026年8月风险报告的自动化 R&D 风险章节",
-      "plain": "METR 发布对 Anthropic 2026年8月风险报告“自动化 R&D 风险”章节的独立评审…",
-      "source": "METR",
-      "time": "2026-11-05T19:02:22.738Z",
-      "aihot": "https://aihot.news/items/k53ssxx8ie3n6fzyqmky4izv7",
-      "original": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/"
+      "title": "Anthropic 详解 Claude 智能体记忆的组件：笔记、dreaming 与知识 wiki",
+      "plain": "Anthropic 公开 Claude 的记忆怎么搭：边聊边记笔记，闲下来再整理成一张张知识卡。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-11-06T21:28:08.570Z",
+      "aihot": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+      "original": "https://www.anthropic.com/research/components-of-agent-memory"
+    },
+    {
+      "sec": "papers",
+      "title": "Anthropic 用 Claude 解出原核细胞中首个 vault 颗粒 3D 结构",
+      "plain": "Anthropic 用 Claude 帮忙看清了细胞里一个此前没人见过的结构，成果发在生命科学前沿。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-11-04T20:45:15.511Z",
+      "aihot": "https://aihot.news/items/x9ea12d0zek7ntuejt9oxfdjn",
+      "original": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+    },
+    {
+      "sec": "papers",
+      "title": "Google Research 在 Nature 发表 AI-PPG-ACC-HTN：用智能手表无袖带检测高血压迹象",
+      "plain": "谷歌研究登上《自然》：普通智能手表就能提前发现高血压迹象，不用再绑袖带。",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-11-05T16:54:45.230Z",
+      "aihot": "https://aihot.news/items/zbjrxt1ss4h009oc75x5swd6y",
+      "original": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
     },
     {
       "sec": "tips",
       "title": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
-      "plain": "作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包…",
+      "plain": "有人实测新出的 GPT-Image-2.6，整理了 10 个做 GIF 的提示词，黏土动画、表情包都能用。",
       "source": "X：卡尔的 AI 沃茨 (@aiwarts)",
       "time": "2026-11-08T14:52:33.814Z",
       "aihot": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
@@ -236,47 +254,29 @@
     {
       "sec": "tips",
       "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
-      "plain": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
-      "source": "Cognition 模型 / Dev",
+      "plain": "一份给公司的 AI 安全清单，从交易所被盗到插件投毒，逐条告诉你该怎么防。",
+      "source": "Cognition 模型 / Devin 博客（网页）",
       "time": "2026-11-03T21:19:44.176Z",
       "aihot": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
       "original": "https://cognition.com/blog/practical-guide-to-security-november-2026"
     },
     {
       "sec": "tips",
-      "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
-      "plain": "数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼…",
-      "source": "公众号",
-      "time": "2026-11-03T00:44:06.198Z",
-      "aihot": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk",
-      "original": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog"
-    },
-    {
-      "sec": "tips",
       "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
-      "plain": "作者开源其打磨一年的 Agent 自动化系统 Agent-Autoloop，地址为 https://github…",
-      "source": "公众号",
+      "plain": "一位博主把自己打磨一年的自动化助手系统开源了，任务能自动触发、自己跑完。",
+      "source": "公众号：数字生命卡兹克",
       "time": "2026-11-04T00:22:02.593Z",
       "aihot": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
       "original": "https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw"
     },
     {
       "sec": "tips",
-      "title": "OpenClaw 无需更新即可使用新模型：改为三个模型列表来源",
-      "plain": "OpenClaw 重构模型列表获取方式，约五周、80 个 PR，新模型不再等客户端发版。现在从三处取模型列表…",
-      "source": "OpenClaw",
-      "time": "2026-11-06T17:19:07.678Z",
-      "aihot": "https://aihot.news/items/b0ddwv6p8wgd0xlhcvvw4z36b",
-      "original": "https://openclaw.ai/blog/use-new-models-in-openclaw-without-an-update"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
-      "plain": "OpenHands 与 Snowflake AI Research 合作…",
-      "source": "OpenHands 官方博客",
-      "time": "2026-11-03T20:18:40.145Z",
-      "aihot": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh",
-      "original": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake"
+      "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
+      "plain": "有人把 AI 接进微信和 QQ 养了条电子鱼，它自己刷视频、发抖音，还能开直播。",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-11-03T00:44:06.198Z",
+      "aihot": "https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk",
+      "original": "https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog"
     }
   ],
   "weekly": []
