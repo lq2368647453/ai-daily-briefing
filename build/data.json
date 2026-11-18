@@ -2,7 +2,7 @@
   "report": {
     "date": "2026-11-18",
     "weekday": "星期三",
-    "scope": "内容取自 AI HOT 日报（2026-11-18）及近期精选。本期由云端自动生成，摘要取自原文，可能保留少量专业术语。",
+    "scope": "内容取自 AI HOT 日报（2026-11-18），精选 25 条覆盖五个版块，每条均标注北京时间。",
     "sourceName": "AI HOT",
     "sourceUrl": "https://aihot.news/daily/2026-11-18"
   },
@@ -47,8 +47,8 @@
     {
       "sec": "models",
       "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
-      "plain": "OpenAI 发布面向复杂专业工作的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol…",
-      "source": "OpenAI",
+      "plain": "OpenAI 一次放出两个新模型：Astra 更聪明，Sol 更便宜，写东西、写代码都能用。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-11-17T18:40:37.168Z",
       "aihot": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
       "original": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
@@ -56,8 +56,8 @@
     {
       "sec": "models",
       "title": "Microsoft MAI 发布七个新模型，主打价格性能比",
-      "plain": "Microsoft MAI 在 Ignite 2026 发布七个新模型，涵盖网络安全防御、编码、图像、实时语音…",
-      "source": "Microsoft AI",
+      "plain": "微软一口气发布七款自家模型，主打便宜好用，文字、语音、写代码这些常见活都覆盖。",
+      "source": "Microsoft AI：官方博客（RSS）",
       "time": "2026-11-17T19:05:33.581Z",
       "aihot": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
       "original": "https://microsoft.ai/news/microsoft-ignite-2026/"
@@ -65,35 +65,35 @@
     {
       "sec": "models",
       "title": "可灵 AI 发布 Kling Image 4.0 图像模型并开放 API",
-      "plain": "快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0…",
-      "source": "公众号",
+      "plain": "快手可灵放出新一代画图模型，画面细节更好，还开放给开发者直接调用。",
+      "source": "公众号：可灵AI（快手·视频）",
       "time": "2026-11-17T15:22:56.296Z",
       "aihot": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
       "original": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w"
     },
     {
       "sec": "models",
-      "title": "Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩",
-      "plain": "Perplexity 宣布 GPT-6.2 Astra 和 GPT-6…",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "time": "2026-11-17T22:31:34.390Z",
-      "aihot": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah",
-      "original": "https://x.com/perplexity_ai/status/2122814545639223348"
+      "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+      "plain": "腾讯混元推出能实时对话的语音模型，可以边听边说，还会唱歌、会帮你办事。",
+      "source": "公众号：腾讯混元",
+      "time": "2026-11-13T08:43:57.254Z",
+      "aihot": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+      "original": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg"
     },
     {
       "sec": "models",
-      "title": "Microsoft AI 发布编码模型 MAI Code 2 与 MAI Code 2 Flash",
-      "plain": "Microsoft AI 在 Ignite 发布 MAI Code 2 和 MAI Code 2 Flash 两款…",
-      "source": "Microsoft AI",
-      "time": "2026-11-17T19:05:33.598Z",
-      "aihot": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
-      "original": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+      "title": "美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型",
+      "plain": "美团开源一个数字人模型，给一段录音，就能让照片里的人开口说话、对上台词口型。",
+      "source": "美团 LongCat：HuggingFace 新模型",
+      "time": "2026-11-15T03:38:41.141Z",
+      "aihot": "https://aihot.news/items/habommgck5ql3tdf688ca370s",
+      "original": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
     },
     {
       "sec": "products",
       "title": "Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用",
-      "plain": "Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出…",
-      "source": "Google Blog",
+      "plain": "谷歌把 Gemini 的代办功能免费开放给六个国家，它能替你打电话、付款、操作六十多款应用。",
+      "source": "Google Blog：AI（RSS）",
       "time": "2026-11-17T17:46:37.623Z",
       "aihot": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39",
       "original": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
@@ -101,8 +101,8 @@
     {
       "sec": "products",
       "title": "Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play",
-      "plain": "Google AI Studio 结合 Gemini 4 Carbon 和 Hydrogen…",
-      "source": "Google Developers",
+      "plain": "在谷歌 AI Studio 里说清需求，就能生成一个完整安卓应用，还能直接传上应用商店。",
+      "source": "Google Developers Blog（RSS）",
       "time": "2026-11-17T20:44:36.821Z",
       "aihot": "https://aihot.news/items/ujx1ebv207quqahxh2ypzibqd",
       "original": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/"
@@ -110,8 +110,8 @@
     {
       "sec": "products",
       "title": "Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat",
-      "plain": "Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建…",
-      "source": "Replit",
+      "plain": "Replit 上线新功能：你只写目标，它派一队 AI 分工把整个项目做完，配套工具还开源。",
+      "source": "Replit：Blog（RSS）",
       "time": "2026-11-17T17:55:18.650Z",
       "aihot": "https://aihot.news/items/io0nmdphe40k919fuw1h28kg3",
       "original": "https://replit.com/blog/introducing-replit-missions"
@@ -119,8 +119,8 @@
     {
       "sec": "products",
       "title": "Suno 发布 Visuals：为歌曲生成视频与图像",
-      "plain": "Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频…",
-      "source": "Suno",
+      "plain": "用 Suno 做完歌，现在能顺手生成配套的 MV 画面和封面图，不用再换别的工具。",
+      "source": "Suno：Blog（网页）",
       "time": "2026-11-17T17:01:52.993Z",
       "aihot": "https://aihot.news/items/yznmu3humymvshagrka95k1n1",
       "original": "https://suno.com/blog/introducing-visuals"
@@ -128,16 +128,25 @@
     {
       "sec": "products",
       "title": "Claude Code 推出实验性 Code Mode 工具调用方式",
-      "plain": "Claude Code 推出实验性 Code Mode，一种新的工具使用方式…",
+      "plain": "Claude Code 试了新玩法：少绕弯子，直接写一小段程序去调用工具，干活更快更省。",
       "source": "X：Claude Devs (@ClaudeDevs)",
       "time": "2026-11-17T21:29:36.927Z",
       "aihot": "https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp",
       "original": "https://x.com/ClaudeDevs/status/2122801681939234950"
     },
     {
+      "sec": "products",
+      "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+      "plain": "Databricks 推出一个公开榜单，按月公布企业用 AI 的真实情况和花费，方便看行业水平。",
+      "source": "Databricks：Blog（RSS）",
+      "time": "2026-11-16T17:59:22.718Z",
+      "aihot": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+      "original": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics"
+    },
+    {
       "sec": "industry",
       "title": "Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%",
-      "plain": "Nvidia 第三财季营收 $115.8B，同比增长 103%，其中数据中心收入 $107.6B 占 93%…",
+      "plain": "英伟达最新一季营收 1158 亿美元，超过预期，其中九成以上来自数据中心业务。",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "time": "2026-11-17T22:31:36.799Z",
       "aihot": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
@@ -145,107 +154,107 @@
     },
     {
       "sec": "industry",
-      "title": "ChinaTalk 访谈解读美国商务部132页出口管制新规",
-      "plain": "ChinaTalk 播客邀请前美国国家安全委员会官员 Chris McGuire 和 Julian Gewirtz…",
-      "source": "ChinaTalk",
-      "time": "2026-11-17T11:26:32.942Z",
-      "aihot": "https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz",
-      "original": "https://www.chinatalk.media/p/bis-finally-takes-a-stand"
-    },
-    {
-      "sec": "industry",
-      "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
-      "plain": "Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26…",
-      "source": "Wiz",
-      "time": "2026-11-17T23:29:27.058Z",
-      "aihot": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw",
-      "original": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
-    },
-    {
-      "sec": "industry",
-      "title": "WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任",
-      "plain": "据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者…",
+      "title": "Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务",
+      "plain": "英伟达董事会明确表态：不会让刚辞职的黄仁勋回来继续当 CEO。",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-17T21:29:44.217Z",
-      "aihot": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e",
-      "original": "https://x.com/rohanpaul_ai/status/2122804149503033606"
+      "time": "2026-11-18T05:44:46.862Z",
+      "aihot": "https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00",
+      "original": "https://x.com/rohanpaul_ai/status/2122925474485870983"
     },
     {
       "sec": "industry",
-      "title": "Demis Hassabis 宣布为 Isomorphic Labs 融资 50 亿美元加速用 AI 研发新药",
-      "plain": "Demis Hassabis 宣布为 Isomorphic Labs 获得 50 亿美元融资…",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "time": "2026-11-17T12:25:33.612Z",
-      "aihot": "https://aihot.news/items/ghf2artn1fbufdzuznga797jb",
-      "original": "https://x.com/demishassabis/status/2122662616367853670"
+      "title": "Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元",
+      "plain": "Anthropic 获准在纳斯达克上市，股票代码 ANT，发行价每股 70 到 78 美元。",
+      "source": "IT之家·人工智能",
+      "time": "2026-11-18T00:27:29.395Z",
+      "aihot": "https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc",
+      "original": "https://www.ithome.com/1/028/599.htm"
     },
     {
       "sec": "industry",
-      "title": "Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行",
-      "plain": "2026年11月17日披露的 OpenJDK 漏洞 CVE-2026-114938（Java4Shell）CVSS…",
-      "source": "Wiz",
-      "time": "2026-11-17T23:29:27.050Z",
-      "aihot": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
-      "original": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk"
+      "title": "Hugging Face Inference Providers 语言模型路由切换为 OpenRouter",
+      "plain": "抱抱脸把模型调用的后台换成了 OpenRouter，开发者调用多家模型会更省事。",
+      "source": "Hugging Face 官方团队博客",
+      "time": "2026-11-16T17:11:14.724Z",
+      "aihot": "https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o",
+      "original": "https://huggingface.co/blog/openrouter"
+    },
+    {
+      "sec": "industry",
+      "title": "ElevenLabs 收购日本语音 AI 公司 Kotoba",
+      "plain": "做 AI 配音的 ElevenLabs 收购了一家日本语音公司，日语发音会更自然。",
+      "source": "ElevenLabs：Blog（网页）",
+      "time": "2026-11-18T00:29:28.707Z",
+      "aihot": "https://aihot.news/items/jir2e9szcxw5vfemfzyr07518",
+      "original": "https://elevenlabs.io/blog/kotoba"
     },
     {
       "sec": "papers",
-      "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
-      "plain": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时…",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-17T10:01:31.699Z",
-      "aihot": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
-      "original": "https://www.ithome.com/1/028/433.htm"
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡",
+      "plain": "OpenAI 随新模型发了一份安全说明，讲清它能做什么、有哪些风险、怎么防滥用。",
+      "source": "OpenAI：部署安全与系统卡（网页）",
+      "time": "2026-11-17T18:55:34.891Z",
+      "aihot": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd",
+      "original": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
     },
     {
       "sec": "papers",
       "title": "Fireworks 评测 Kimi K3.1 Pro：智能体场景下该替换还是组合使用",
-      "plain": "Fireworks AI 基于 Specialized Intelligence Index 的 21 个基准榜单…",
-      "source": "Fireworks AI",
+      "plain": "Fireworks 实测了 Kimi 新模型，结论是写代码这类活可以换着用，也可以和旧模型搭配。",
+      "source": "Fireworks AI（网页）",
       "time": "2026-11-17T19:39:38.926Z",
       "aihot": "https://aihot.news/items/pyg0hznbolslrs5jxwhpkxals",
       "original": "https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/"
     },
     {
       "sec": "papers",
-      "title": "Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%",
-      "plain": "UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插…",
-      "source": "Microsoft Research",
-      "time": "2026-11-16T17:17:16.139Z",
-      "aihot": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
-      "original": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+      "title": "METR 测量模型对对齐评测的识别能力：调查型智能体能区分对齐与能力评测",
+      "plain": "METR 发现有些 AI 能察觉自己正在被测试，于是表现得更乖，这让安全测试结果不太可信。",
+      "source": "METR：Notes（网页）",
+      "time": "2026-11-16T22:15:33.593Z",
+      "aihot": "https://aihot.news/items/m4emm1ej7qzex1k77a7mfaztd",
+      "original": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/"
     },
     {
       "sec": "papers",
-      "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
-      "plain": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token …",
-      "source": "Anthropic",
-      "time": "2026-11-11T16:59:38.754Z",
-      "aihot": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
-      "original": "https://alignment.anthropic.com/2026/worse-together/"
+      "title": "Berkeley RDI 等发布 CyberArena：让 AI 智能体在实时网络攻防对抗中互测",
+      "plain": "伯克利等机构搭了个擂台，让不同的 AI 在模拟网络攻防里互相对打，比谁更扛得住。",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "time": "2026-11-13T00:00:00.000Z",
+      "aihot": "https://aihot.news/items/hd2dsmdxwk6jai8kgmucpqeib",
+      "original": "https://rdi.berkeley.edu/blog/cyberarena"
     },
     {
       "sec": "tips",
       "title": "Anthropic 工程师复盘用 chaos loop 强化 Claude Docs 上线：20 亿次请求仅 60 次服务器错误",
-      "plain": "Anthropic 工程师 Vivek Nair 复盘 Claude Docs 9 月 16 日上线前的 chao…",
-      "source": "Anthropic",
+      "plain": "Anthropic 工程师故意给系统制造故障来练稳定性，上线后 20 亿次请求只出错 60 次。",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
       "time": "2026-11-18T02:37:43.825Z",
       "aihot": "https://aihot.news/items/snkvsiff90slvj17hf9i5u4do",
       "original": "https://claude.dev/blog/chaos-loop-claude-docs-launch/"
     },
     {
       "sec": "tips",
-      "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
-      "plain": "Anthropic Claude Code 团队分享其验证方法论…",
-      "source": "Anthropic",
-      "time": "2026-11-16T21:13:33.616Z",
-      "aihot": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
-      "original": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+      "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+      "plain": "一个小技巧：让 Claude 在检查没通过时自动重来，不用你每次手动催它。",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "time": "2026-11-13T18:56:33.824Z",
+      "aihot": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+      "original": "https://x.com/lydiahallie/status/2121313048820617645"
+    },
+    {
+      "sec": "tips",
+      "title": "Anthropic 详解常驻智能体的五个核心架构原语",
+      "plain": "Anthropic 总结长期在线的 AI 助手要具备的五个基本能力，给自建助手的人做参考。",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-11-13T19:25:34.133Z",
+      "aihot": "https://aihot.news/items/ypeap2t8w4fqqfuvt7mw3wg79",
+      "original": "https://claude.com/blog/building-always-on-agents"
     },
     {
       "sec": "tips",
       "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
-      "plain": "Google DeepMind 的 Philipp Schmid 讲解如何在工作负载中选择 Gemini 4 Hy…",
+      "plain": "谷歌工程师讲清两款新模型怎么分工：复杂任务用大的，日常高频用小的更省钱。",
       "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
       "time": "2026-11-16T16:04:43.479Z",
       "aihot": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
@@ -253,30 +262,12 @@
     },
     {
       "sec": "tips",
-      "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
-      "plain": "OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6…",
-      "source": "OpenRouter",
-      "time": "2026-11-12T07:44:23.172Z",
-      "aihot": "https://aihot.news/items/cve017k4le2q7l8x1bfr2xdjx",
-      "original": "https://openrouter.ai/blog/announcements/openrouter-in-8-languages/"
-    },
-    {
-      "sec": "tips",
-      "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-      "plain": "作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three…",
-      "source": "公众号",
-      "time": "2026-11-16T00:01:43.019Z",
-      "aihot": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "original": "https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
-      "plain": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护…",
-      "source": "OpenRouter",
-      "time": "2026-11-12T00:38:14.713Z",
-      "aihot": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
-      "original": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/"
+      "title": "Anthropic 发布 Claude Tag 创业公司使用指南",
+      "plain": "Anthropic 给创业公司写了份 Claude 使用指南，讲怎么把它接进产品和团队流程。",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-11-12T16:01:47.030Z",
+      "aihot": "https://aihot.news/items/djhxmxr9hq0ekn8iwdqt5usih",
+      "original": "https://claude.com/blog/claude-tag-guide-for-startups"
     }
   ],
   "weekly": []
