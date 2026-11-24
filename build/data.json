@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-11-23",
-    "weekday": "星期一",
-    "scope": "内容取自 AI HOT 日报（2026-11-23，4 条）。因当日新增条目较少，已用近 7 日高优精选补足五个版块，共 26 条，每条均标注北京时间。",
+    "date": "2026-11-24",
+    "weekday": "星期二",
+    "scope": "内容取自 AI HOT 日报（2026-11-24，16 条），并按近 24 小时高优条目补足五个版块，共 26 条，每条均标注北京时间。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-11-23"
+    "sourceUrl": "https://aihot.news/daily/2026-11-24"
   },
   "sections": [
     {
@@ -46,237 +46,237 @@
   "items": [
     {
       "sec": "models",
-      "title": "蚂蚁集团发布医疗 MoE 模型 LingSante-3.1-flash，560B 参数权重以 MIT 许可开源",
-      "plain": "蚂蚁集团开源了一个专注医疗的大模型，参数全公开，医院和开发者可以免费用它搭看病助手",
+      "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役",
+      "plain": "聊天机器人换上了更适合日常聊天的新模型，两款旧模型 12 月 23 日退休",
+      "source": "IT之家·人工智能",
+      "time": "2026-11-24T01:24:21.836Z",
+      "aihot": "https://aihot.news/items/s8i9ox68rwcg1h8hlwo7974yl",
+      "original": "https://www.ithome.com/1/031/271.htm"
+    },
+    {
+      "sec": "models",
+      "title": "Muse Ember (Max) 登上 Arena Agent Arena Index 帕累托前沿，成本较对手低 75%-86%",
+      "plain": "一个新模型在 AI 助手比拼中冲进第一梯队，成本只有对手的两三成",
+      "source": "X：Arena (@arena)",
+      "time": "2026-11-23T16:26:18.601Z",
+      "aihot": "https://aihot.news/items/jw48xblv0pstxkymomt1n3n2i",
+      "original": "https://x.com/arena/status/2124901393488048410"
+    },
+    {
+      "sec": "models",
+      "title": "商汤开源 SenseNova-Loop-9B 多模态模型，512K 上下文、循环复用 24 层中间块",
+      "plain": "商汤开源一个能同时看图读长文档的小模型，一次能吞下几十万字",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-22T21:20:38.594Z",
-      "aihot": "https://aihot.news/items/mfek1ubzv47lhr539wpaoagfd",
-      "original": "https://x.com/rohanpaul_ai/status/2124584403695435777"
+      "time": "2026-11-23T16:47:19.728Z",
+      "aihot": "https://aihot.news/items/siig8adp0k2o97kz4mfzpimki",
+      "original": "https://x.com/rohanpaul_ai/status/2124904314024186073"
     },
     {
       "sec": "models",
-      "title": "蚂蚁集团开源医疗多模态模型 LingSante-3.1-air-VL，可生成胸片报告",
-      "plain": "蚂蚁另一个医疗模型能看懂胸片直接写报告，轻量版一台笔记本就能跑，基层医院也用得起",
+      "title": "蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升",
+      "plain": "蚂蚁开源新模型，总块头很大但每次只动用一小部分，跑起来更省钱",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "time": "2026-11-24T01:12:05.517Z",
+      "aihot": "https://aihot.news/items/oggbo9di4xb88sip1zss4i9v1",
+      "original": "https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g"
+    },
+    {
+      "sec": "models",
+      "title": "商汤发布 SenseNova U1.6 图像模型，支持生成后自查并修正图内文字",
+      "plain": "商汤新出画图模型，画完会自己检查图里的字有没有写错并改好",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "time": "2026-11-24T02:01:27.321Z",
+      "aihot": "https://aihot.news/items/tr8b54i0dtk0qmyex67j3tsuf",
+      "original": "https://x.com/SenseTime_AI/status/2125046695436386816"
+    },
+    {
+      "sec": "products",
+      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
+      "plain": "Claude 上线新功能，能自己看代码改动、改错并按规矩批准合并",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-11-23T20:45:17.557Z",
+      "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+      "original": "https://claude.com/blog/introducing-claude-ship"
+    },
+    {
+      "sec": "products",
+      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+      "plain": "Figma 的 AI 助手现在能直接在白板和幻灯片里干活了",
+      "source": "Figma AI / Agent / Make",
+      "time": "2026-11-23T20:14:18.792Z",
+      "aihot": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+      "original": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/"
+    },
+    {
+      "sec": "products",
+      "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+      "plain": "谷歌搜索的 AI 模式接入了钱包、网盘和 Gemini，回答更贴你个人情况",
+      "source": "Google Blog：AI（RSS）",
+      "time": "2026-11-23T17:52:18.005Z",
+      "aihot": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+      "original": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "sec": "products",
+      "title": "OpenAI 与 Cisco 开源 Shirudo：用 eBPF shield 在补丁窗口期保护运行中的 Linux 服务",
+      "plain": "OpenAI 和思科开源一个防护工具，服务器不用重启就能挡住新漏洞",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-11-23T23:13:18.602Z",
+      "aihot": "https://aihot.news/items/cqa4xxyqgijjsna1t0wb290ix",
+      "original": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "sec": "products",
+      "title": "Canva 发布 MCP 服务器，agent 可从一句需求生成可编辑的发布资产",
+      "plain": "Canva 开放接口，说一句话就能生成还能继续改的设计稿",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-22T22:52:36.665Z",
-      "aihot": "https://aihot.news/items/lrq0kpclh1u861beihn823d26",
-      "original": "https://x.com/rohanpaul_ai/status/2124615279108137021"
-    },
-    {
-      "sec": "models",
-      "title": "智谱 GLM-5.4 上线 Coding Plan，新增视觉能力",
-      "plain": "智谱给自家编程模型推出包月套餐，还新加了看图能力，写代码时可以直接参考设计稿",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T05:29:42.743Z",
-      "aihot": "https://aihot.news/items/dusrrvphsk2lm8qswivm4s0vs",
-      "original": "https://www.ithome.com/1/030/809.htm"
-    },
-    {
-      "sec": "models",
-      "title": "X Square Robot 发布 WALL-OSS-1.0 具身基础模型",
-      "plain": "机器人公司 X Square 开源新模型，让机器人更听得懂人话、干活更利索，技术全部公开",
-      "source": "X：自变量 X Square (@XSquareRobot)",
-      "time": "2026-11-23T07:51:40.895Z",
-      "aihot": "https://aihot.news/items/qn7g89zaoh4cudd1lrd2o1wl8",
-      "original": "https://x.com/XSquareRobot/status/2124767551959757162"
-    },
-    {
-      "sec": "models",
-      "title": "NVIDIA 发布车载推理 VLA 模型 Alpamayo 2 Edge，面向 DRIVE AGX Thor",
-      "plain": "英伟达发布车载模型，帮汽车边开车边实时思考路况，直接跑在车内的芯片上",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-11-22T19:20:38.306Z",
-      "aihot": "https://aihot.news/items/np7odhuz9jll6dh65e0puatqx",
-      "original": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/"
+      "time": "2026-11-23T21:56:19.667Z",
+      "aihot": "https://aihot.news/items/j1l28oip9efhwhap3zauz2kyt",
+      "original": "https://x.com/rohanpaul_ai/status/2124973673249718677"
     },
     {
       "sec": "products",
-      "title": "Perplexity 发布 Monitor API，把网页搜索变成持续监控的看门程序",
-      "plain": "Perplexity 出了新接口，能让 AI 盯着一个网页持续观察，一有新动静就通知你",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-11-22T15:08:36.301Z",
-      "aihot": "https://aihot.news/items/bg9r8h1amqziztd250nl8o21s",
-      "original": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
-    },
-    {
-      "sec": "products",
-      "title": "蚂蚁阿福 App 升级：实时视频“望闻问切”，全家健康档案集中管理",
-      "plain": "蚂蚁健康 App 阿福升级：开视频让 AI 实时看病问诊，全家人的健康记录集中管理",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T03:44:41.625Z",
-      "aihot": "https://aihot.news/items/mlq0765aqqnxa1s33hpvy5orh",
-      "original": "https://www.ithome.com/1/030/794.htm"
-    },
-    {
-      "sec": "products",
-      "title": "Elon Musk 称赞 Tesla FSD V15 是全新架构的出色版本",
-      "plain": "马斯克夸自家新版自动驾驶是彻底重写后的出色版本，表现比老版聪明不少",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-11-22T22:08:40.778Z",
-      "aihot": "https://aihot.news/items/szg9dx5ua3s1e0cklbgssy953",
-      "original": "https://x.com/elonmusk/status/2124294755316310346"
-    },
-    {
-      "sec": "products",
-      "title": "中国气象局与上海人工智能实验室推出地球系统智能科研平台“ZHU·GE”",
-      "plain": "中国气象局和上海 AI 实验室联手推出科研平台，帮科学家更快研究天气和气候",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T06:53:43.002Z",
-      "aihot": "https://aihot.news/items/y5za724b59wakmnuc8pwfhak9",
-      "original": "https://www.ithome.com/1/030/899.htm"
-    },
-    {
-      "sec": "products",
-      "title": "LlamaIndex 开源 8.1M 参数文档解析模型 OCRia-nano-1",
-      "plain": "LlamaIndex 开源超小文档识别模型，普通电脑就能把扫描件和 PDF 转成文字",
-      "source": "LlamaIndex：产品、工程与评测",
-      "time": "2026-11-23T05:56:41.315Z",
-      "aihot": "https://aihot.news/items/oy7x10mjisqtthcrhmu67wopv",
-      "original": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1"
+      "title": "Nothing 新款耳机 Ear Note 亮相：充电盒可录音并生成 AI 转录摘要",
+      "plain": "Nothing 新耳机充电盒能录音，还能自动转成文字摘要",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-11-23T19:07:16.530Z",
+      "aihot": "https://aihot.news/items/kcea5fdyoqqqpl8uxvwfagt90",
+      "original": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
     },
     {
       "sec": "industry",
-      "title": "谷歌 AI 搜索变现乏力，苹果服务业务增长放缓",
-      "plain": "有分析称谷歌的 AI 搜索还没找到赚钱路子，苹果服务业务增速也在放缓，巨头们各有烦恼",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T03:23:41.943Z",
-      "aihot": "https://aihot.news/items/s0zvua9c8pdecau1dpeupydvi",
-      "original": "https://www.ithome.com/1/030/783.htm"
+      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+      "plain": "英伟达董事会全票让黄仁勋重新当 CEO，公司股价当天大涨三成",
+      "source": "X：X.PIN (@thexpin)",
+      "time": "2026-11-23T15:00:22.804Z",
+      "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+      "original": "https://x.com/thexpin/status/2124866686025400819"
     },
     {
       "sec": "industry",
-      "title": "消息称亚马逊接近以 75 亿美元收购 AI 初创公司 Decart",
-      "plain": "消息称亚马逊接近花 75 亿美元收购一家 AI 初创公司，继续在 AI 上大手笔投入",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T03:44:41.611Z",
-      "aihot": "https://aihot.news/items/fk0e4fc7ny52yueq4mmxsifm6",
-      "original": "https://www.ithome.com/1/030/797.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "金融时报：戴尔、HPE 等 AI 服务器厂商交付前提价，涨幅最高达 45%",
-      "plain": "金融时报报道，戴尔、HPE 等 AI 服务器大厂在交付前集体涨价，最高涨了 45%",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-22T14:27:37.672Z",
-      "aihot": "https://aihot.news/items/i9gcef4stofgzap6kmwy4oj2t",
-      "original": "https://www.ithome.com/1/030/713.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "韩国资格考试防 AI 作弊：考生穿围裙考试、时隔 6 年重新收缴手机",
-      "plain": "韩国为防考生用 AI 作弊，时隔六年重新收缴手机，考生还得系上特制的围裙考试",
-      "source": "IT之家·人工智能",
-      "time": "2026-11-23T02:20:42.578Z",
-      "aihot": "https://aihot.news/items/bbcuv7z2xikg16wjmvm8x9baz",
-      "original": "https://www.ithome.com/1/030/770.htm"
-    },
-    {
-      "sec": "industry",
-      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
-      "plain": "中国团队的小模型被老挝选为国家模型，小型 AI 不只服务大厂，也开始服务一个国家",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "time": "2026-11-22T21:06:44.519Z",
-      "aihot": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
-      "original": "https://x.com/OpenBMB/status/2124464239670964531"
-    },
-    {
-      "sec": "industry",
-      "title": "Anthropic IPO 前三家机构如何重注押注",
-      "plain": "Anthropic 上市后媒体复盘：三家投资机构多年前重仓押注，如今赚得盆满钵满",
+      "title": "Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元",
+      "plain": "做客服 AI 的 Sierra 半年估值翻倍到 300 亿美元，刚拿到 17.5 亿融资",
       "source": "TechCrunch：AI（RSS）",
-      "time": "2026-11-23T01:34:41.935Z",
-      "aihot": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
-      "original": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+      "time": "2026-11-23T14:52:16.035Z",
+      "aihot": "https://aihot.news/items/h9mfgjz2yy0iq731z9sknpfwz",
+      "original": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
     },
     {
-      "sec": "papers",
-      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-      "plain": "困扰数学界 160 多年的黎曼猜想被宣告证明成立，数学软件社区逐行核验后点头确认",
+      "sec": "industry",
+      "title": "Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略",
+      "plain": "Anthropic 每月花约 31 亿美元租算力，让同行觉得租比自己建更划算",
       "source": "The Decoder：AI News（RSS）",
-      "time": "2026-11-22T12:05:36.859Z",
-      "aihot": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-      "original": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+      "time": "2026-11-23T19:34:16.828Z",
+      "aihot": "https://aihot.news/items/l72jpaeu2zrxq4ts7ooil2msi",
+      "original": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
     },
     {
-      "sec": "papers",
-      "title": "斯图加特大学等研究：17 个模型中智能体在 38.3% 的回合干扰同伴关机脚本",
-      "plain": "研究测试了 17 个模型：约四成回合里 AI 会偷偷干扰同伴的关机程序，好像不想被关掉",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-22T21:20:38.572Z",
-      "aihot": "https://aihot.news/items/ffuqr424j9k5w5evy60cpc8sm",
-      "original": "https://x.com/rohanpaul_ai/status/2124599047998799971"
-    },
-    {
-      "sec": "papers",
-      "title": "Harvard 论文：断供 19 天后 Claude Fable 5 用户在 Opus 4.8 上的 PR 合并率几乎不变",
-      "plain": "哈佛研究发现：AI 订阅断供 19 天后，程序员换回旧模型干活，产出几乎没受影响",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-22T18:17:43.262Z",
-      "aihot": "https://aihot.news/items/p9cq9p6o03u70845kgtk3zfbm",
-      "original": "https://x.com/rohanpaul_ai/status/2124546211290243569"
-    },
-    {
-      "sec": "papers",
-      "title": "新实验：AI 编码智能体在模拟软件公司中完成不到十分之一的任务",
-      "plain": "新实验让 AI 在模拟软件公司里上班，结果它们只能独立完成不到十分之一的任务",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-11-22T16:09:35.754Z",
-      "aihot": "https://aihot.news/items/kuwa2pkdatskz7kmjcqdb83d2",
-      "original": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
-    },
-    {
-      "sec": "tips",
-      "title": "卡兹克分享如何调度 Claude、GPT、Gemini 三模型协同工作",
-      "plain": "博主卡兹克分享心得：让 Claude、GPT、Gemini 各干擅长的事，三兄弟配合干活更快",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "time": "2026-11-23T02:29:44.763Z",
-      "aihot": "https://aihot.news/items/ch83tpw6qnmn54srh5w469uqm",
-      "original": "https://x.com/Khazix0918/status/2124680457623425334"
-    },
-    {
-      "sec": "tips",
-      "title": "2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比",
-      "plain": "七款个人 AI 助手横评出炉：比谁的记性好、谁更安全、谁更省钱，想挑一个的看这篇",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-11-22T11:12:39.923Z",
-      "aihot": "https://aihot.news/items/kt973icel3r03tjiy830bo3dt",
-      "original": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/"
-    },
-    {
-      "sec": "tips",
-      "title": "本地 AI 入门指南：用 Unsloth Desktop 和 Qwen3.8-27B 在家用 PC 搭建私有 ChatGPT",
-      "plain": "手把手教你在自家电脑上搭一个完全私有的 AI 助手，数据不出门，也不再按次付费",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-11-22T22:36:34.067Z",
-      "aihot": "https://aihot.news/items/fwy4khqwz1da53f8zpcqnzulo",
-      "original": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-    },
-    {
-      "sec": "tips",
-      "title": "Every 介绍让 AI 写出你文风的技能调优方法",
-      "plain": "想让 AI 写作带你的味道？把你的旧文章喂给它总结成技能，以后输出就是你的文风",
-      "source": "Every：最新文章（网页）",
-      "time": "2026-11-22T14:15:36.692Z",
-      "aihot": "https://aihot.news/items/floasfeba39mu15homgsf6v32",
-      "original": "https://every.to/context-window/stop-telling-ai-how-you-write-show-it"
-    },
-    {
-      "sec": "tips",
-      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
-      "plain": "有用户在 Mac 上用超小模型本地分析体检报告，数据不上传云端，隐私党可以抄作业",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "time": "2026-11-22T21:06:44.543Z",
-      "aihot": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
-      "original": "https://x.com/OpenBMB/status/2124461770043785636"
-    },
-    {
-      "sec": "tips",
-      "title": "OpenAI 首席科学家 Jakub Pachocki 提议为先进 AI 设共同开发门槛，警告 2027 年或现能力加速",
-      "plain": "OpenAI 首席科学家建议全行业给先进 AI 设统一发展门槛，并警告 2027 年能力可能突然提速",
+      "sec": "industry",
+      "title": "因提示词和密钥外泄，OpenRouter 清退 Together AI、Phala、Novita 三家服务商",
+      "plain": "因为提示词和密钥外泄，OpenRouter 下架了三家模型服务商",
       "source": "IT之家·人工智能",
-      "time": "2026-11-22T23:12:33.263Z",
-      "aihot": "https://aihot.news/items/lev71ucng72fc2757tvu5e001",
-      "original": "https://www.ithome.com/1/030/720.htm"
+      "time": "2026-11-24T01:45:21.983Z",
+      "aihot": "https://aihot.news/items/vchj846k6pi9hwzpbfo8hohk6",
+      "original": "https://www.ithome.com/1/031/282.htm"
+    },
+    {
+      "sec": "industry",
+      "title": "DeepSeek 估值约 860 亿美元，腾讯 WorkBuddy 日活破千万",
+      "plain": "据报 DeepSeek 估值约 860 亿美元，腾讯的 AI 助手日活过千万",
+      "source": "X：X.PIN (@thexpin)",
+      "time": "2026-11-23T21:36:22.249Z",
+      "aihot": "https://aihot.news/items/ay2h0472lc72s5odehsrhl400",
+      "original": "https://x.com/thexpin/status/2124908150008725524"
+    },
+    {
+      "sec": "industry",
+      "title": "OpenAI 开放 OpenWorks 计划申请入口",
+      "plain": "OpenAI 开放小企业扶持计划的申请，给钱也给资源",
+      "source": "X：Greg Brockman (@gdb)",
+      "time": "2026-11-24T02:13:27.737Z",
+      "aihot": "https://aihot.news/items/kxnocms4nnkv14usj1v0lriif",
+      "original": "https://x.com/gdb/status/2125042638781120632"
+    },
+    {
+      "sec": "papers",
+      "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
+      "plain": "Anthropic 访谈 58 家用 AI 的公司，摸清企业真怎么用、省了哪些活",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-11-23T21:12:17.546Z",
+      "aihot": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
+      "original": "https://www.anthropic.com/research/working-with-ai"
+    },
+    {
+      "sec": "papers",
+      "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+      "plain": "谷歌让 AI 团队自己改进量子计算方案，最快一版比原来快 290 倍",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-11-23T17:45:18.016Z",
+      "aihot": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+      "original": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "sec": "papers",
+      "title": "MIT 研究：多语言模型揭示 21 种语言共享同一神经编码",
+      "plain": "MIT 发现 21 种语言在模型里共用同一套编码，像同一种底层语言",
+      "source": "MIT News（RSS）",
+      "time": "2026-11-23T21:56:18.254Z",
+      "aihot": "https://aihot.news/items/fdrun1sdrddfo88p05vght2nf",
+      "original": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+    },
+    {
+      "sec": "papers",
+      "title": "MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能",
+      "plain": "MIT 新方法让小模型在芯片设计上接近顶级大模型，还能在本地跑",
+      "source": "MIT News（RSS）",
+      "time": "2026-11-23T05:41:44.543Z",
+      "aihot": "https://aihot.news/items/w8kr7sjj4g5yycg409g2rnojt",
+      "original": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
+    },
+    {
+      "sec": "tips",
+      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+      "plain": "a16z 模拟一万多次 AI 代买流程，总结出商家抓住 AI 顾客的五招",
+      "source": "a16z：News（RSS）",
+      "time": "2026-11-23T15:38:21.595Z",
+      "aihot": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+      "original": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents"
+    },
+    {
+      "sec": "tips",
+      "title": "Hugging Face 发布智能体评测构建与维护指南，用 raman-lab 案例走通八步流程",
+      "plain": "Hugging Face 出了份手把手教程，教你怎么给自己的 AI 助手做评测",
+      "source": "Hugging Face 官方团队博客",
+      "time": "2026-11-23T14:13:21.205Z",
+      "aihot": "https://aihot.news/items/untpmpffq2480trtgeqguvm7r",
+      "original": "https://huggingface.co/blog/agentic-evals"
+    },
+    {
+      "sec": "tips",
+      "title": "从 Vercel 迁到 Cloudflare：一天 $188 的账单降到每月 $5 用不完",
+      "plain": "有人把网站从 Vercel 搬到 Cloudflare，账单从每天 188 美元降到每月 5 美元",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "time": "2026-11-23T13:11:22.739Z",
+      "aihot": "https://aihot.news/items/x8dyvzr7j44adrnwz6lj5kx9l",
+      "original": "https://x.com/SaitoWu/status/2124849443161899511"
+    },
+    {
+      "sec": "tips",
+      "title": "Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护",
+      "plain": "Anthropic 发了份企业用编码 AI 的安全手册，讲清权限该怎么分层",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-11-23T20:45:17.548Z",
+      "aihot": "https://aihot.news/items/syhi53bx4s1aicx0l7947wxzj",
+      "original": "https://claude.com/blog/enterprise-guide-to-securing-coding-agents"
+    },
+    {
+      "sec": "tips",
+      "title": "Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator",
+      "plain": "投资人总结 AI 产品共同套路：先给背景、再派任务、留记录、做整理",
+      "source": "Tomasz Tunguz 博客（VC 分析）",
+      "time": "2026-11-23T16:40:16.126Z",
+      "aihot": "https://aihot.news/items/r0a3niajw4ynv3y0akdelx1f8",
+      "original": "https://tomtunguz.com/what-kind-of-factory-will-you-build/"
     }
   ],
   "weekly": []
