@@ -1,10 +1,10 @@
 {
   "report": {
-    "date": "2026-11-24",
-    "weekday": "星期二",
-    "scope": "内容取自 AI HOT 日报（2026-11-24，16 条），并按近 24 小时高优条目补足五个版块，共 26 条，每条均标注北京时间。",
+    "date": "2026-11-25",
+    "weekday": "星期三",
+    "scope": "内容取自 AI HOT 日报（2026-11-25，18 条），并按近 24 小时高优条目补足五个版块，共 26 条，每条均标注北京时间。",
     "sourceName": "AI HOT",
-    "sourceUrl": "https://aihot.news/daily/2026-11-24"
+    "sourceUrl": "https://aihot.news/daily/2026-11-25"
   },
   "sections": [
     {
@@ -46,237 +46,237 @@
   "items": [
     {
       "sec": "models",
-      "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，GPT-5.6 Sol 与 Terra 将于 12 月 23 日退役",
-      "plain": "聊天机器人换上了更适合日常聊天的新模型，两款旧模型 12 月 23 日退休",
+      "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
+      "plain": "国产新视频模型上线，画面质量接近国际一线水平，价格只有对手的十分之一",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-11-25T00:02:11.586Z",
+      "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+      "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw"
+    },
+    {
+      "sec": "models",
+      "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
+      "plain": "知名编程助手公司推出新模型，写代码更快，还特别擅长找安全漏洞",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "time": "2026-11-24T19:08:22.158Z",
+      "aihot": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
+      "original": "https://cognition.com/blog/swe-2-1"
+    },
+    {
+      "sec": "models",
+      "title": "PrismML 发布 Ternary Bonsai 2.5 27B：约 1/9 体积保留 93.7% 编程能力，手机电脑可跑",
+      "plain": "新模型体积压缩到原来的九分之一，还能保留大部分写代码能力，手机电脑都装得下",
       "source": "IT之家·人工智能",
-      "time": "2026-11-24T01:24:21.836Z",
-      "aihot": "https://aihot.news/items/s8i9ox68rwcg1h8hlwo7974yl",
-      "original": "https://www.ithome.com/1/031/271.htm"
+      "time": "2026-11-25T05:57:25.578Z",
+      "aihot": "https://aihot.news/items/ppktjkehrqbtl7m1f5yi9gvan",
+      "original": "https://www.ithome.com/1/032/101.htm"
     },
     {
       "sec": "models",
-      "title": "Muse Ember (Max) 登上 Arena Agent Arena Index 帕累托前沿，成本较对手低 75%-86%",
-      "plain": "一个新模型在 AI 助手比拼中冲进第一梯队，成本只有对手的两三成",
-      "source": "X：Arena (@arena)",
-      "time": "2026-11-23T16:26:18.601Z",
-      "aihot": "https://aihot.news/items/jw48xblv0pstxkymomt1n3n2i",
-      "original": "https://x.com/arena/status/2124901393488048410"
+      "title": "Sakana AI 发布 300 亿参数模型 Sakana Namazu Small，25 项基准平均分超越 Nemotron 3 Super",
+      "plain": "日本 AI 公司推出一个小而强的模型，二十多项测试的平均成绩超过了更大的对手",
+      "source": "Sakana AI：Blog（网页）",
+      "time": "2026-11-25T00:34:18.168Z",
+      "aihot": "https://aihot.news/items/yruv9ktry1gmlzhwhahw6ct6p",
+      "original": "https://sakana.ai/namazu-small/"
     },
     {
       "sec": "models",
-      "title": "商汤开源 SenseNova-Loop-9B 多模态模型，512K 上下文、循环复用 24 层中间块",
-      "plain": "商汤开源一个能同时看图读长文档的小模型，一次能吞下几十万字",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-23T16:47:19.728Z",
-      "aihot": "https://aihot.news/items/siig8adp0k2o97kz4mfzpimki",
-      "original": "https://x.com/rohanpaul_ai/status/2124904314024186073"
-    },
-    {
-      "sec": "models",
-      "title": "蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升",
-      "plain": "蚂蚁开源新模型，总块头很大但每次只动用一小部分，跑起来更省钱",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "time": "2026-11-24T01:12:05.517Z",
-      "aihot": "https://aihot.news/items/oggbo9di4xb88sip1zss4i9v1",
-      "original": "https://mp.weixin.qq.com/s/7-Dnhz1ouC6ans0znH154g"
-    },
-    {
-      "sec": "models",
-      "title": "商汤发布 SenseNova U1.6 图像模型，支持生成后自查并修正图内文字",
-      "plain": "商汤新出画图模型，画完会自己检查图里的字有没有写错并改好",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "time": "2026-11-24T02:01:27.321Z",
-      "aihot": "https://aihot.news/items/tr8b54i0dtk0qmyex67j3tsuf",
-      "original": "https://x.com/SenseTime_AI/status/2125046695436386816"
+      "title": "Midjourney 发布动漫模型 Niji V8",
+      "plain": "知名 AI 绘画工具推出新版动漫模型，二次元爱好者画图有了新选择",
+      "source": "X：Midjourney (@midjourney)",
+      "time": "2026-11-24T21:07:14.120Z",
+      "aihot": "https://aihot.news/items/gv5d5wg7bvguma3fw4husdmq7",
+      "original": "https://x.com/midjourney/status/2125328040624521639"
     },
     {
       "sec": "products",
-      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
-      "plain": "Claude 上线新功能，能自己看代码改动、改错并按规矩批准合并",
+      "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
+      "plain": "Claude 生成的网页小工具现在可以一键装成 Mac 或 Windows 桌面应用，像正常软件一样用",
       "source": "Claude：Blog（网页）",
-      "time": "2026-11-23T20:45:17.557Z",
-      "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-      "original": "https://claude.com/blog/introducing-claude-ship"
+      "time": "2026-11-24T20:04:21.715Z",
+      "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+      "original": "https://claude.com/blog/install-as-app"
     },
     {
       "sec": "products",
-      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-      "plain": "Figma 的 AI 助手现在能直接在白板和幻灯片里干活了",
-      "source": "Figma AI / Agent / Make",
-      "time": "2026-11-23T20:14:18.792Z",
-      "aihot": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-      "original": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/"
+      "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+      "plain": "谷歌把邮箱、文档、日历等办公工具接入 AI 助手，普通用户也能一键开通",
+      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "time": "2026-11-24T18:45:51.337Z",
+      "aihot": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+      "original": "https://x.com/_philschmid/status/2125296446459056156"
     },
     {
       "sec": "products",
-      "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-      "plain": "谷歌搜索的 AI 模式接入了钱包、网盘和 Gemini，回答更贴你个人情况",
-      "source": "Google Blog：AI（RSS）",
-      "time": "2026-11-23T17:52:18.005Z",
-      "aihot": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-      "original": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+      "plain": "阿里千问免费开放代打电话功能：经你授权后能帮你订餐厅、找快递，还能定时打回来",
+      "source": "公众号：千问APP（阿里）",
+      "time": "2026-11-25T04:41:44.561Z",
+      "aihot": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
+      "original": "https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw"
     },
     {
       "sec": "products",
-      "title": "OpenAI 与 Cisco 开源 Shirudo：用 eBPF shield 在补丁窗口期保护运行中的 Linux 服务",
-      "plain": "OpenAI 和思科开源一个防护工具，服务器不用重启就能挡住新漏洞",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-11-23T23:13:18.602Z",
-      "aihot": "https://aihot.news/items/cqa4xxyqgijjsna1t0wb290ix",
-      "original": "https://openai.com/index/introducing-shirudo"
+      "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
+      "plain": "Claude 迎来大更新：外部工具可以自带使用说明，长任务运行时也不再卡住对话",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-11-24T18:02:36.816Z",
+      "aihot": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9",
+      "original": "https://claude.com/blog/skills-over-mcp-tasks-and-more"
     },
     {
       "sec": "products",
-      "title": "Canva 发布 MCP 服务器，agent 可从一句需求生成可编辑的发布资产",
-      "plain": "Canva 开放接口，说一句话就能生成还能继续改的设计稿",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-11-23T21:56:19.667Z",
-      "aihot": "https://aihot.news/items/j1l28oip9efhwhap3zauz2kyt",
-      "original": "https://x.com/rohanpaul_ai/status/2124973673249718677"
-    },
-    {
-      "sec": "products",
-      "title": "Nothing 新款耳机 Ear Note 亮相：充电盒可录音并生成 AI 转录摘要",
-      "plain": "Nothing 新耳机充电盒能录音，还能自动转成文字摘要",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-11-23T19:07:16.530Z",
-      "aihot": "https://aihot.news/items/kcea5fdyoqqqpl8uxvwfagt90",
-      "original": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+      "title": "Browserbase 发布黑五代购 Agent 并开源 BELL 技术栈",
+      "plain": "黑五购物季来了：有公司推出 AI 代购助手帮你比价下单，技术方案还免费公开",
+      "source": "Browserbase / Stagehand 工程博客",
+      "time": "2026-11-24T18:52:20.124Z",
+      "aihot": "https://aihot.news/items/azr282c6svkst09noqnijngqk",
+      "original": "https://www.browserbase.com/blog/how-our-black-friday-agent-shops-for-you"
     },
     {
       "sec": "industry",
-      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-      "plain": "英伟达董事会全票让黄仁勋重新当 CEO，公司股价当天大涨三成",
-      "source": "X：X.PIN (@thexpin)",
-      "time": "2026-11-23T15:00:22.804Z",
-      "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "original": "https://x.com/thexpin/status/2124866686025400819"
-    },
-    {
-      "sec": "industry",
-      "title": "Sierra 融资 17.5 亿美元，估值半年内翻倍至 300 亿美元",
-      "plain": "做客服 AI 的 Sierra 半年估值翻倍到 300 亿美元，刚拿到 17.5 亿融资",
+      "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
+      "plain": "AI 明星公司 Anthropic 上市不到一周就跌破发行价，市值一度蒸发近 2000 亿美元",
       "source": "TechCrunch：AI（RSS）",
-      "time": "2026-11-23T14:52:16.035Z",
-      "aihot": "https://aihot.news/items/h9mfgjz2yy0iq731z9sknpfwz",
-      "original": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+      "time": "2026-11-24T18:30:42.000Z",
+      "aihot": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+      "original": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
     },
     {
       "sec": "industry",
-      "title": "Anthropic 月付约 31 亿美元租用算力，推动 xAI 转向租比建更划算的策略",
-      "plain": "Anthropic 每月花约 31 亿美元租算力，让同行觉得租比自己建更划算",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-11-23T19:34:16.828Z",
-      "aihot": "https://aihot.news/items/l72jpaeu2zrxq4ts7ooil2msi",
-      "original": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+      "title": "Amazon 以 75 亿美元收购 Decart 技术与团队，力图缩小与 Nvidia 的芯片差距",
+      "plain": "亚马逊花 75 亿美元正式买下一家 AI 芯片公司，想缩小与英伟达的差距",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-11-24T15:54:26.285Z",
+      "aihot": "https://aihot.news/items/lks52jurngifbb4ovovipgsi4",
+      "original": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
     },
     {
       "sec": "industry",
-      "title": "因提示词和密钥外泄，OpenRouter 清退 Together AI、Phala、Novita 三家服务商",
-      "plain": "因为提示词和密钥外泄，OpenRouter 下架了三家模型服务商",
+      "title": "Latent Space AINews：Gemini 4 Neon 发布创 Day-1 用量纪录，Google DeepMind 被视为重回前沿实验室行列",
+      "plain": "谷歌新模型上线第一天用量就破纪录，业内认为谷歌重新回到了 AI 最强阵营",
+      "source": "Latent Space（RSS）",
+      "time": "2026-11-25T04:40:23.377Z",
+      "aihot": "https://aihot.news/items/curuz3gpdtu536wg56eoxcdnk",
+      "original": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
+    },
+    {
+      "sec": "industry",
+      "title": "我国牵头推动全球首个生成式 AI 治理国际标准提案",
+      "plain": "中国牵头推动全球第一个生成式 AI 治理的国际标准提案，给行业定规矩",
       "source": "IT之家·人工智能",
-      "time": "2026-11-24T01:45:21.983Z",
-      "aihot": "https://aihot.news/items/vchj846k6pi9hwzpbfo8hohk6",
-      "original": "https://www.ithome.com/1/031/282.htm"
+      "time": "2026-11-24T12:56:32.425Z",
+      "aihot": "https://aihot.news/items/tybyqj2f494jwdf4z5k54sqzc",
+      "original": "https://www.ithome.com/1/031/838.htm"
     },
     {
       "sec": "industry",
-      "title": "DeepSeek 估值约 860 亿美元，腾讯 WorkBuddy 日活破千万",
-      "plain": "据报 DeepSeek 估值约 860 亿美元，腾讯的 AI 助手日活过千万",
-      "source": "X：X.PIN (@thexpin)",
-      "time": "2026-11-23T21:36:22.249Z",
-      "aihot": "https://aihot.news/items/ay2h0472lc72s5odehsrhl400",
-      "original": "https://x.com/thexpin/status/2124908150008725524"
-    },
-    {
-      "sec": "industry",
-      "title": "OpenAI 开放 OpenWorks 计划申请入口",
-      "plain": "OpenAI 开放小企业扶持计划的申请，给钱也给资源",
-      "source": "X：Greg Brockman (@gdb)",
-      "time": "2026-11-24T02:13:27.737Z",
-      "aihot": "https://aihot.news/items/kxnocms4nnkv14usj1v0lriif",
-      "original": "https://x.com/gdb/status/2125042638781120632"
+      "title": "Tidal 宣布 12 月 9 日起下架纯 AI 生成音乐，年底预计删除超 2900 万首歌曲",
+      "plain": "音乐平台 Tidal 宣布下架纯 AI 生成的歌曲，年底前将删除超 2900 万首",
+      "source": "IT之家·人工智能",
+      "time": "2026-11-24T23:19:38.604Z",
+      "aihot": "https://aihot.news/items/fs4dkkx963wcoy8t0x9yczo72",
+      "original": "https://www.ithome.com/1/031/904.htm"
     },
     {
       "sec": "papers",
-      "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
-      "plain": "Anthropic 访谈 58 家用 AI 的公司，摸清企业真怎么用、省了哪些活",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-11-23T21:12:17.546Z",
-      "aihot": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
-      "original": "https://www.anthropic.com/research/working-with-ai"
+      "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
+      "plain": "OpenAI 报告其大模型直接就能设计蛋白质分子，并在实验室里验证真的有效",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-11-24T23:16:37.887Z",
+      "aihot": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
+      "original": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
     },
     {
       "sec": "papers",
-      "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-      "plain": "谷歌让 AI 团队自己改进量子计算方案，最快一版比原来快 290 倍",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-11-23T17:45:18.016Z",
-      "aihot": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-      "original": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+      "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
+      "plain": "研究发现 AI 编程工具普及后，初级程序员岗位招聘减少了约四成",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-11-25T05:43:23.738Z",
+      "aihot": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
+      "original": "https://x.com/rohanpaul_ai/status/2125461932111229203"
     },
     {
       "sec": "papers",
-      "title": "MIT 研究：多语言模型揭示 21 种语言共享同一神经编码",
-      "plain": "MIT 发现 21 种语言在模型里共用同一套编码，像同一种底层语言",
-      "source": "MIT News（RSS）",
-      "time": "2026-11-23T21:56:18.254Z",
-      "aihot": "https://aihot.news/items/fdrun1sdrddfo88p05vght2nf",
-      "original": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+      "title": "Anthropic 与 OpenAI 各自宣布证明代数复杂度猜想 VP≠VNP",
+      "plain": "两家 AI 公司的模型各自证明了一个悬置多年的数学难题，结果互相印证",
+      "source": "IT之家·人工智能",
+      "time": "2026-11-25T07:21:23.878Z",
+      "aihot": "https://aihot.news/items/p0bda5ea94o5t3q3fzlzopd7g",
+      "original": "https://www.ithome.com/1/032/122.htm"
     },
     {
       "sec": "papers",
-      "title": "MIT 提出模拟芯片设计方法 SLIC，小模型可本地部署接近 GPT-6-Astra 性能",
-      "plain": "MIT 新方法让小模型在芯片设计上接近顶级大模型，还能在本地跑",
-      "source": "MIT News（RSS）",
-      "time": "2026-11-23T05:41:44.543Z",
-      "aihot": "https://aihot.news/items/w8kr7sjj4g5yycg409g2rnojt",
-      "original": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
+      "title": "METR 分析 OpenAI 公开的预训练损失，发现 2026 年初以来下降速度快约 7 倍",
+      "plain": "研究机构分析数据发现，今年以来 AI 训练的进步速度比之前快了约 7 倍",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-11-25T01:36:16.056Z",
+      "aihot": "https://aihot.news/items/dy2d9to3q7rmi2l52c1shgriz",
+      "original": "https://x.com/rohanpaul_ai/status/2125400074322895282"
+    },
+    {
+      "sec": "papers",
+      "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
+      "plain": "研究人员先看懂 AI 内部的推理思路再改进它，改进后的生物模型预测被实验证实",
+      "source": "Goodfire Research（网页）",
+      "time": "2026-11-24T17:50:41.983Z",
+      "aihot": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw",
+      "original": "https://www.goodfire.com/research/building-stronger-biological-reasoning-models"
     },
     {
       "sec": "tips",
-      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-      "plain": "a16z 模拟一万多次 AI 代买流程，总结出商家抓住 AI 顾客的五招",
-      "source": "a16z：News（RSS）",
-      "time": "2026-11-23T15:38:21.595Z",
-      "aihot": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "original": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents"
+      "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+      "plain": "博主分享两条现成提示词，让 AI 做出的界面动画更顺滑、体验更好",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "time": "2026-11-24T06:12:23.354Z",
+      "aihot": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+      "original": "https://x.com/Khazix0918/status/2125110224143171669"
     },
     {
       "sec": "tips",
-      "title": "Hugging Face 发布智能体评测构建与维护指南，用 raman-lab 案例走通八步流程",
-      "plain": "Hugging Face 出了份手把手教程，教你怎么给自己的 AI 助手做评测",
-      "source": "Hugging Face 官方团队博客",
-      "time": "2026-11-23T14:13:21.205Z",
-      "aihot": "https://aihot.news/items/untpmpffq2480trtgeqguvm7r",
-      "original": "https://huggingface.co/blog/agentic-evals"
+      "title": "Simon Willison 梳理过去十二个月 LLM 与编码智能体的三个转折点",
+      "plain": "知名博主盘点过去一年 AI 的三个关键转折点，想看懂趋势的人值得一读",
+      "source": "Simon Willison 博客",
+      "time": "2026-11-24T23:42:35.812Z",
+      "aihot": "https://aihot.news/items/xtgea5edprhtv4euh73z3e9bk",
+      "original": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
     },
     {
       "sec": "tips",
-      "title": "从 Vercel 迁到 Cloudflare：一天 $188 的账单降到每月 $5 用不完",
-      "plain": "有人把网站从 Vercel 搬到 Cloudflare，账单从每天 188 美元降到每月 5 美元",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "time": "2026-11-23T13:11:22.739Z",
-      "aihot": "https://aihot.news/items/x8dyvzr7j44adrnwz6lj5kx9l",
-      "original": "https://x.com/SaitoWu/status/2124849443161899511"
+      "title": "NVIDIA 教程：用 Hugging Face Diffusers 在 12 GB 显存 GPU 上本地运行 Cosmos 3 Nano",
+      "plain": "英伟达出教程：一块普通家用显卡就能在自己电脑上跑视频生成模型",
+      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "time": "2026-11-24T19:26:19.830Z",
+      "aihot": "https://aihot.news/items/gywnlniruj9uh7ksamhlg9xpp",
+      "original": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/"
     },
     {
       "sec": "tips",
-      "title": "Anthropic 发布编码智能体企业安全指南，详解 Claude Code 分层防护",
-      "plain": "Anthropic 发了份企业用编码 AI 的安全手册，讲清权限该怎么分层",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-11-23T20:45:17.548Z",
-      "aihot": "https://aihot.news/items/syhi53bx4s1aicx0l7947wxzj",
-      "original": "https://claude.com/blog/enterprise-guide-to-securing-coding-agents"
+      "title": "Pragmatic Engineer 征文挑战赛公布三个类别获奖文章，聚焦 AI 重塑软件工程实践",
+      "plain": "知名技术刊物公布 AI 改变编程的获奖文章，一线程序员的经验之谈",
+      "source": "Pragmatic Engineer（RSS）",
+      "time": "2026-11-24T20:03:23.139Z",
+      "aihot": "https://aihot.news/items/fw44y4qon4g180bzp67sq8iip",
+      "original": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge"
     },
     {
       "sec": "tips",
-      "title": "Tomasz Tunguz 解析 AI 工厂的共同四步循环：context、agent、trace、curator",
-      "plain": "投资人总结 AI 产品共同套路：先给背景、再派任务、留记录、做整理",
-      "source": "Tomasz Tunguz 博客（VC 分析）",
-      "time": "2026-11-23T16:40:16.126Z",
-      "aihot": "https://aihot.news/items/r0a3niajw4ynv3y0akdelx1f8",
-      "original": "https://tomtunguz.com/what-kind-of-factory-will-you-build/"
+      "title": "诺华 CEO 纳拉辛汉：AI 十年内治不好癌症，只能把新药研发周期从 12 年缩至 8 年",
+      "plain": "大药企 CEO 泼冷水：AI 十年内治不好癌症，但能把新药研发从 12 年缩到 8 年",
+      "source": "IT之家·人工智能",
+      "time": "2026-11-24T09:47:28.194Z",
+      "aihot": "https://aihot.news/items/e7iuxmgld7hkddvfesapvsj34",
+      "original": "https://www.ithome.com/1/031/705.htm"
+    },
+    {
+      "sec": "tips",
+      "title": "历史学者用 GPT-6.2 Astra 在 22 分钟内确认 1808 年匿名画册作者",
+      "plain": "历史学者用 AI 在 22 分钟内破解了一桩 200 多年的画作作者悬案",
+      "source": "Simon Willison 博客",
+      "time": "2026-11-24T17:39:40.438Z",
+      "aihot": "https://aihot.news/items/hh1sy79ycmfmbc1netdxsx1kf",
+      "original": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
     }
   ],
   "weekly": []
